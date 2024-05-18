@@ -2,86 +2,66 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-  }
-  body {
-	  color:#111111;
-	  text-align: center;
-  }
-  h1 {
-	  background-color: #DDE0E3;    /* Light gray */
-	  text-align: center;
-	  font-size: 1.7em;
-	  font-weight: bold;
-	  padding: 20px 15px;
-	  border-bottom: 2px solid #9c2e2e;
-	  border-radius: 10px;
-	}
-  p {
-	  color: #524b4b;
-	  font-size: 16px;
-	  margin: 10px 0px 500px 0px;
-  }
-  ul, ol{
+ }
+body {
+	color: #F7F7FF;
+	background-color: #131112;
+	/* font-family: */
+}
+h1 {
+	background-color: #131112; /* Light gray */
+	font-size: 1.7em;
+	font-weight: bold;
+	padding: 0px, 5px, 0px, 5px;
+	margin-bottom: 20px;
+	border-bottom: 2px solid #D66853;
+	border-radius: 10px;
+}
+h2 {
+	font-size: 1.4em;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+p {
+	font-size: 16px;
+	margin-bottom: 10px;
+}
+ul, ol{
 	 margin-bottom: 10px;
-  }
-  em, strong {
-	  background-color: #B2D6FF;    /* Light blue */
-	}
-  a:link {
-	color: green;
+}
+em, strong {
+	 
+}
+a:link {
+	color: #37A5FA;
 	text-decoration: none;
-  }
-  a:visited {
-	color: orange;
-  }
+}
+a:visited {
+	color: #D66853;
+}
   a:active {
 	color: red;
   }
   
   /* classes */
-  .page{
-	 width: 1000px;
-	 margin: 0 auto;
-  }
-  
-  .intro{
-	 color: #7E8184;
-	 font-style:italic;
-  }
-  .intro em{
-	 font-style: normal;
-  }
-  
-  .button:link, .button:visited {
-	display: block;
-	text-decoration: none;
-	 
-	color: #FFF;
-	background-color: #5995DA;
-	font-weight: bold;
-	padding: 20px;
+.page {
+	margin: 0 auto;
+	text-align: center; /* remove later*/
+}
+.header li {
+	float: left;
 	text-align: center;
-	border: 2px solid #5D6063;
+	width: 33%;
+	list-style-type: none;
+}
+.update {
+	display: block;
+	border: 2px solid #FFF;
 	border-radius: 10px;
-	 
 	width: 300px;
-	margin: 20px auto;
-	box-sizing: border-box; 
-  }
-  .button:hover, .button:visited:hover{
-	background-color: #000000;
-  }
-  .button:active, .button:visited:active {
-	color: #FFF;
-	background-color: #5995DA;  /* Blue */
-  }
-  /* button classes */
-  .warning:link, .warning:visited{
-	 color: #000000;
-	 background-color: #a9e0c9;
-	 font-style: italic;
-  }
-  .warning:active, .warning:visited:active {
-	color: #FFF;
-	background-color: #5995DA;  /* Blue */
-  }
+	box-sizing: border-box;
+}
+.footer {
+	text-align: center;
+	margin: 100px 0px 40px 0px;
+}
