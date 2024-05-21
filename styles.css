@@ -30,6 +30,10 @@ ul {
 	margin-bottom: 10px;
 	list-style-type: none;
 }
+
+li {
+	margin-bottom: 5px;
+}
 em, strong {
 	 
 }

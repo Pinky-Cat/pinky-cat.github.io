@@ -1,2 +1,5 @@
+# Folders that aren't part of the website.
+
 Test/
 .vs/
+PythonMarkdown/
