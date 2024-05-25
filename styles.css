@@ -25,6 +25,7 @@ h2 {
 p {
 	font-size: 16px;
 	margin-bottom: 10px;
+	line-height: 1.5em;
 }
 ul {
 	margin-bottom: 10px;
@@ -32,7 +33,7 @@ ul {
 }
 
 li {
-	margin-bottom: 5px;
+	line-height: 1.5em;
 }
 em, strong {
 	 
@@ -50,7 +51,6 @@ a:visited {
   
 /* classes */
 .page {
-	min-width: 900px;
 	max-width: 1800px;
 	margin: 0 auto;
 	background-color: #35394555;
@@ -100,4 +100,17 @@ a:visited {
 	display: flex;
 	justify-content: space-around;
 	padding: 100px 0px 20px 0px;
+}
+
+/* mobile classes */
+@media only screen and (max-width:600px) {
+	.page {
+		margin: 0 auto;
+		background-color: #231112;
+	}
+	.core {
+		margin: 100px 0px 0px 0px;
+		display: flex;
+		flex-wrap: wrap;
+	}
 }
