@@ -6,15 +6,14 @@
 body {
 	color: #F7F7FF;
 	background-color: #131112;
-	/* font-family: */
+	font-family: Meiryo, sans-serif;
 }
 h1 {
-	background-color: #131112; /* Light gray */
 	font-size: 1.7em;
 	font-weight: bold;
 	padding: 0px, 5px, 0px, 5px;
 	margin-bottom: 20px;
-	border-bottom: 2px solid #D66853;
+	border-bottom: 2px solid #37A5FA;
 	border-radius: 10px;
 }
 h2 {
