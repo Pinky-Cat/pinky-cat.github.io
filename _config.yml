@@ -1,3 +1,5 @@
 # Where things are
+source				: ./Website
 destination         : ./_site
+
 

@@ -42,11 +42,11 @@ a:link {
 	text-decoration: none;
 }
 a:visited {
-	color: #D66853;
+	color: #D3C093;
 }
-  a:active {
-	color: red;
-  }
+a:active {
+	color: #725AC1;
+}
   
 /* classes */
 .page {
