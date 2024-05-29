@@ -4,7 +4,7 @@
 	box-sizing: border-box;
 }
 body {
-	color: #F7F7FF;
+	color: #FFFAE5;
 	background-color: #131112;
 	font-family: Meiryo, sans-serif;
 }
@@ -24,7 +24,7 @@ h2 {
 p {
 	font-size: 16px;
 	margin-bottom: 10px;
-	line-height: 1.5em;
+	line-height: 1.6em;
 }
 ul {
 	margin-bottom: 10px;

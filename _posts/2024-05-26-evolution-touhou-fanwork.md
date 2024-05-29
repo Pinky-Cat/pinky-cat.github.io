@@ -3,10 +3,8 @@ layout: post
 title:  "A Tidbit on the Evolution of Touhou Fanworks"
 date: 2024-05-26
 tags: touhou
-permalinl : /touhou
+permalink : /touhou
 ---
-
-# A Tidbit on the Evolution of Touhou Fanworks
 Today, I read [*The Right Tools For The Job*](https://archiveofourown.org/works/43380529?view_full_work=true) by freshlybakedspiderbread, and its manages to be quite in-character in its characterization of Kogasa, Raiko, and Sakuya, but still manages to be one of the most funniest pieces of Touhou fanfiction I ever read. It made me consider that Touhou fanworks in today's era have evolved a unique language when compared to past fanworks.
 
 I used to read all the Touhou doujinshi I could find, going on a [reading journey](https://ayearofreadingtheworld.com/thelist/) that started on doujinshi released on [Dynasty Reader](https://dynasty-scans.com/doujins/touhou_project) from the period of 2019 to January 30, 2006, when the [first scanlated Touhou doujinshi](https://dynasty-scans.com/chapters/its_not_a_dream) was released on the internet. The journey was completed on June 27, 2023, and is now saved as a highlighted doujinshi list on Tachiyomi.
@@ -23,9 +21,9 @@ Nowadays, while the Touhou community still laughs at *Cirno's Perfect Math Class
 
 Now dear reader, regardless if you are a Touhou fan or not, I recommend the following Touhou fanworks to anyone:
 
-- *[The Right Tools For The Job](https://archiveofourown.org/works/43380529?view_full_work=true)*, - for giving me the spark to write this piece for its excellent in-character writing.
+- [*The Right Tools For The Job*](https://archiveofourown.org/works/43380529?view_full_work=true) - for giving me the spark to write this piece for its excellent in-character writing.
 - [*suite ad astra*](https://crescentia.bandcamp.com/album/suite-ad-astra) - for the bringing an array of moods as I wrote this by being a wonderful orchestral album.
 - [*Moon River*](https://www.reddit.com/r/touhou/comments/eol6d1/i_just_finished_typesetting_my_favorite_doujin/) - for referencing a song that one might find for *Breakfast at Tiffany's*.
 - [*Stroke of Fake*](https://www.youtube.com/watch?v=iX7nsZn9k8Q) - as one of the few Touhou Ska albums out there.
-- [*プリズムリバー三姉妹のソロ!*](https://www.youtube.com/watch?v=50HLMUWAdaw) - by creating an [analysis](https://note.com/yuki_02010/n/nc766fe2e4128) - on the Prismriver sisters to create the album.
+- [*プリズムリバー三姉妹のソロ!*](https://www.youtube.com/watch?v=50HLMUWAdaw) - by creating an [analysis](https://note.com/yuki_02010/n/nc766fe2e4128) on the Prismriver sisters to create the album.
 - [*A Strange Dance Gathering*](https://scarlet.nsk.sh/book/org-1130662) - as an amusing short story featuring Alice's dolls.
