@@ -1,5 +1,5 @@
 # Where things are
 destination         : ./_site
-permalink: /:title/
+permalink: /:title:output_ext
 
 
