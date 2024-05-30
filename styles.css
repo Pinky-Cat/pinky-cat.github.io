@@ -54,7 +54,7 @@ a:active {
   
 /* main classes */
 .page {
-	max-width: 1600px;
+	width: 90%;
 	margin: 0 auto;
 	background-color: #131112;
 	/* background-color: #35394555; transpancy color*/
@@ -75,15 +75,15 @@ a:active {
 	justify-content: center;
 }
 .header {
-	width: 50%;
-	margin: 0px 0px 50px 0px;
+	width: 70%;
+	margin: 0px 0px 60px 0px;
 	border-bottom: 1px solid #fff;
 	text-align: center;
 }
 .header ul li {
 	width: 250px;
 	display: inline-block;
-	margin: 10px 0px 10px 0px;
+	margin: 0px 0px 10px 0px;
 }
 .box {
 	display: block;

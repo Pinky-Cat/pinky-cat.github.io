@@ -3,7 +3,7 @@ layout: post
 title:  "A Tidbit on the Evolution of Touhou Fanworks"
 date: 2024-05-26
 tags: touhou
-permalink : /touhou
+permalink : 
 ---
 Today, I read [*The Right Tools For The Job*](https://archiveofourown.org/works/43380529?view_full_work=true) by freshlybakedspiderbread, and its manages to be quite in-character in its characterization of Kogasa, Raiko, and Sakuya, but still manages to be one of the most funniest pieces of Touhou fanfiction I ever read. It made me consider that Touhou fanworks in today's era have evolved a unique language when compared to past fanworks.
 
