@@ -6,6 +6,7 @@
 body {
 	color: #FFFAE5;
 	background-color: #131112;
+	background-image: url(/images/stars.png);
 	font-family: Meiryo, sans-serif;
 }
 h1 {
@@ -56,10 +57,13 @@ a:active {
 .page {
 	width: 90%;
 	margin: 0 auto;
-	background-color: #131112;
+	background-color: #131112FF;
 	/* background-color: #35394555; transpancy color*/
 	/* border: 1px solid #fff; */
 	/* border-radius: 10px; */
+}
+.center{
+	text-align: center;
 }
 .intro {
 	text-align: center;
@@ -75,13 +79,13 @@ a:active {
 	justify-content: center;
 }
 .header {
-	width: 70%;
+	width: 60%;
 	margin: 0px 0px 60px 0px;
 	border-bottom: 1px solid #fff;
 	text-align: center;
 }
 .header ul li {
-	width: 250px;
+	width: 30%;
 	display: inline-block;
 	margin: 0px 0px 10px 0px;
 }
@@ -93,12 +97,11 @@ a:active {
 	box-sizing: border-box;
 	text-align: center;
 }
-.box update {
-	text-align: center; /* remove later*/
+.update {
+	/* TODO */
 }
-.box data-list {
-	display: flex;
-	justify-content: center;
+.datalist {
+	/* TODO */
 }
 .footer {
 	text-align: center;
@@ -115,10 +118,10 @@ a:active {
 	font-size: 1em;
 }
 /* mobile classes */
-@media only screen and (max-width:600px) {
+@media only screen and (max-width:750px) {
 	.page {
 		margin: 0 auto;
-		background-color: #231112;
+		background-color: #231112FF;
 	}
 	.core {
 		margin: 100px 0px 0px 0px;
