@@ -23,21 +23,32 @@ h2 {
 }
 p {
 	font-size: 16px;
+	margin-top: 10px;
 	margin-bottom: 10px;
 	line-height: 1.6em;
 }
 ul {
 	list-style-type: none;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
-
 li {
 	line-height: 1.5em;
+	margin-left: 1em;
 }
 em, strong {
 	 
 }
 table {
-	/* TODO */
+	border-collapse: collapse;
+}
+
+th, td {
+	border: 1px solid white;
+	padding: 0.5em;
+}
+thead th {
+  width: 25%;
 }
 a:link {
 	color: #37A5FA;
@@ -55,7 +66,11 @@ a:active {
 	margin-right: auto;
 	width: 10%;
 }
-  
+ 
+/* format classes*/
+.no-margin li{
+	margin-left: 0em;
+}
 /* main classes */
 .page {
 	width: 90%;

@@ -3,7 +3,7 @@ layout: touhou-website-index
 title:  "Touhou Website Index"
 date: 2024-06-05
 tags: 
-permalink : 
+permalink: 
 ---
 
 Added Lina Ciari, IonicFox, 106 Touhou Posters, Sumireko's Chuunihipster Travelogue ~ Out of the Ordinary and Unorthodox Touhou Music, Do haniwa dream of ceramic sheep?, Where does ZUN draws his fashion sense for some of the designs of the girls?, Hifuu Community Club
@@ -258,4 +258,4 @@ The index also acts as a record keeper for when Touhou content on the web is for
 | [106 Touhou Posters](https://beacetina.com/106-touhou-posters) | Poster projects of Touhou characters. |  |
 | [Sumireko's Chuunihipster Travelogue ~ Out of the Ordinary and Unorthodox Touhou Music](https://rateyourmusic.com/list/Demobanker/sumirekos-chuunihipster-travelogue-out-of-the-ordinary-and-unorthodox-touhou-music/1/) | A list of some unusual Touhou music.
 | [Touhou Project ft. GS System (Canceled)](https://www.kickstarter.com/projects/18592227/touhou-project-ft-gs-system/description) | Kickstarter from 2014. Example of ZUN’s fanwork rules at the time, which begs the question of what does ZUN’s rules mean?
-| [Where does ZUN draws his fashion sense for some of the designs of the girls?](https://huppaduppa.tumblr.com/post/121357009631/where-does-zun-draws-his-fashion-sense-for-some-of) | Pulls sources on where Touhou clothing came from.
+| [Where does ZUN draws his fashion sense for some of the designs of the girls?](https://huppaduppa.tumblr.com/post/121357009631/where-does-zun-draws-his-fashion-sense-for-some-of) | Pulls sources on where Touhou clothing came from. |  |

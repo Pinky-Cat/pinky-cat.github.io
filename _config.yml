@@ -5,30 +5,6 @@ permalink: /:title:output_ext
 # Markdown
 markdown: kramdown
 kramdown:
-  input: 
-  hard_wrap: 
-  gfm_emojis: 
-  auto_id_prefix: 
-  auto_id_stripping: 
   auto_ids: true
-  entity_output: 
-  footnote_backlink: 
-  footnote_backlink_inline: 
-  footnote_nr: 
-  footnote_prefix: 
-  header_offset: 
-  html_to_native: 
-  latex_headers: 
-  line_width: 
-  math_engine: 
-  parse_block_html: 
-  parse_span_html: 
-  remove_block_html_tags: 
-  remove_line_breaks_for_cjk: 
-  remove_span_html_tags: 
-  smart_quotes: 
-  syntax_highlighter: 
-  template: 
-  transliterated_header_ids: 
-
+ 
 
