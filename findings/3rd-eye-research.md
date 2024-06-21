@@ -151,7 +151,7 @@ As a bonus, here is an assorted list of artworks Kotoinari has done over the yea
 
 ## True Ending Transcript
 
-Extracted from 3rd Eye files for true ending text. Translated using DeepL.
+[Video of True Ending](https://youtu.be/9q1Nj1gTrOQ?si=u8Kc5b5_ZEfdT9U6). True ending text was extracted from the game files.
 
 | Speaker    | Original                 | Machine Translation                                                        |
 | ---------- | ------------------------ | -------------------------------------------------------------------------- |
@@ -167,7 +167,7 @@ Extracted from 3rd Eye files for true ending text. Translated using DeepL.
 | Inquisitor | "お仕事は何を？"                | What do you do for a living?                                               |
 | Koishi     | "ご存じでしょ"                 | You know what I do.                                                        |
 | Inquisitor | "無職"                     | No job.                                                                    |
-| Koishi     | "ええ"                     | No job.                                                                    |
+| Koishi     | "ええ"                     | Yes.                                                                    |
 | Inquisitor | "するとあの晩には"               | So that night...                                                           |
 | Koishi     | "どの晩ですか"                 | Which night?                                                               |
 | Inquisitor | "事故の晩です"                 | The night of the accident.                                                 |
@@ -187,7 +187,7 @@ Extracted from 3rd Eye files for true ending text. Translated using DeepL.
 | Koishi     | "何も"                     | Nothing.                                                                   |
 | Inquisitor | "なるほど"                   | I see.                                                                     |
 | Inquisitor | "こんな言葉があります……"           | There's a saying……                                                         |
-| Inquisitor | "暇な手は悪魔の作業場……"           | "Idle hands are the devil's workshop……”                                    |
+| Inquisitor | "暇な手は悪魔の作業場……"           | Idle hands are the devil's workshop……                                    |
 | Koishi     | "存じ上げませんわね"              | I'm afraid I don't know it.                                                |
 | Inquisitor | "人間暇だとロクなことをしない"         | People don't do a lot of good when they're bored.                          |
 | Koishi     | "そうかしら"                  | I don't think so.                                                          |
