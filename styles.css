@@ -23,14 +23,14 @@ h2 {
 }
 p {
 	font-size: 16px;
-	margin-top: 10px;
-	margin-bottom: 10px;
+	margin-block-start: 1em;
+	margin-block-end: 1em;
 	line-height: 1.6em;
 }
 ul {
 	list-style-type: none;
-	margin-top: 10px;
-	margin-bottom: 10px;
+	margin-block-start: 10px;
+	margin-block-end: 10px;
 }
 li {
 	line-height: 1.5em;
@@ -49,6 +49,14 @@ th, td {
 }
 thead th {
   width: 25%;
+}
+blockquote {
+	border-left: solid 4px;
+	padding: .1rem .1rem .1rem .4rem;
+	color: #44dc59;
+	border-color: rgba(70, 136, 71, 0.6);
+	overflow-x: auto;
+	/*understand this*/
 }
 a:link {
 	color: #37A5FA;
@@ -72,13 +80,18 @@ a:active {
 	margin-left: 0em;
 }
 /* main classes */
-.page {
+.page-container {
 	width: 90%;
 	margin: 0 auto;
 	background-color: #131112FF;
 	/* background-color: #35394555; transpancy color*/
-	/* border: 1px solid #fff; */
+	border: 1px solid #fff; */
 	/* border-radius: 10px; */
+}
+.page {
+	width: 90%;
+	margin: 0 auto;
+	/* padding-bottom: 70px; */
 }
 .center{
 	text-align: center;

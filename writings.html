@@ -4,26 +4,28 @@
 <html lang='en'>
 <head>
     <meta charset='UTF-8' />
-    <title>Pinky's Observatory</title>
+    <title>Writings - Pinky's Observatory</title>
     <link rel='stylesheet' href='styles.css' />
 </head>
 <body>
-    <div class="page">
-        <div class="header-container">
-             <h1 class="header">Writings</h1>
-        </div>
-        <p class="intro">Entries may be based upon fandom history. You have been warmed.</p>
-        <ul class="core">
-            <ul>
-                {% for post in site.posts %}
-                <li class="post">
-                    <p><a href="{{ post.url }}">{{ post.title }}</a></p>
-                </li>
-                {% endfor %}
+    <div class='page-container'>
+        <div class="page">
+            <div class="header-container">
+                <h1 class="header">Writings</h1>
+            </div>
+            <p class="intro">Entries may be based upon fandom history. You have been warmed.</p>
+            <ul class="core">
+                <ul>
+                    {% for post in site.posts %}
+                    <li class="post">
+                        <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+                    </li>
+                    {% endfor %}
+                </ul>
             </ul>
-        </ul>
-        <div class="footer">
-            <p class="footer"><a href="index.html">Back to Observatory</a></p>
+            <div class="footer">
+                <p class="footer"><a href="index.html">Back to Observatory</a></p>
+            </div>
         </div>
     </div>
 </body>
