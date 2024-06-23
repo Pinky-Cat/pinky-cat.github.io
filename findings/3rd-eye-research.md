@@ -198,7 +198,7 @@ As a bonus, here is an assorted list of artworks Kotoinari has done over the yea
 | Koishi     | "狭い家に帰ってまたお仕事"           | You have to go home to your little house and work again.                   |
 | Inquisitor | "みんなそうです"                | We all do.                                                                 |
 | Koishi     | "どうかしら"                  | I don't know.                                                              |
-| Inquisitor | "単刀直入に！"                 | I don't know.                                                              |
+| Inquisitor | "単刀直入に！"                 | To put it simply!                                                              |
 | Inquisitor | "現場にはブレーキ痕なし"            | No brake marks at the scene.                                               |
 | Inquisitor | "ブレーキの痕がなかった"            | There were no brake marks.                                                 |
 | Koishi     | "心中ですもの"                 | It was a suicide.                                                          |
@@ -286,7 +286,7 @@ As a bonus, here is an assorted list of artworks Kotoinari has done over the yea
 | Satori     | "……それはいやです"              | I don't think that's a good idea.                                          |
 | Inquisitor | "専門家に頼った方がいい"            | I think you should seek professional help.                                 |
 | Inquisitor | "あなたにとっても"               | For you.                                                                   |
-| Inquisitor | "こいしさんにとっても"             | For you and for Mr. Koishi.                                                |
+| Inquisitor | "こいしさんにとっても"             | For you and for Ms. Koishi.                                                |
 | Satori     | "施設が何をしてくれるんです"          | What does the institution do for you?                                      |
 | Inquisitor | "教育です"                   | Education.                                                                 |
 | Inquisitor | "…………例えば、思いやりとか"         | ............for example, how to be compassionate.                          |

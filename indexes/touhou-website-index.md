@@ -2,22 +2,17 @@
 layout: touhou-website-index
 title:  "Touhou Website Index"
 date: 2024-06-05
+update: 2024-06-23
 tags: 
 permalink: 
 ---
 
-Added Lina Ciari, IonicFox, 106 Touhou Posters, Sumireko's Chuunihipster Travelogue ~ Out of the Ordinary and Unorthodox Touhou Music, Do haniwa dream of ceramic sheep?, Where does ZUN draws his fashion sense for some of the designs of the girls?, Hifuu Community Club
-In light of Awesome Touhou, this index will switch to indexing more niche contents of Touhou as to clean up the list to better show Touhou across the Internet.
-The cleanup has removed some dead links
+In light of Awesome Touhou, this index will switch to indexing more niche contents of Touhou as to clean up the list to better show Touhou across the Internet. The pervious version of the index has been kept for archive purposes.
 	Any contribution, issues, or suggestion can be forwarded under the contacts listed under this [channel](https://youtube.com/@pinkycat0110?si=srPFXeVHIOWXEePD).
-[TOC]
 ## Foreword
 As an extension to the foreword in [Awesome Touhou](https://github.com/Gri-49/awesome-touhou) and the wishes expressed in [The Independent Web of 2hu - A Dream of Eastern Turnpikes](https://www.tekitou.moe/posts/2023-04-18-tuhupike.html), this index will catalog any parts of the web that contain any noteworthy Touhou content.
 The index also acts as a record keeper for when Touhou content on the web is forgotten as new Touhou content gets created and as social networks change or breakup. Hopefully, we see Touhou not become forgotten like the rest of Gensokyo was.
-🇯🇵
-🇬🇧
-🇨🇳
-🇰🇷
+
 ## Information
 
 | Name | Description | Language |
@@ -39,7 +34,6 @@ The index also acts as a record keeper for when Touhou content on the web is for
 | [Stock Image Origins](http://ohgosho.ehoh.net/) | Catalog of stock images ZUN used in his games. | 🇯🇵 |
 | [Unfinished Phastasm](http://theylivewesleep.blog.fc2.com) | Transcribes ZUN's drunk broadcasts. | 🇯🇵 |
 | [Goka](http://circle-goka.blog.jp/) | Circle which does market analysis on Touhou and its audience. | 🇯🇵 |
-| [Gensokyo Institute](https://gensokyoinstitute.wordpress.com/2014/10/20/a-coasean-solution-to-the-scarlet-devil-incident/) | 2014-2015 Wordpress blog by an author who took Economics as their degree. |🇬🇧  |
 | [Touhou Memories](https://touhou-memories.com/) | A catalog of version differences in Touhou games. | 🇬🇧 |
 | [Fans of the Touhou Project](https://fansofthetouhouproject.weebly.com/) | A student project website with a basic understanding on the factors that led to Touhou's popularity. | 🇬🇧 |
 
@@ -65,12 +59,16 @@ The index also acts as a record keeper for when Touhou content on the web is for
 | [RickyRister](https://rickyrister.wordpress.com/) | Blog posts on Touhou style albums. | 🇬🇧 |
 | [Tiramisu Cowboy](https://tiramisucowboy.com/) | A BUTAOTOME fan along with doujin blog posts. | 🇬🇧 |
 | [Do haniwa dream of ceramic sheep?](https://yamayuandadu.tumblr.com/) | Infinite amount of historical references to Touhou. | 🇬🇧 |
+ | [にしかわ](https://twpf.jp/nishikawa_huton) | The amount of Touhou games, meetings, events, and companies they were apart of is staggering. | 🇯🇵 |
+| [Gensokyo Institute](https://gensokyoinstitute.wordpress.com/2014/10/20/a-coasean-solution-to-the-scarlet-devil-incident/) | 2014-2015 Wordpress blog by an author who took Economics as their degree. | 🇬🇧 |
+| [PakZhang](https://panzerabwehrkanone.wordpress.com/)   |  A person who is more familiar with overseas Touhou communities than the locals | 🇬🇧, 🇨🇳 |
 
 ### Discussion
 
 | Name | Description | Language |
 | ---- | ----------- | -------- |
 | [List of Forums](https://moriyashrine.org/forums/topic/1452-touhou-link-list/) | A list of forums (and other websites) about Touhou from all around the world. |  🇬🇧 |
+| [GensokyoVN](https://vntouhouff.forumvi.com/) | All forum link start with a broken domain. Replace the domain with vntouhouff.forumvi.com |   |
 | [2ch Archive](http://blog.livedoor.jp/coleblog/) | Collection of Touhou posts from 2chan. | 🇯🇵 |
 
 ## Video
@@ -92,6 +90,7 @@ The index also acts as a record keeper for when Touhou content on the web is for
 | [Kyoto Fantasy Troupe](http://kyotofantasytroupe.net/?lang=zh_cn) | Storyboards for Hifuu Club Activity Record anime. | 🇬🇧 |
 | [Flandre Scarlet Collaboration](https://tauminust.wixsite.com/touhou-flandre) | Art collab from South Korea. | 🇰🇷 |
 | [Plushie's Patchwork Phactory](https://not-articulated.neocities.org/) | Artist gallery. | 🇬🇧 |
+| [Mima](https://mima-sama.neocities.org/) | I'm a fan-artist, and decided to make this website as a place to showcase some of my artwork! | 🇬🇧 |
 
 ### Gallery
 
@@ -126,6 +125,7 @@ The index also acts as a record keeper for when Touhou content on the web is for
 | Name | Description | Language |
 | ---- | ----------- | -------- |
 | [Touhou Piano Library](https://touhou.pub/touhou_piano_library/index.html) | Sorts piano arrangements by music track. | 🇬🇧 |
+| [MIDI collection - Touhou Project](https://gamebanana.com/projects/35179) | Touhou MIDIs | 🇬🇧 |
 
 ## Literature
 
@@ -135,6 +135,7 @@ The index also acts as a record keeper for when Touhou content on the web is for
 | [Touhou Doujinshi Index](https://scarlet.nanoskript.dev/) | Indexes translations from Danbooru, Dynasty Reader, Mangadex, and E-hentai in one searchable list. | 🇬🇧 |
 | [Archive of Our Own](https://archiveofourown.org/users/UnmovingGreatLibrary/pseuds/UnmovingGreatLibrary/works?fandom_id=257095)| | 🇬🇧 |
 | [fanfiction.net](https://m.fanfiction.net/game/Touhou-Project/?srt=1&t=0&g1=0&g2=0&r=10&lan=0&len=0&s=0&c1=0&c2=0&c3=0&c4=0&_g1=0&_c1=0&_c2=0) | Used to be the most popular fanfiction site until AO3 was publicly available online in 2009. | 🇬🇧 |
+| [SpaceBattles](https://forums.spacebattles.com/tags/touhou-project/) | Features crossovers and CYOA quests as well. | 🇬🇧 |
 | [Magic Archive Voile](https://web.archive.org/web/20190605220140/http://voile.gensokyo.org/1.html) | Forum board for translation discussions & doujinshi scans. Disappeared somewhere in 2019. | 🇬🇧 |
 | [Coolier](https://coolier.net/sosowa/ssw_l/) | The oldest Touhou fanfiction website. | 🇯🇵 |
 
@@ -217,45 +218,56 @@ The index also acts as a record keeper for when Touhou content on the web is for
 | [ddiction](http://ddiction.org/index.html) | Inactive international circle created by KirbyM. | 🇬🇧 |
 | [Pockethouse](https://web.archive.org/web/20080912150639/http://www.pockethouse.com/) | A website from 2000s Touhou Western fandom that hosted “Another Dream”. | 🇬🇧 |
 
+
+## Doujin Circles
+
+| Name | Description | Language |
+| ---- | ----------- | -------- |
+| [donjuan](https://www.donjuantriumph.com/) | Website for their hand-drawn Touhou serieses such Wheelchair Detective Satori. | 🇯🇵 |
+| [DRUNK Project](https://drunkies.wixsite.com/drunk-project) | Touhou doujin circle from Indonesian-speaking communities. | 🇮🇩 |
+| [Touhoppai](https://touhoppai.moe/index.html) | French Touhou Circle | 🇫🇷 |
+| [Paradise of Boundaries](https://www.youtube.com/@ParadiseofBoundaries/videos) | Hispanic Circle that has also published their fan magazine, "Bunbunmaru Extra" | 🇪🇸 |
+
 ## Miscellaneous
 
 | Name | Description | Language |
 | ---- | ----------- | -------- |
 | [lilywhite](https://cloud.lilywhite.cc/) | File system of games, music, books, and anything else this fandom of Touhou produces. | 🇨🇳 |
-| [Touhoppai](https://touhoppai.moe/index.html) | French Touhou Circle | 🇫🇷 |
-| [Paradise of Boundaries](https://www.youtube.com/@ParadiseofBoundaries/videos) | Hispanic Circle that has also published their fan magazine, "Bunbunmaru Extra" | 🇪🇸 |
 | [Alice is great!](https://www.alicemargatroid.moe/) | A fanpage for Alice Margatroid. | 🇬🇧 |
-| [DRUNK Project](https://drunkies.wixsite.com/drunk-project) | Touhou doujin circle from Indonesian-speaking communities. | 🇮🇩 |
 | [東方 ~ Touhou Fans Club](https://m.vk.com/touhougroup) | VK group with links to Russian Touhou artists. | 🇷🇺 |
 | [The Oriental Zero](http://zeroharem.blogspot.com/) | Hispanic blog last updated on 2015. Facebook group still active to this day. | 🇪🇸 |
 | [Lina Ciari](https://www.udomyon.com/) | I'm an multidisciplinary artist — illustrator, comic artist, animator and game developer — currently living in São Paulo state, in southeast Brazil. | 🇬🇧 |
 | [Touhou Lost Media](https://moriyashrine.org/forums/topic/2428-touhou-lost-media/) | A trove of lost content ranging from games to an entire video archive of real life Touhou events. | 🇬🇧 |
+| [Protect_My_Jealousy](https://www.reddit.com/r/Protect_My_Jealousy/)   | Cataloged Japan travelogues and Touhou goods by /u/Protect_My_Garage from 2014-2016. | 🇬🇧 |
+| [Sam Roaringwish Spectatorsatroi](https://roaringwish.carrd.co/#) | Hungarian artist, writer, and translator.  | 🇬🇧 |
+| [Fumology](https://fumo.systems/) | A collection of fumo lore over the years | 🇬🇧 |
 
 ## Oneshot Posts
 
 | Name | Description | Language |
 | ---- | ----------- | -------- |
-| [The Perfectionist Trap of Nostalgia](https://capitalcityofflowersinthesky.wordpress.com/2014/06/09/the-perfectionist-trap-of-nostalgia-pricked-by-a-shining-needle/#comments) | About the trap of nostalgia in relation to the amount of fans who listened, created, or played the newest game of Touhou, DDC.
-| [Cosplay Purchase](https://punderfullll.tumblr.com/post/730951981259259904/where-would-you-recommend-looking-to-purchase) | Information on Touhou cosplay purchases.
+| [The Perfectionist Trap of Nostalgia](https://capitalcityofflowersinthesky.wordpress.com/2014/06/09/the-perfectionist-trap-of-nostalgia-pricked-by-a-shining-needle/#comments) | About the trap of nostalgia in relation to the amount of fans who listened, created, or played the newest game of Touhou, DDC. | 🇬🇧 |
+| [Cosplay Purchase](https://punderfullll.tumblr.com/post/730951981259259904/where-would-you-recommend-looking-to-purchase) | Information on Touhou cosplay purchases. | 🇬🇧 |
 | [A Musical Interpretation of The Ghost Band and The Three Prismatic River Sisters](https://note.com/yuki_02010/n/nc766fe2e4128) | By doujin circle 白鷺ゆっきー, who would create a Prismriver album with this analysis. | 🇯🇵 |
-| [THE MOST CULTURED MEME: NEW TRANSLATION REVEALS HIDDEN DEPTH IN “JAPANESE GOBLIN”](https://lostinlocalization.com/japanese-goblin/) | An analysis of its confusing lyrics in Japanese.
-| [Riding on Fans’ Energy: Touhou, Fan Culture, and Grassroot Entertainment](https://web.archive.org/web/20080907000753/http://cardcaptor.moekaku.com/2008/09/01/riding-on-fans-energy-touhou-fan-culture-and-grassroot-entertainment/) | 2008 talk on "why Touhou is so popular".
-| [TouhouCon illustrator Guests of Honor: Banpai Akira, Sunao and Shinoasa](https://www.shrinemaiden.org/forum/index.php?PHPSESSID=pfg7ve005h0u5thkkpvn8i74m6&topic=18725.0) | About panels during TouhouCon 2015.
-| [Touhou at the academic conference Replaying Japan 2015](https://www.shrinemaiden.org/forum/index.php?topic=18476.0) | Studies that included Touhou, through I would say they are less on Touhou and more about superfluous subjects. Check out China for studies on Touhou itself.
-| [After 12 years, the Dolls in Pseudo Paradise story has been fully restored](https://www.shrinemaiden.org/forum/index.php?topic=17654.0) | Changed theories on what DiPP meant.
-| [アニメ店長×東方Project](https://moriyashrine.org/gallery/album/120-%E3%82%A2%E3%83%8B%E3%83%A1%E5%BA%97%E9%95%B7%C3%97%E6%9D%B1%E6%96%B9project/) | Storyboards of lost OVA Anime Tenchou x Touhou Project.
-| [Touhou R18 Rate Research](https://xiaogenintendo.github.io/2020/11/19/touhou-r18-research/) | From 2020-2022 there were 3 rounds of collection on the amount R18 Touhou works for each Touhou character on Pixiv. |  |
-| [Touhou Pixiv Tag Research](https://moriyashrine.org/forums/topic/1031-touhou-pixiv-tag-research/) | A more intense research round on the amount of art produced each year of a Touhou character from 2007-2022 on Pixiv.
-| [VSBattles](https://vsbattles.com/threads/touhou-discussion-thread-3-touhou-19-edition.136230/page-50) | A forum all about power scaling debates, if you into checking those sorts of debates out.
-| [Touhou Project and the Single-Gender World](https://androgynousanime.blogspot.com/2014/02/touhou-project-and-single-gender-world.html) | Analysis of the thematic impacts of a world composed of a single gender.
-| [ZUN and Touhou status update](https://www.shrinemaiden.org/forum/index.php?PHPSESSID=r1ctvvupj4dc333au1al6ecr57&topic=14315.0) | A set of threads ranging from 2013 to 2015 about ZUN, friends, management, games, manga, rumors, and Reitaisai. There is also a subtext of the gaming landscape changing in those three years.
-| [Patchouli Knowledge laptop sticker](https://www.nayuki.io/page/patchouli-knowledge-laptop-sticker) | A three step process from art commission, printing, then applying.
+| [THE MOST CULTURED MEME: NEW TRANSLATION REVEALS HIDDEN DEPTH IN “JAPANESE GOBLIN”](https://lostinlocalization.com/japanese-goblin/) | An analysis of its confusing lyrics in Japanese. | 🇬🇧, 🇯🇵 |
+| [Riding on Fans’ Energy: Touhou, Fan Culture, and Grassroot Entertainment](https://web.archive.org/web/20080907000753/http://cardcaptor.moekaku.com/2008/09/01/riding-on-fans-energy-touhou-fan-culture-and-grassroot-entertainment/) | 2008 talk on "why Touhou is so popular". | 🇬🇧 |
+| [TouhouCon illustrator Guests of Honor: Banpai Akira, Sunao and Shinoasa](https://www.shrinemaiden.org/forum/index.php?PHPSESSID=pfg7ve005h0u5thkkpvn8i74m6&topic=18725.0) | About panels during TouhouCon 2015. | 🇬🇧 |
+| [Touhou at the academic conference Replaying Japan 2015](https://www.shrinemaiden.org/forum/index.php?topic=18476.0) | Studies that included Touhou, through I would say they are less on Touhou and more about superfluous subjects. Check out China for studies on Touhou itself. | 🇬🇧 |
+| [After 12 years, the Dolls in Pseudo Paradise story has been fully restored](https://www.shrinemaiden.org/forum/index.php?topic=17654.0) | Changed theories on what DiPP meant. | 🇬🇧 |
+| [アニメ店長×東方Project](https://moriyashrine.org/gallery/album/120-%E3%82%A2%E3%83%8B%E3%83%A1%E5%BA%97%E9%95%B7%C3%97%E6%9D%B1%E6%96%B9project/) | Storyboards of lost OVA Anime Tenchou x Touhou Project. | 🇯🇵 |
+| [Touhou R18 Rate Research](https://xiaogenintendo.github.io/2020/11/19/touhou-r18-research/) | From 2020-2022 there were 3 rounds of collection on the amount R18 Touhou works for each Touhou character on Pixiv. | 🇬🇧 |
+| [Touhou Pixiv Tag Research](https://moriyashrine.org/forums/topic/1031-touhou-pixiv-tag-research/) | A more intense research round on the amount of art produced each year of a Touhou character from 2007-2022 on Pixiv. | 🇬🇧 |
+| [VSBattles](https://vsbattles.com/threads/touhou-discussion-thread-3-touhou-19-edition.136230/page-50) | A forum all about power scaling debates, if you into checking those sorts of debates out. | 🇬🇧 |
+| [Touhou Project and the Single-Gender World](https://androgynousanime.blogspot.com/2014/02/touhou-project-and-single-gender-world.html) | Analysis of the thematic impacts of a world composed of a single gender. | 🇬🇧 |
+| [ZUN and Touhou status update](https://www.shrinemaiden.org/forum/index.php?PHPSESSID=r1ctvvupj4dc333au1al6ecr57&topic=14315.0) | A set of threads ranging from 2013 to 2015 about ZUN, friends, management, games, manga, rumors, and Reitaisai. There is also a subtext of the gaming landscape changing in those three years. | 🇬🇧 |
+| [Patchouli Knowledge laptop sticker](https://www.nayuki.io/page/patchouli-knowledge-laptop-sticker) | A three step process from art commission, printing, then applying. | 🇬🇧 |
 | [東方Project人気投票の解析 〜可視化＆ ベイズ統計モデリング〜](https://techbookfest.org/product/5EwWMjAB3S2XAwSRh4Yq8L?productVariantID=ZCBF339KbFANEHXXBFuAc) | 2023 statistical analysis of the Japanese Touhou Popularity Polls. Main article found under hatenablog.com. | 🇯🇵 |
-| [Selling fanfiction is illegal?](http://www.shrinemaiden.org/forum/index.php?topic=8228.0) | 2011 thread where Quad City QBs explains the state of copyright and fair use with citied court cases.
+| [Selling fanfiction is illegal?](http://www.shrinemaiden.org/forum/index.php?topic=8228.0) | 2011 thread where Quad City QBs explains the state of copyright and fair use with citied court cases. | 🇬🇧 |
 | [#東方古文書会](https://togetter.com/li/1401087) | Records from 2018 to 2019 when a group of Japanese fans conducted a book meetup to share old Touhou doujins. | 🇨🇳 |
-| [SmashBoards - Shrine Maiden of Paradise ~ Reimu Hakurei](https://smashboards.com/threads/shrine-maiden-of-paradise-reimu-hakurei-touhou-project.454095/) | Thread from 2018 to 2021 that discusses Reimu’s possibility of being in Smash Ultimate. Also acted as a mini hub for the Touhou community in the SmashBoards forum.
-| [What the Fuck Is Cookie☆ and Why Is NYN Not Nazrin?](https://thessacookie.wordpress.com/2023/05/23/what-the-fuck-is-cookie%e2%98%86-and-why-is-nyn-not-nazrin/) | |  |
-| [106 Touhou Posters](https://beacetina.com/106-touhou-posters) | Poster projects of Touhou characters. |  |
-| [Sumireko's Chuunihipster Travelogue ~ Out of the Ordinary and Unorthodox Touhou Music](https://rateyourmusic.com/list/Demobanker/sumirekos-chuunihipster-travelogue-out-of-the-ordinary-and-unorthodox-touhou-music/1/) | A list of some unusual Touhou music.
-| [Touhou Project ft. GS System (Canceled)](https://www.kickstarter.com/projects/18592227/touhou-project-ft-gs-system/description) | Kickstarter from 2014. Example of ZUN’s fanwork rules at the time, which begs the question of what does ZUN’s rules mean?
-| [Where does ZUN draws his fashion sense for some of the designs of the girls?](https://huppaduppa.tumblr.com/post/121357009631/where-does-zun-draws-his-fashion-sense-for-some-of) | Pulls sources on where Touhou clothing came from. |  |
+| [SmashBoards - Shrine Maiden of Paradise ~ Reimu Hakurei](https://smashboards.com/threads/shrine-maiden-of-paradise-reimu-hakurei-touhou-project.454095/) | Thread from 2018 to 2021 that discusses Reimu’s possibility of being in Smash Ultimate. Also acted as a mini hub for the Touhou community in the SmashBoards forum. | 🇬🇧 |
+| [What the Fuck Is Cookie☆ and Why Is NYN Not Nazrin?](https://thessacookie.wordpress.com/2023/05/23/what-the-fuck-is-cookie%e2%98%86-and-why-is-nyn-not-nazrin/) | A primer on Cookie☆. | 🇬🇧 |
+| [106 Touhou Posters](https://beacetina.com/106-touhou-posters) | Poster projects of Touhou characters. | 🇬🇧 |
+| [Sumireko's Chuunihipster Travelogue ~ Out of the Ordinary and Unorthodox Touhou Music](https://rateyourmusic.com/list/Demobanker/sumirekos-chuunihipster-travelogue-out-of-the-ordinary-and-unorthodox-touhou-music/1/) | A list of some unusual Touhou music. | 🇬🇧 |
+| [Touhou Project ft. GS System (Canceled)](https://www.kickstarter.com/projects/18592227/touhou-project-ft-gs-system/description) | Kickstarter from 2014 that was canceled by ZUN. | 🇬🇧 |
+| [Where does ZUN draws his fashion sense for some of the designs of the girls?](https://huppaduppa.tumblr.com/post/121357009631/where-does-zun-draws-his-fashion-sense-for-some-of) | Pulls sources on where Touhou clothing came from. | 🇬🇧 |
+| [東方 How I Learned About Touhou Project](https://atestinal.wordpress.com/2020/09/10/%e6%9d%b1%e6%96%b9-how-i-learned-about-touhou-project-pt-1/) | Where Touhou Tuesday is mentioned. | 🇬🇧 |

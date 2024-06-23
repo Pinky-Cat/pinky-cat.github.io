@@ -58,6 +58,9 @@ blockquote {
 	overflow-x: auto;
 	/*understand this*/
 }
+hr {
+	border-style: solid;
+}
 a:link {
 	color: #37A5FA;
 	text-decoration: none;
@@ -76,14 +79,14 @@ a:active {
 }
  
 /* format classes*/
-.no-margin li{
-	margin-left: 0em;
+.center {
+	text-align: center;
 }
 /* main classes */
 .page-container {
 	width: 90%;
 	margin: 0 auto;
-	background-color: #131112FF;
+	background-color: #13111299;
 	/* background-color: #35394555; transpancy color*/
 	border: 1px solid #fff; */
 	/* border-radius: 10px; */
@@ -93,16 +96,19 @@ a:active {
 	margin: 0 auto;
 	/* padding-bottom: 70px; */
 }
-.center{
-	text-align: center;
+.front-title {
+	font-size: 3em;
 }
 .intro {
 	text-align: center;
 }
 .core {
-	margin: 100px 0px 0px 0px;
+	margin: 60px 0px 0px 0px;
 	display: flex;
+	flex: initial;
 	justify-content: space-around;
+	flex-wrap: wrap;
+	grid-column-gap 30px;
 }
 .header-container {
 	margin: 30px 0px 0px 0px;
@@ -116,7 +122,8 @@ a:active {
 	text-align: center;
 }
 .header ul li {
-	width: 30%;
+	font-size: 1.2em;
+	width: 20%;
 	display: inline-block;
 	margin: 0px 0px 10px 0px;
 }
@@ -129,7 +136,8 @@ a:active {
 	text-align: center;
 }
 .update {
-	/* TODO */
+	height: 400px;	
+	width: 20%;
 }
 .datalist {
 	/* TODO */
