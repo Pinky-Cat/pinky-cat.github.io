@@ -128,11 +128,15 @@ a:active {
 	border-bottom: 1px solid #fff;
 	text-align: center;
 }
-.header ul li {
-	font-size: 1.2em;
-	width: 18%;
-	display: inline-block;
+.header ul {
+	display: flex;
+	justify-content: space-around;
 	margin: 0px 0px 10px 0px;
+	flex-wrap: wrap;
+}
+.header li {
+	font-size: 1.2em;
+	display: inline-block;
 }
 .background-box {
 	background-color: #13111299;
@@ -168,9 +172,12 @@ a:active {
 }
 /* mobile classes */
 @media only screen and (max-width:750px) {
-	.page {
+	.page-container {
 		margin: 0 auto;
-		background-color: #231112FF;
+		background-color: #231112CC;
+	}
+	.header ul {
+		flex-direction: column;
 	}
 	.core {
 		margin: 100px 0px 0px 0px;
