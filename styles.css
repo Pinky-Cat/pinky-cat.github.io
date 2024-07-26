@@ -34,7 +34,7 @@ p {
 	line-height: 1.6em;
 }
 ul {
-	list-style-type: none;
+	list-style-type: square;
 	margin-block-start: 10px;
 	margin-block-end: 10px;
 }
@@ -87,6 +87,9 @@ a:active {
 /* format classes*/
 .center {
 	text-align: center;
+}
+.not-dot {
+	list-style-type: none;
 }
 /* main classes */
 .page-container {
