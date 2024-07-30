@@ -9,4 +9,4 @@ Not meant for others, but as a guide for myself to commit.
 3. Commit and push.
 
 ## TODO
-- [Empty]
+- Western Touhou Timeline
