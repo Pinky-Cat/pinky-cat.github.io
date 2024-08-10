@@ -9,4 +9,7 @@ Not meant for others, but as a guide for myself to commit.
 3. Commit and push.
 
 ## TODO
+- Draw in 8px
 - Western Touhou Timeline
+- Add buttons
+- Add cool intro image

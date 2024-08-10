@@ -5,9 +5,11 @@
 }
 body {
 	color: #FFFAE5;
+	font-family: Meiryo, sans-serif;
 	background-color: #131112;
 	background-image: url(images/stars.png);
-	font-family: Meiryo, sans-serif;
+	background-attachment: fixed;
+	background-size: 100%;
 }
 h1 {
 	font-size: 2em;
@@ -89,6 +91,7 @@ img{
 .no-list-dot {
 	list-style-type: none;
 }
+
 /* main classes */
 .page-container {
 	width: 90%;
