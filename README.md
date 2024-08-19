@@ -13,3 +13,4 @@ Not meant for others, but as a guide for myself to commit.
 - Western Touhou Timeline
 - Add buttons
 - Add cool intro image
+- [Website Palette Record](https://coolors.co/f7f7ff-a39eb5-8a74d3-46acfa-d3c093-131112-6ddf7c)

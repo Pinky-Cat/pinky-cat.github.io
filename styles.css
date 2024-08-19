@@ -61,8 +61,8 @@ thead th {
 blockquote {
 	border-left: solid 4px;
 	padding: .1rem .1rem .1rem .4rem;
-	color: #44dc59;
-	border-color: rgba(70, 136, 71, 0.6);
+	color: #6DDF7C;
+	border-color: #6DDF7C77;
 	overflow-x: auto;
 	/*understand this*/
 }
@@ -70,14 +70,14 @@ hr {
 	border-style: solid;
 }
 a:link {
-	color: #37A5FA;
+	color: #46ACFA;
 	text-decoration: none;
 }
 a:visited {
 	color: #D3C093;
 }
 a:active {
-	color: #725AC1;
+	color: #8A74D3;
 }
 img{
 	display: block;
@@ -98,8 +98,7 @@ img{
 	margin: 0 auto;
 	background-color: #13111299;
 	/* background-color: #35394555; transpancy color*/
-	border: 1px solid #fff; */
-	/* border-radius: 10px; */
+	border: 1px solid #fff;
 }
 .page {
 	width: 90%;
@@ -160,6 +159,10 @@ img{
 .datalist {
 	/* TODO */
 }
+.img-border {
+	border: 3px solid #C1BADA;
+	border-radius: 3px;
+}
 .footer {
 	text-align: center;
 	display: flex;
@@ -189,8 +192,10 @@ img{
 /* mobile classes */
 @media only screen and (max-width:750px) {
 	.page-container {
+		width: 100%;
 		margin: 0 auto;
 		background-color: #231112CC;
+		border-style: solid none;
 	}
 	.header ul {
 		flex-direction: column;
