@@ -41,6 +41,7 @@ ul {
 }
 li {
 	line-height: 1.5em;
+	margin-left: 1em;
 }
 em, strong {
 	 
@@ -138,6 +139,7 @@ img{
 .header li {
 	font-size: 1.2em;
 	display: inline-block;
+	margin-left: 0em;
 }
 .background-box {
 	background-color: #13111299;
