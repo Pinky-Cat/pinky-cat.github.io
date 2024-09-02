@@ -46,17 +46,29 @@ li {
 em, strong {
 	 
 }
+
 table {
+	width: 100%;
+	border: 2px solid #FFFAE5;
 	border-collapse: collapse;
 }
-
 th, td {
-	border: 1px solid white;
-	padding: 0.5em;
+	border: 1px solid #FFFAE5;
+	padding: 1em;
 }
-thead th {
-  width: 25%;
+tbody td {
+	max-width: 0;
 }
+tbody tr:nth-child(odd) {
+	background-color: #D3C09311;
+}
+tbody tr:nth-child(even) {
+	background-color: #D3C09333;
+}
+td:last-of-type {
+	text-align: center;
+}
+
 blockquote {
 	border-left: solid 4px;
 	padding: .1rem .1rem .1rem .4rem;
@@ -68,12 +80,16 @@ blockquote {
 hr {
 	border-style: solid;
 }
+
 a:link {
 	color: #46ACFA;
 	text-decoration: none;
 }
 a:visited {
 	color: #D3C093;
+}
+a:hover {
+	text-decoration: underline;
 }
 a:active {
 	color: #8A74D3;
@@ -117,7 +133,6 @@ img{
 	flex: initial;
 	justify-content: space-around;
 	flex-wrap: wrap;
-	grid-column-gap 30px;
 }
 .header-container {
 	margin: 30px 0px 0px 0px;
