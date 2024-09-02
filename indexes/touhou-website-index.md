@@ -2,7 +2,7 @@
 layout: touhou-website-index
 title:  "Touhou Website Index"
 date: 2024-06-05
-update: 2024-009-02
+update: 2024-09-02
 tags: Touhou
 permalink: 
 ---
