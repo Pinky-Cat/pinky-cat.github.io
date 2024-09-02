@@ -2,7 +2,7 @@
 layout: touhou-website-index
 title:  "Interesting Websites"
 date: 2023-05-17
-update: 2024-07-26
+update: 2024-09-02
 tags:
 permalink:
 ---
@@ -87,6 +87,7 @@ permalink:
 - [Gris Grimly](https://www.madcreator.com) - Art of Gothic origin like Don't Starve.
 - [EVER DREAM THIS MAN?](https://www.thisman.org) - EVERY NIGHT THROUGHOUT THE WORLD HUNDREDS OF PEOPLE DREAM ABOUT THIS FACE
 - [David Oreilly](https://www.davidoreilly.com/) - Uses Computer Graphics for short films.
+- [Collateral Damage Studios](https://www.collateralds.com/) - Collateral Damage Studios is a group of art enthusiasts who debuted on the Singapore illustration scene in 2007.
 
 # Gaming
 
@@ -104,6 +105,7 @@ permalink:
 - [Zarf Updates](https://blog.zarfhome.com/) - About Interactive Fiction and narratives within gaming.
 - [Shonumi's Things and Stuff](https://shonumi.github.io/index.html) - Cataloging everything about the gameboy's accessories.
 - [Obscuritory](https://obscuritory.com/) - On the old PC games.
+ - [Audio Game Archive](https://www.agarchive.net) - Audiogames are game that output audio over graphics.
 
 # Travel
 
@@ -125,3 +127,4 @@ permalink:
 - [Maid Spin](https://www.iklone.org/) - Otaku postings.
 - [Kottke](https://kottke.org) - News article on art, books, tech, video games, and civil rights in terms of impact.
 - [Lifeprint ASL](https://www.lifeprint.com/index.htm) - Curriculum, videos, and dictionary for ASL.
+- [The Generalist Academy](https://generalist.academy) - Brief entries on all sorts of subjects to spark farther reading. Author from Auckland, New Zealand.

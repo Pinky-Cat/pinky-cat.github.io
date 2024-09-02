@@ -2,12 +2,12 @@
 layout: touhou-website-index
 title:  "Touhou Website Index"
 date: 2024-06-05
-update: 2024-08-09
+update: 2024-009-02
 tags: Touhou
 permalink: 
 ---
 ## Foreword
-As an index extension to [Awesome Touhou](https://github.com/Raxelgrande/awesome-touhou) and to the wishes expressed in [The Independent Web of 2hu - A Dream of Eastern Turnpikes](https://www.tekitou.moe/posts/2023-04-18-tuhupike.html), this index will catalog any parts of the web that contain any noteworthy Touhou content.
+As an index extension to Raxelgrande's [Awesome Touhou](https://github.com/Raxelgrande/awesome-touhou) and to the wishes expressed in [The Independent Web of 2hu - A Dream of Eastern Turnpikes](https://www.tekitou.moe/posts/2023-04-18-tuhupike.html), this index will catalog any parts of the web that contain any noteworthy Touhou content.
 Unlike Awesome Touhou, this index focuses on curating Touhou content for historical value. Despite the age and size of the Touhou community, there has been little effort taken for a community news reporting source, thus it is rather difficult to look back on what the community has done in the past.
 Feel free to contact me for any suggestion to this list under the contacts listed under this [channel](https://youtube.com/@pinkycat0110?si=srPFXeVHIOWXEePD).
 
@@ -54,7 +54,8 @@ Feel free to contact me for any suggestion to this list under the contacts liste
 | Name | Description | Language |
 | ---- | ----------- | -------- |
 | [Touhou Project News](https://touhou-project.news/) |Has official information from ZUN | 🇯🇵 |
-| [simugung](https://web.archive.org/web/20230601052421/http://simugung.egloos.com/) | A Korean blog about Touhou that tracks news daily. | 🇰🇷 |
+| [simugung](https://simugung.tistory.com/) | A Korean blog about Touhou that tracks news daily. For news before 2024, check out its [old blog website](https://web.archive.org/web/20230601052421/http://simugung.egloos.com/).  | 🇰🇷 |
+| [Suara Youkai](https://suarayoukai.touhou.or.id/) | Articles created by Touhou fans in Indonesia. | 🇮🇩 |
 | [Suzunaan](https://suzunaanlatam.blogspot.com/) | Hispanic blog with news on a variety Touhou community works. | 🇪🇸 |
 | [Twilight Newspaper](https://twilightnewspaper.wordpress.com/)   | Active from 2019 - 2021<br>This is a non-professional News Blog about all things Touhou Project. This is run as a hobby with the main goal to provide and spread awareness of Touhou informations for english speaking audiences.  | 🇬🇧 |
 
@@ -64,7 +65,7 @@ Feel free to contact me for any suggestion to this list under the contacts liste
 | ---- | ----------- | -------- |
 | [Stock Image Origins](http://ohgosho.ehoh.net/) | Catalog of stock images ZUN used in his games. | 🇯🇵 |
 | [Unfinished Phastasm](http://theylivewesleep.blog.fc2.com) | Transcribes ZUN's drunk broadcasts. | 🇯🇵 |
-| [Goka](http://circle-goka.blog.jp/) | Circle which does market analysis on Touhou and its audience. | 🇯🇵 |
+| [Circle-Goka](http://circle-goka.blog.jp/) | A doujin circle that publishes doujinshi on Touhou networking and doujin economics. They also run the [Touhou Event Statistics Comittee](https://touhou-evt-stat.blog.jp/archives/10560571.html), compiling statistics on Touhou events. | 🇯🇵 |
 | [Touhou Memories](https://touhou-memories.com/) | A catalog of version differences in Touhou games. | 🇬🇧 |
 | [Fans of the Touhou Project](https://fansofthetouhouproject.weebly.com/) | A student project website with a basic understanding on the factors that led to Touhou's popularity. | 🇬🇧 |
 | [World,Touhou](https://www.bilibili.com/read/readlist/rl147496) | Covers overseas Touhou communities by looking various aspects of the community's culture. [Some articles have english translations](https://panzerabwehrkanone.wordpress.com/). | 🇨🇳 |
@@ -74,11 +75,10 @@ Unless stated otherwise, translation languages focuses on Japanese to English.
 
 | Name | Description | Language |
 | ---- | ----------- | -------- |
-| [Merami fan](https://meramifan.wordpress.com/guide/) | Articles on music and a guide on buying Touhou works internationally. |  |
-| [kafka-fuura](https://kafkafuura.wordpress.com/) | Translator of song lyrics and light novels. |  |
-| [IceFairy](https://twitter.com/richard_effendi) | Translator and catalog of happenings of Touhou in Japan. |  |
-| [HakanaiBlue](https://www.patreon.com/HakanaiBlue) | Translator of JP fan games to EN. |  |
-| [Releska](https://releska.com/) | Translated song lyrics. |  |
+| [Merami fan](https://meramifan.wordpress.com/guide/) | Articles on music and a guide on buying Touhou works internationally. | 🇯🇵 to 🇬🇧 |
+| [kafka-fuura](https://kafkafuura.wordpress.com/) | Translator of song lyrics and light novels. | 🇯🇵 to 🇬🇧|
+| [HakanaiBlue](https://www.patreon.com/HakanaiBlue) | Translator of JP fan games to EN. | 🇯🇵 to 🇬🇧 |
+| [Releska](https://releska.com/) | Translated song lyrics. | 🇯🇵 to 🇬🇧 |
 
 ### Blogs
 
@@ -90,7 +90,7 @@ Unless stated otherwise, translation languages focuses on Japanese to English.
 | [Mask](https://www.tekitou.moe/) | The ramblings of writing, THP, and community. | 🇬🇧 |
 | [RickyRister](https://rickyrister.wordpress.com/) | Blog posts on Touhou style albums. | 🇬🇧 |
 | [Tiramisu Cowboy](https://tiramisucowboy.com/) | A BUTAOTOME fan along with doujin blog posts. | 🇬🇧 |
-| [Do haniwa dream of ceramic sheep?](https://yamayuandadu.tumblr.com/) | Infinite amount of historical references to Touhou. | 🇬🇧 |
+| [Do haniwa dream of ceramic sheep?](https://yamayuandadu.tumblr.com/) | Articles on mythological references to Touhou. | 🇬🇧 |
  | [にしかわ](https://twpf.jp/nishikawa_huton) | The amount of Touhou games, meetings, events, and companies they were apart of is staggering. | 🇯🇵 |
 | [Gensokyo Institute](https://gensokyoinstitute.wordpress.com/2014/10/20/a-coasean-solution-to-the-scarlet-devil-incident/) | 2014 - 2015 blog by an author who took Economics as their degree. | 🇬🇧 |
 | [PakZhang](https://panzerabwehrkanone.wordpress.com/)   |  A person who is more familiar with overseas Touhou communities than the locals | 🇬🇧, 🇨🇳 |
@@ -104,13 +104,15 @@ Unless stated otherwise, translation languages focuses on Japanese to English.
 | [GensokyoVN](https://vntouhouff.forumvi.com/) | All forum links start with a broken domain. Replace the domain with vntouhouff.forumvi.com | 🇻🇳 |
 | [2ch Archive](http://blog.livedoor.jp/coleblog/) | Collection of Touhou posts from 2chan. | 🇯🇵 |
 | [One Yukkuri Place](https://yukkuri.shii.org/forum_topics) | Yukkuri art. | 🇬🇧 |
+| [Totally Touhou](https://totallytouhou.wordpress.com/)   | Active during 2017, where a few interviews were done on the podcast.<br>The Totally Touhou podcast is a podcast made by the Touhou Project Discord’s users for the Touhou Project Discord’s users.  | 🇬🇧 |
+| [Bunbunmaru Foros](https://www.tapatalk.com/groups/bunbunmaru/)  | Foro de Touhou para la comunidad de habla hispana. | 🇪🇸 |
 
 ## Video
 
 | Name | Description | Language |
 | ---- | ----------- | -------- |
 |[PatchyVideo](https://thvideo.tv/#/home?coupon=video_latest) | Video archive index of Touhou manually uploaded by users from sources of Youtube, NicoNico, Bilibili, and more. | 🇨🇳 |
-|[PigeonVoyageur](https://www.youtube.com/c/PigeonxHunter) | Livesteamer of Touhou fangames.| 🇬🇧  |
+|[PigeonVoyageur](https://www.youtube.com/c/PigeonxHunter) | Livesteamer of Touhou fangames.| 🇬🇧 |
 |[MoriyaSalesman](https://www.youtube.com/@MoriyaSalesman) | Translator of Touhou videos.| 🇬🇧  |
 |[Nikenme Radio](https://www.youtube.com/@nikenme) | Live sessions of ZUN’s drunken chats.| 🇯🇵  |
 |[/r/touhou wiki's Nico Portal](https://www.reddit.com/r/touhou/wiki/nico/index) | Guide on how to best find Touhou videos on NND. |  🇬🇧 |
@@ -133,13 +135,14 @@ Unless stated otherwise, translation languages focuses on Japanese to English.
 | [flickr](https://www.flickr.com/search/?text=touhou) | Brick figures, regular figures, and cosplay photos can be found here. | 🇬🇧 |
 | [Walfas Station Wagon](https://www.deviantart.com/walfasstationwagon) | Walfas group. | 🇬🇧 |
 | [Touhou Traditional Clothing](https://eria363.wixsite.com/touhou-clothes) | Traditional clothing themed Korean art collab. | 🇰🇷 |
-| [Touhou High School Collaboration](https://pinkpinklnb.wixsite.com/tohoschool) | High school themed Korean art collab. | 🇰🇷 |
-| [Touhou Christmas Collaboration](https://pinkpinklnb.wixsite.com/tohoch) | Christmas-themed Korean art collab. | 🇰🇷 |
-| [Touhou Pair Collaboration](https://borry77.wixsite.com/touhou) | Dual-themed Korean art collab. | 🇰🇷 |
-| [She said yes!](https://touhouwedding.wixsite.com/2019) | Wedding-themed Korean art collab.| 🇰🇷 |
+| [Touhou High School Collaboration](https://pinkpinklnb.wixsite.com/tohoschool) | High school themed art collab. | 🇰🇷 |
+| [Touhou Christmas Collaboration](https://pinkpinklnb.wixsite.com/tohoch) | Christmas-themed art collab. | 🇰🇷 |
+| [Touhou Pair Collaboration](https://borry77.wixsite.com/touhou) | Touhou pair art collab. | 🇰🇷 |
+| [She said yes!](https://touhouwedding.wixsite.com/2019) | Wedding-themed art collab.| 🇬🇧 |
 | [Touhou Project](https://touhouproject0.wixsite.com/touhou)   | Korean art collab. | 🇰🇷 |
-| [Flandre Scarlet Collaboration](https://tauminust.wixsite.com/touhou-flandre/)   | Flandre Scarlet themed Korean art collab.  | 🇰🇷 |
-| [Touhou x Pokemon](https://borry77.wixsite.com/tokemon/) | Pokemon-themed Korean art collab.  | 🇰🇷 |
+| [Flandre Scarlet Collaboration](https://tauminust.wixsite.com/touhou-flandre/)   | Flandre Scarlet themed art collab.  | 🇰🇷 |
+| [Touhou x Pokemon](https://borry77.wixsite.com/tokemon/) | Pokemon-themed art collab.  | 🇰🇷 |
+| [Gensokyo Grand Art Festival](https://andrew.fm/grand_art_festival/canvas2.html#) | Huge art collab | 🇬🇧 |
 
 ### Art Resources
 
@@ -170,7 +173,7 @@ Unless stated otherwise, translation languages focuses on Japanese to English.
 
 ## Literature
 
-| Name | Description | Focus Language |
+| Name | Description | Language |
 | ---- | ----------- | -------- |
 |[touhou-project.com](https://www.touhou-project.com/border/res/32088.html) | A forum based around posting fanfiction with a focus on CYOA via forum posts. | 🇬🇧 |
 | [Touhou Doujinshi Index](https://scarlet.nanoskript.dev/) | Indexes translations from Danbooru, Dynasty Reader, Mangadex, and E-hentai in one searchable list. | 🇬🇧 |
@@ -184,7 +187,7 @@ Unless stated otherwise, translation languages focuses on Japanese to English.
 
 | Name | Description | Language |
 | ---- | ----------- | -------- |
-| [胡蝶の見果てぬ夢](https://web.archive.org/web/20170613032937/http://geocities.jp/edelfalter/) | A website created by a Touhou artist interested in old Japanese works. | 🇯🇵 |
+| [胡蝶の見果てぬ夢](https://web.archive.org/web/20170613032937/http://geocities.jp/edelfalter/) | [Keine's dialogues](https://web.archive.org/web/20170408235105/http://www.geocities.jp/edelfalter/recture/wordbn.htm) on Japanese literature with other Touhou characters. | 🇯🇵 |
 | [usuallydead](https://web.archive.org/web/20080901074123/http://www.usuallydead.com/) | The late 2000s version of the website featured far more writing on Touhou. | 🇬🇧 |
 | [Teruyo](https://mimicteruyo.neocities.org/) | Author of Touhou fanfic | 🇬🇧 |
 
@@ -268,6 +271,7 @@ Unless stated otherwise, translation languages focuses on Japanese to English.
 | Name | Description | Language |
 | ---- | ----------- | -------- |
 | [新聞友の会カレンダー](https://bunbunmaru-np.com/index.html) | A doujin convention event that does six different events at the same location. | 🇯🇵 |
+| [東方春櫻宴](https://touhouonly.com/)   | Touhou Convention in Taiwan.  | 🇨🇳 |
 
 ## Historical
 For the groups that were once active and for the events that impacted fandom.
@@ -294,6 +298,8 @@ For the groups that were once active and for the events that impacted fandom.
 | [Fumology](https://fumo.systems/) | A collection of fumo lore over the years | 🇬🇧 |
 
 ## Oneshot Posts
+
+Check out the variety of topics that people can connect to Touhou!
 
 | Name | Description | Language |
 | ---- | ----------- | -------- |
@@ -322,3 +328,10 @@ For the groups that were once active and for the events that impacted fandom.
 | [Where does ZUN draws his fashion sense for some of the designs of the girls?](https://huppaduppa.tumblr.com/post/121357009631/where-does-zun-draws-his-fashion-sense-for-some-of) | Pulls sources on where Touhou clothing came from. | 🇬🇧 |
 | [東方 How I Learned About Touhou Project](https://atestinal.wordpress.com/2020/09/10/%e6%9d%b1%e6%96%b9-how-i-learned-about-touhou-project-pt-1/) | Where Touhou Tuesday is mentioned. | 🇬🇧 |
 | [Gensokyo Forum Interview](https://touhougarakuta.com/article/gensokyoforum_01/)  | History of Touhou discussion and criticism. Also speaks upon the state of the fandom before 2007.  | 🇯🇵 |
+| [PARSEE MIZUHASHI: A TRAGEDY OF A LONELY HEART](https://homeofthehuntress.wordpress.com/2020/05/05/parsee-mizuhashi-a-tragedy-of-a-lonely-heart/) | A personal connection to Parsee. | 🇬🇧 |
+| [Japan’s New Mythology](https://gnosisonic.wordpress.com/2012/02/01/japans-new-mythology/) | An analysis of Touhou's simple design in connection to the tone of Eastern mythology. | 🇬🇧 |
+| [Suwa Grand Shrine – A Touhou Pilgrimage](https://web.archive.org/web/20160206232437/https://punynari.wordpress.com/2010/09/04/suwa-grand-shrine-a-touhou-pilgrimage/) | Today, I finally managed to make it all the way to Kamisuwa, Nagano to start my Touhou game pilgrimage. First up is a visit to the Suwa Grand Shrine which is one of the oldest shrines in Japan history.  | 🇬🇧 |
+| [“Yūgen” in the nature art of Touhou](https://gnosisonic.wordpress.com/2011/01/13/yugen-in-the-nature-art-of-touhou/)  | I recalled a bunch of Touhou art I had enjoyed; beautiful images of nature with the series’ ubiquitous girls hanging around somewhere in the frame. | 🇬🇧 |
+| [Otakon 2011: Touhou Panel Report](https://cms-vps.anigamers.com/2011/08/09/otakon-2011-touhou-panel-report/) | Being a giant fan I jumped at the chance to attend a panel that explored the series, and as the program guide pegged the panel as being accessible no matter what your familiarity with Touhou. | 🇬🇧 |
+| ["LETS FOCUS ON THE EXPERIENCE" - INTERVIEW WITH TOUHOUFEST CHAIR LUCAS CHANG](https://jimmysconventionguide.blogspot.com/2023/04/interview-with-touhoufest-chair.html)   | Interview on the chair of TouhouFest, Mikotan. Turns out TouhouFest is structured differently from other anime conventions.  | 🇬🇧 |
+| [Understanding Gender Dynamics in Touhou and Historical Japan](https://cloudytian.tumblr.com/post/162030403777/understanding-gender-dynamics-in-touhou-and) | A critical response to video “There Are No Women in Gensokyo”. Note that the video has since been deleted and that there is no part 2 to this essay. | 🇬🇧 |
