@@ -49,11 +49,11 @@ em, strong {
 
 table {
 	width: 100%;
-	border: 2px solid #FFFAE5;
+	border: 2px solid #bab6a7;
 	border-collapse: collapse;
 }
 th, td {
-	border: 1px solid #FFFAE5;
+	border: 1px solid #bab6a7;
 	padding: 1em;
 }
 tbody td {
@@ -111,9 +111,8 @@ img{
 .page-container {
 	width: 90%;
 	margin: 0 auto;
-	background-color: #13111299;
-	/* background-color: #35394555; transpancy color*/
-	border: 1px solid #fff;
+	background-color: #353945AA;
+	border: 2px solid #55562d;
 }
 .page {
 	width: 90%;
