@@ -120,8 +120,10 @@ img{
 	padding: 30px 0px 0px 0px;
 }
 .front-title {
+	margin: 0px 60px 0px 0px;
 	letter-spacing: 0.05em;
-	font-size: 3em;
+	font-size: 2em;
+	margin-block-start: 0em;
 }
 .intro {
 	text-align: center;
@@ -154,6 +156,17 @@ img{
 	font-size: 1.2em;
 	display: inline-block;
 	margin-left: 0em;
+}
+.title {
+	width: 60%;
+	margin: 0px 0px 60px 0px;
+	border-bottom: 1px solid #fff;
+	text-align: center;
+}
+.title-container {
+	margin: 30px 0px 0px 0px;
+	display: flex;
+	justify-content: center;
 }
 .background-box {
 	background-color: #13111299;
