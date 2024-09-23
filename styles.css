@@ -4,6 +4,7 @@
 	box-sizing: border-box;
 }
 body {
+	padding: 2em 5% 2em;
 	color: #FFFAE5;
 	font-family: Meiryo, sans-serif;
 	background-color: #131112;
@@ -70,9 +71,9 @@ td:last-of-type {
 }
 
 blockquote {
-	border-left: solid 4px;
 	padding: .1rem .1rem .1rem .4rem;
 	color: #6DDF7C;
+	border-left: solid 4px;
 	border-color: #6DDF7C77;
 	overflow-x: auto;
 	/*understand this*/
@@ -109,20 +110,16 @@ img{
 
 /* main classes */
 .page-container {
-	width: 90%;
-	margin: 0 auto;
 	background-color: #353945AA;
 	border: 2px solid #55562d;
 }
-.page {
-	width: 90%;
-	margin: 0 auto;
-	padding: 30px 0px 0px 0px;
+.page {	
+	padding: 3em 3em 3em 3em;
 }
 .front-title {
 	margin: 0px 60px 0px 0px;
 	letter-spacing: 0.05em;
-	font-size: 2em;
+	font-size: 1.9	em;
 	margin-block-start: 0em;
 }
 .intro {
@@ -136,20 +133,26 @@ img{
 	flex-wrap: wrap;
 }
 .header-container {
-	margin: 30px 0px 0px 0px;
+	margin: 0em 0em 1em 0em;
 	display: flex;
-	justify-content: center;
+	white-space: nowrap;
+	align-items: baseline;
+	border-bottom: 1px solid #fff;
+}
+.header-container a {
+	color: #FFFAE5;
+	text-decoration: none;
+}
+.header-title {
+	white-space: nowrap;
 }
 .header {
 	width: 60%;
-	margin: 0px 0px 60px 0px;
-	border-bottom: 1px solid #fff;
-	text-align: center;
+	white-space: nowrap;
 }
 .header ul {
 	display: flex;
 	justify-content: space-around;
-	margin: 0px 0px 10px 0px;
 	flex-wrap: wrap;
 }
 .header li {
@@ -157,6 +160,7 @@ img{
 	display: inline-block;
 	margin-left: 0em;
 }
+
 .title {
 	width: 60%;
 	margin: 0px 0px 60px 0px;
