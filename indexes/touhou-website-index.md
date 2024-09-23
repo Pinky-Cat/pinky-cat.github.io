@@ -18,7 +18,7 @@ Feel free to contact me for any suggestion to this list under the contacts liste
   - [News](#news)
   - [Research](#research)
   - [Translation](#translation)
-  - [User Blog](#user-blog)
+  - [Blogs](#blogs)
 - [Video](#video)
 - [Visual Arts](#visual-arts)
   - [Crafts](#crafts)
@@ -51,6 +51,7 @@ Feel free to contact me for any suggestion to this list under the contacts liste
 | [Maribel Hearn](https://maribelhearn.com/) | A collection of links for the Touhou Popularity Poll, tools, STGs, etc. | 🇬🇧 |
 
 ### Critical Analysis
+
 | Name | Description | Language |
 | ---- | ----------- | -------- |
 | [A Musical Interpretation of The Ghost Band and The Three Prismatic River Sisters](https://note.com/yuki_02010/n/nc766fe2e4128) | By doujin circle 白鷺ゆっきー, who would create a Prismriver album with this analysis. | 🇯🇵 |
@@ -74,6 +75,7 @@ Feel free to contact me for any suggestion to this list under the contacts liste
 | [Bunbunmaru Foros](https://www.tapatalk.com/groups/bunbunmaru/)  | Foro de Touhou para la comunidad de habla hispana. | 🇪🇸 |
 
 ### Interviews
+
 | Name | Description | Language |
 | ---- | ----------- | -------- |
 | [Gensokyo Forum Interview](https://touhougarakuta.com/article/gensokyoforum_01/)  | History of Touhou discussion and criticism. Also speaks upon the state of the fandom before 2007.  | 🇯🇵 |
@@ -344,6 +346,4 @@ Check out the variety of topics that people can connect to Touhou!
 | [Sumireko's Chuunihipster Travelogue ~ Out of the Ordinary and Unorthodox Touhou Music](https://rateyourmusic.com/list/Demobanker/sumirekos-chuunihipster-travelogue-out-of-the-ordinary-and-unorthodox-touhou-music/1/) | A list of some unusual Touhou music. | 🇬🇧 |
 | [Suwa Grand Shrine – A Touhou Pilgrimage](https://web.archive.org/web/20160206232437/https://punynari.wordpress.com/2010/09/04/suwa-grand-shrine-a-touhou-pilgrimage/) | Today, I finally managed to make it all the way to Kamisuwa, Nagano to start my Touhou game pilgrimage. First up is a visit to the Suwa Grand Shrine which is one of the oldest shrines in Japan history.  | 🇬🇧 |
 | [Otakon 2011: Touhou Panel Report](https://cms-vps.anigamers.com/2011/08/09/otakon-2011-touhou-panel-report/) | Being a giant fan I jumped at the chance to attend a panel that explored the series, and as the program guide pegged the panel as being accessible no matter what your familiarity with Touhou. | 🇬🇧 |
-
-
 
