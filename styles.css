@@ -76,8 +76,6 @@ blockquote {
 	color: #6DDF7C;
 	border-left: solid 4px;
 	border-color: #6DDF7C77;
-	overflow-x: auto;
-	/*understand this*/
 }
 hr {
 	border-style: solid;
@@ -115,19 +113,19 @@ img{
 	border: 2px solid #55562d;
 }
 .page {	
-	padding: 3em 3em 3em 3em;
+	padding: 2em 3em 2em 3em;
 }
-.front-title {
-	margin: 0px 60px 0px 0px;
+.website-title {
+	margin: 0px 2em 0px 0px;
 	letter-spacing: 0.05em;
-	font-size: 1.9	em;
+	font-size: 1.9em;
 	margin-block-start: 0em;
 }
 .intro {
 	text-align: center;
 }
 .core {
-	margin: 60px 0px 0px 0px;
+	margin: 2em 0em 0em 0em;
 	display: flex;
 	flex: initial;
 	justify-content: space-around;
@@ -167,12 +165,11 @@ img{
 
 .title {
 	width: 60%;
-	margin: 0px 0px 60px 0px;
+	margin: 0em 0em 1em 0em;
 	border-bottom: 1px solid #fff;
 	text-align: center;
 }
 .title-container {
-	margin: 30px 0px 0px 0px;
 	display: flex;
 	justify-content: center;
 }
@@ -184,12 +181,9 @@ img{
 	border: 2px solid #FFF;
 	border-radius: 10px;
 	width: 300px;
+	margin: 1em 0em 1em 0em;
 	box-sizing: border-box;
 	text-align: center;
-}
-.update {
-	height: 400px;	
-	width: 20%;
 }
 .datalist {
 	/* TODO */
@@ -202,16 +196,9 @@ img{
 	text-align: center;
 	display: flex;
 	justify-content: space-around;
-	padding: 70px 0px 30px 0px;
+	padding: 3em 0em 1em 0em;
 }
 
-/* niche classes */
-.post {
-	/* TODO */
-}
-.date {
-	font-size: 1em;
-}
 	/* timeline classes */
 .flex-timeline-container {
 	display: flex;
@@ -227,18 +214,19 @@ img{
 /* mobile classes */
 @media only screen and (max-width:750px) {
 	body {
-		font-size:	.8em;
+		font-size:	1.2em;
 	}
 	.page-container {
-		width: 90%;
-		margin: 0 auto;
 		background-color: #231112CC;
 	}
-	.header ul {
+	.header-container {
 		flex-direction: column;
 	}
+	.header-title {
+		padding-right: 0em;
+	}
 	.core {
-		margin: 100px 0px 0px 0px;
+		margin: 1em 0em 0em 0em;
 		display: flex;
 		flex-wrap: wrap;
 	}
