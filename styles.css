@@ -82,13 +82,14 @@ hr {
 }
 
 a:link {
-	color: #46ACFA;
+	color: #D3C093;
 	text-decoration: none;
 }
 a:visited {
 	color: #D3C093;
 }
 a:hover {
+	color: #46ACFA;
 	text-decoration: underline;
 }
 a:active {
@@ -187,10 +188,6 @@ img{
 }
 .datalist {
 	/* TODO */
-}
-.img-border {
-	border: 3px solid #C1BADA;
-	border-radius: 3px;
 }
 .footer {
 	text-align: center;
