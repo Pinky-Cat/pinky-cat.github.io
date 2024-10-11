@@ -12,7 +12,7 @@
   rect {
     width: 230px;
     height: 24px;
-    fill: rgb(10, 10, 10);
+    fill: #35394500;
   }
 
   text {
