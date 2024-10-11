@@ -16,10 +16,10 @@
         </div>
         <div id="content-header" class="header">
             <ul>
-                <li class="background-box"><a href="/personal.html">Personal</a></li>
-                <li class="background-box"><strong>Writings</strong></a></li>
-                <li class="background-box"><a href="/indexes.html">Indexes</a></li>
-                <li class="background-box"><a href="/findings.html">Findings</a></li>
+                <li class="title-background"><a href="/personal.html">Personal</a></li>
+                <li class="title-background"><strong>Writings</strong></a></li>
+                <li class="title-background"><a href="/indexes.html">Indexes</a></li>
+                <li class="title-background"><a href="/findings.html">Findings</a></li>
             </ul>
         </div>
     </div>
@@ -29,15 +29,13 @@
                 <h1 class="title">Writings</h1>
             </div>
             <p class="intro">Entries may be based upon fandom history. You have been warmed.</p>
-            <ul class="core">
-                <ul>
+                <ul style="text-align: center; list-style-type: none;">
                     {% for post in site.posts %}
                     <li class="post">
                         <p><a href="{{ post.url }}">{{ post.title }}</a></p>
                     </li>
                     {% endfor %}
                 </ul>
-            </ul>
             <div class="footer">
                 <p class="footer"><a href="#content-header">Back to Top</a></p>
             </div>
