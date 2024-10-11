@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     lang="en-GB"
+     aria-labelledby="title"
+     viewBox="0 0 230 24">
+
+  <title id="title">Email</title>
+
+  <defs>
+
+  <style type="text/css"><![CDATA[
+
+  rect {
+    width: 230px;
+    height: 24px;
+    fill: rgb(10, 10, 10);
+  }
+
+  text {
+    font-size: 1em;
+    fill: #D3C093;
+    pointer-events: none;
+  }
+
+  a:focus text,
+  rect:hover + text {
+    fill: #46ACFA;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+    text-decoration: underline 1px solid rgb(10, 10, 10);
+    text-underline-offset: 5px;
+  }
+
+  ]]></style>
+
+  </defs>
+
+  <a href="mailto:pinkycat0110@gmail.com" aria-label="Email">
+    <rect />
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle">pinkycat0110@gmail.com</text>
+  </a>
+
+</svg>
