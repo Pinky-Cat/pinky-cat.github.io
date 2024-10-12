@@ -211,7 +211,6 @@ img {
 		flex-direction: column;
 	}
 	body {
-		font-size: 0.7em;
-		word-wrap:break-word;
+		word-wrap: break-word;
 	}
 }
