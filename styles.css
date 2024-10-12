@@ -203,10 +203,15 @@ img {
 		flex-direction: column;
 	}
 	.header-title {
+		margin: 0 auto;
 		padding-right: 0em;
 		white-space: normal;
 	}
 	.flex-timeline-container {
 		flex-direction: column;
+	}
+	body {
+		font-size: 0.7em;
+		word-wrap:break-word;
 	}
 }
