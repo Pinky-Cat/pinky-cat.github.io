@@ -53,6 +53,7 @@ table {
 	width: 100%;
 	border: 2px solid #bab6a7;
 	border-collapse: collapse;
+	overflow: scroll;
 }
 th, td {
 	border: 1px solid #bab6a7;
@@ -66,9 +67,6 @@ tbody tr:nth-child(odd) {
 }
 tbody tr:nth-child(even) {
 	background-color: #D3C09320;
-}
-td:last-of-type {
-	text-align: center;
 }
 
 blockquote {
@@ -173,7 +171,7 @@ img {
 	border: 2px solid #FFF;
 	border-radius: 10px;
 	width: 300px;
-	min-height: 23em;
+	min-height: 20em;
 	margin: 1em 0em 1em 0em;
 	box-sizing: border-box;
 	text-align: center;
@@ -198,9 +196,6 @@ img {
 
 /* mobile classes */
 @media only screen and (max-width:750px) {
-	body {
-		font-size: 1.2em;
-	}
 	.page-container {
 		background-color: #22143caf;
 	}
