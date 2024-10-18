@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "A Tidbit on the Evolution of Touhou Fanworks"
+description: "A reflection on reading Touhou doujinshi from early 2000s."
 date: 2024-05-26
 tags: touhou
 permalink: 

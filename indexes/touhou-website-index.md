@@ -1,6 +1,7 @@
 ---
 layout: touhou-website-index
 title:  "Touhou Website Index"
+description: "Collection of links on Touhou content around the internet!"
 date: 2024-06-05
 update: 2024-09-22
 tags: Touhou
