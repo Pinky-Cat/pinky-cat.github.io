@@ -4,9 +4,9 @@
 	box-sizing: border-box;
 }
 body {
-	padding: 2em 5% 2em;
+	padding: 2rem 5% 2rem;
 	color: #FFFAE5;
-	font-size: 1em;
+	font-size: 1rem;
 	font-family: Meiryo, sans-serif;
 	background-color: #131112;
 	background-image: url(images/stars.png);
@@ -14,36 +14,36 @@ body {
 	background-size: 100%;
 }
 h1 {
-	font-size: 2em;
+	font-size: 2rem;
 	font-weight: bold;
-	margin-block-start: 0.63em;
-	margin-block-end: 0.63em;
+	margin-block-start: 0.63rem;
+	margin-block-end: 0.63rem;
 }
 h2 {
-	font-size: 1.4em;
+	font-size: 1.4rem;
 	font-weight: bold;
-	margin-block-start: 0.83em;
-	margin-block-end: 0.83em;
+	margin-block-start: 0.83rem;
+	margin-block-end: 0.83rem;
 }
 h3 {
-	font-size: 1.2em;
+	font-size: 1.2rem;
 	font-weight: bold;
-	margin-block-start: 0.83em;
-	margin-block-end: 0.83em;
+	margin-block-start: 0.83rem;
+	margin-block-end: 0.83rem;
 }
 p {
-	font-size: 1em;
-	margin-block-start: 1em;
-	margin-block-end: 1em;
-	line-height: 1.6em;
+	font-size: 1rem;
+	margin-block-start: 1rem;
+	margin-block-end: 1rem;
+	line-height: 1.6rem;
 }
 ul {
 	margin-block-start: 10px;
 	margin-block-end: 10px;
 }
 li {
-	line-height: 1.5em;
-	margin-left: 1em;
+	line-height: 1.5rem;
+	margin-left: 1rem;
 }
 em, strong {
 	 
@@ -57,7 +57,7 @@ table {
 }
 th, td {
 	border: 1px solid #bab6a7;
-	padding: 1em;
+	padding: 1rem;
 }
 tbody td {
 	max-width: 0;
@@ -105,18 +105,18 @@ img {
 	border: 2px solid #55562d;
 }
 .page {	
-	padding: 2em 3em 2em 3em;
+	padding: 2rem 3rem 2rem 3rem;
 }
 .website-title {
-	letter-spacing: 0.04em;
-	font-size: 1.9em;
-	margin-block-start: 0em;
+	letter-spacing: 0.04rem;
+	font-size: 1.9rem;
+	margin-block-start: 0rem;
 }
 .intro {
 	text-align: center;
 }
 .header-container {
-	margin: 0em 0em 1em 0em;
+	margin: 0rem 0rem 1rem 0rem;
 	display: flex;
 	align-items: baseline;
 	border-bottom: 1px solid #fff;
@@ -125,7 +125,7 @@ img {
 	text-decoration: none;
 }
 .header-title {
-	padding-right: 3em;
+	padding-right: 3rem;
 	white-space: nowrap;
 	text-align: center;
 }
@@ -141,14 +141,14 @@ img {
 	flex-wrap: wrap;
 }
 .header li {
-	font-size: 1.2em;
+	font-size: 1.2rem;
 	display: inline-block;
-	margin-left: 0em;
+	margin-left: 0rem;
 }
 
 .title {
 	width: 60%;
-	margin: 0em 0em 1em 0em;
+	margin: 0rem 0rem 1rem 0rem;
 	border-bottom: 1px solid #fff;
 	text-align: center;
 }
@@ -171,8 +171,8 @@ img {
 	border: 2px solid #FFF;
 	border-radius: 10px;
 	width: 300px;
-	min-height: 20em;
-	margin: 1em 0em 1em 0em;
+	min-height: 20rem;
+	margin: 1rem 0rem 1rem 0rem;
 	box-sizing: border-box;
 	text-align: center;
 	background-color: #D3C09311;
@@ -191,7 +191,7 @@ img {
 	text-align: center;
 	display: flex;
 	justify-content: space-around;
-	padding: 3em 0em 1em 0em;
+	padding: 3rem 0rem 1rem 0rem;
 }
 
 /* mobile classes */
@@ -204,7 +204,7 @@ img {
 	}
 	.header-title {
 		margin: 0 auto;
-		padding-right: 0em;
+		padding-right: 0rem;
 		white-space: normal;
 	}
 	.flex-timeline-container {
