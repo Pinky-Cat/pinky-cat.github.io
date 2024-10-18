@@ -38,13 +38,13 @@
                 <h1 class="title">Writings</h1>
             </div>
             <p class="intro">An assortment of writing about topics that go through the mind.</p>
-                <ul style="text-align: center;">
+                <div style="text-align: center;">
                     {% for post in site.posts %}
-                    <li class="post">
+                    <div class="post">
                         <p><a href="{{ post.url }}">{{ post.title }}</a></p>
-                    </li>
+                    </div>
                     {% endfor %}
-                </ul>
+                </div>
             <div class="footer">
                 <p class="footer"><a href="#content-header">Back to Top</a></p>
             </div>
