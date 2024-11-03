@@ -26,18 +26,21 @@ h1 {
 	font-weight: bold;
 	margin-block-start: 0.63rem;
 	margin-block-end: 0.63rem;
+	letter-spacing: 1px;
 }
 h2 {
 	font-size: 1.4rem;
 	font-weight: bold;
 	margin-block-start: 0.83rem;
 	margin-block-end: 0.83rem;
+	letter-spacing: 1px;
 }
 h3 {
 	font-size: 1.2rem;
 	font-weight: bold;
 	margin-block-start: 0.83rem;
 	margin-block-end: 0.83rem;
+	letter-spacing: 1px;
 }
 p {
 	font-size: 1rem;
@@ -53,8 +56,11 @@ li {
 	line-height: 1.5rem;
 	margin-left: 1rem;
 }
-em, strong {
-	 
+strong {
+
+}
+em {
+
 }
 
 table {
@@ -190,9 +196,11 @@ img {
 	width: 200px;
 }
 .box-title {
+	padding: 0rem 1rem;
 	/* background-color: #D3C09320; */
 }
 .box-text {
+	padding: 0rem 1rem;
 	/* background-color: #D3C09320; */
 }
 .footer {
