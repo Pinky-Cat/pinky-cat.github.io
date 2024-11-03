@@ -1,3 +1,11 @@
+@font-face {
+	font-family: 'IBM Plex Sans';
+	src: url('/fonts/IBMPlexSans-Regular.woff2') format('woff2'), url('/fonts/IBMPlexSans-Regular.woff') format('woff'), url('/fonts/IBMPlexSans-Regular.tiff') format('tiff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
 * {
 	margin: 0;
 	padding: 0;
@@ -7,7 +15,7 @@ body {
 	padding: 2rem 5% 2rem;
 	color: #FFFAE5;
 	font-size: 1rem;
-	font-family: Meiryo, sans-serif;
+	font-family: 'IBM Plex Sans', Meiryo, sans-serif;
 	background-color: #131112;
 	background-image: url(images/stars.png);
 	background-attachment: fixed;
