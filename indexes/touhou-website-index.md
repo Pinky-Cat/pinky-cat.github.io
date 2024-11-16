@@ -1,7 +1,7 @@
 ---
 layout: touhou-website-index
-title:  "Touhou Website Index"
-description: "Collection of links on Touhou content around the internet!"
+title:  'Touhou Website Index'
+description: 'Collection of links on Touhou content around the internet!'
 date: 2024-06-05
 update: 2024-10-23
 tags: Touhou
@@ -85,7 +85,7 @@ Feel free to contact me for any additions, comments, or suggestions to this list
 | [EASTERN HARDCORE SAGA Vol. 01: Hablando con Saga Rebelion](http://zeroharem.blogspot.com/2013/10/eastern-hardcore-saga-vol-01-hablando.html) | About Sega Rebellion’s involvement in a dat record album. | 🇪🇸 |
 | [Gensokyo Forum Interview](https://touhougarakuta.com/article/gensokyoforum_01/)  | History of Touhou discussion and criticism. Also talks about the state of the fandom before 2007.  | 🇯🇵 |
 | [HakanaiBlue on the Joy of Translating Touhou Games](https://www.crunchyroll.com/news/interviews/2024/4/27/hakanaiblue-translating-touhou-games-interview?utm_source=twitter&utm_medium=community_cr&utm_campaign=news_en&referrer=twitter_community_cr_news) | An interview on HakanaiBlue about translation of Touhou fangames | 🇬🇧 |
-| ["LETS FOCUS ON THE EXPERIENCE" - INTERVIEW WITH TOUHOUFEST CHAIR LUCAS CHANG](https://jimmysconventionguide.blogspot.com/2023/04/interview-with-touhoufest-chair.html)   | Interview on the chair of TouhouFest, Mikotan. Turns out TouhouFest is structured differently from other anime conventions.  | 🇬🇧 |
+| ['LETS FOCUS ON THE EXPERIENCE' - INTERVIEW WITH TOUHOUFEST CHAIR LUCAS CHANG](https://jimmysconventionguide.blogspot.com/2023/04/interview-with-touhoufest-chair.html)   | Interview on the chair of TouhouFest, Mikotan. Turns out TouhouFest is structured differently from other anime conventions.  | 🇬🇧 |
 | [Welcome to the Chibi Gang! An Interview with Justin Chang](https://bricknerd.com/home/welcome-to-the-chibi-gang-9-12-24) | Touches upon his chibi Touhou Lego figures and his social connections. | 🇬🇧 |
 | [幻想Storageの舞台裏：草の根的コミュニティの挑戦と発展 前編](https://touhou-music.club/interview-genso-storage-1/) | A two-part interview about GENSOStorage in relation to supporting a grassroots network for Touhou music. | 🇯🇵 |
 
@@ -193,7 +193,7 @@ Unless stated otherwise, translation languages focuses on Japanese to English.
 
 | Name | Description | Language |
 | ---- | ----------- | -------- |
-|[Bandcamp](https://bandcamp.com/tag/touhou?from=search&page=1&search_item_id=2&search_item_type=%40&search_match_part=%3F&search_page_id=2828772485&search_page_no=0&search_rank=1&sort_field=date) | A Bandcamp search for all albums tagged with "Touhou".| 🇬🇧 |
+|[Bandcamp](https://bandcamp.com/tag/touhou?from=search&page=1&search_item_id=2&search_item_type=%40&search_match_part=%3F&search_page_id=2828772485&search_page_no=0&search_rank=1&sort_field=date) | A Bandcamp search for all albums tagged with 'Touhou'.| 🇬🇧 |
 | [GENSOStorage](https://www.youtube.com/@GENSOStorage) | A Youtube channel that distributes Touhou arranges by author submissions. Both old and new Touhou arranges are accepted is to help create a network for up-and-coming Touhou music creators. | 🎶, 🇯🇵, 🇬🇧 |
 
 ### Music Resources
@@ -234,7 +234,7 @@ Unless stated otherwise, translation languages focuses on Japanese to English.
 
 | Name | Description | Language |
 | ---- | ----------- | -------- |
-| [AICHIYA SANAE'S NET WORD](https://animackid.wordpress.com/) | Developer of the "Touhoumon" rom hacks. | 🇬🇧 |
+| [AICHIYA SANAE'S NET WORD](https://animackid.wordpress.com/) | Developer of the 'Touhoumon' rom hacks. | 🇬🇧 |
 |[Andrew Fan’s Code Dump](https://sparen.github.io) |Hosts Danmakufu information, a database for Danmakufu contests, and a Danmakufu video database. | 🇬🇧  |
 | [Nylilsa's GitHub page](https://nylilsa.github.io/#/home) | Articles on Touhou game glitches and their causes. | 🇬🇧 |
 |[Backlogged Touhou Project & Fangame Collection](https://www.backloggd.com/u/ouroborostxt/list/touhou-project--fangames/release/grid/) | A list of Touhou fangames of a variety of sources and genres. | 🇬🇧  |
@@ -278,7 +278,7 @@ Unless stated otherwise, translation languages focuses on Japanese to English.
 | [donjuan](https://www.donjuantriumph.com/) | Website for their hand-drawn Touhou videos such as Wheelchair Detective Satori. | 🇯🇵 |
 | [DRUNK Project](https://drunkies.wixsite.com/drunk-project) | Touhou doujin circle from Indonesian-speaking communities. | 🇮🇩 |
 | [Touhoppai](https://touhoppai.moe/index.html) | French Touhou Circle | 🇫🇷 |
-| [Paradise of Boundaries](https://www.youtube.com/@ParadiseofBoundaries/videos) | Hispanic Circle that has also published their fan magazine, "Bunbunmaru Extra" | 🇪🇸 |
+| [Paradise of Boundaries](https://www.youtube.com/@ParadiseofBoundaries/videos) | Hispanic Circle that has also published their fan magazine, 'Bunbunmaru Extra' | 🇪🇸 |
 | [Pansyn](https://pansyn.com/)   | Pansyn is a doujin group coordinated by Hrusa. We focus on publishing independant doujin works and nurturing artistic skills of young creators.  | 🇬🇧 |
 
 ## Shopping

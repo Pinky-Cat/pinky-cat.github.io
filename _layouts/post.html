@@ -1,49 +1,49 @@
 <!DOCTYPE html>
 <html lang='en'>
 <head>
-	<meta charset='UTF-8' />
-	<meta name='viewport' content='width=device-width, initial-scale=1.0' />
+	<meta charset='UTF-8'>
+	<meta name='viewport' content='width=device-width, initial-scale=1.0'>
 	<title>{{ page.title }} - Pinky's Observatory</title>
-	<link rel="preload" href="/fonts/IBMPlexSans-Regular.woff2" as="font" type="font/woff2" crossorigin>
-	<link rel='stylesheet' href='/styles.css'/>
+	<link rel='preload' href='/fonts/IBMPlexSans-Regular.woff2' as='font' type='font/woff2' crossorigin>
+	<link rel='stylesheet' href='/styles.css'>
 
-	<meta property="title" content="{{ page.title }}">
-	<meta property="og:title" content="{{ page.title }}">
-	<meta property="og:site_name" content="Pinky Cat's Observatory">
-	<meta property="og:url" content="{{ permalink }}">
-	<meta property="description" content="{{ description }}">
-	<meta property="og:description" content="{{ description }}">
-	<meta property="og:type" content="article">
+	<meta property='title' content='{{ page.title }}'>
+	<meta property='og:title' content='{{ page.title }}'>
+	<meta property='og:site_name' content='Pinky Cat's Observatory'>
+	<meta property='og:url' content='{{ permalink }}'>
+	<meta property='description' content='{{ description }}'>
+	<meta property='og:description' content='{{ description }}'>
+	<meta property='og:type' content='article'>
 </head>
 <body>
-	<div class="header-container">
-		<div class="header-title">
-			<a href="/index.html">
-				<h1 class="website-title"><strong>Pinky's Cat Observatory</strong></h1>
+	<div class='header-container'>
+		<div class='header-title'>
+			<a href='/index.html'>
+				<h1 class='website-title'><strong>Pinky's Cat Observatory</strong></h1>
 			</a>
 		</div>
-		<div id="content-header" class="header">
+		<div id='content-header' class='header'>
 			<ul>
-				<li class="title-background"><a href="/personal.html">Personal</a></li>
-				<li class="title-background"><a href="/writings.html">Writings</a></li>
-				<li class="title-background"><a href="/indexes.html">Indexes</a></li>
-				<li class="title-background"><a href="/findings.html">Findings</a></li>
+				<li class='title-background'><a href='/personal.html'>Personal</a></li>
+				<li class='title-background'><a href='/writings.html'>Writings</a></li>
+				<li class='title-background'><a href='/indexes.html'>Indexes</a></li>
+				<li class='title-background'><a href='/findings.html'>Findings</a></li>
 			</ul>
 		</div>
 	</div>
 	<div class='page-container'>
-		<div class='page'>
-			<div class="title-container">
-				<ul class="title">
+		<main>
+			<div class='title-container'>
+				<div class='title'>
 					<h1>{{ page.title }}</h1>
-					<p> Published: {{ page.date | date_to_long_string: "ordinal", "US" }}</p>
-				</ul>
+					<p> Published: {{ page.date | date_to_long_string: 'ordinal', 'US' }}</p>
+				</div>
 			</div>
 			{{ content }}
-		</div>
-		<div class="footer">
-			<p class="footer"><a href="#content-header">Back to Top</a></p>
-		</div>
+			<div class='footer'>
+				<p class='footer'><a href='#content-header'>Back to Top</a></p>
+			</div>
+		</main>
 	</div>
 </body>
 </html>

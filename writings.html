@@ -3,53 +3,53 @@
 <!DOCTYPE html>
 <html lang='en'>
 <head>
-    <meta charset='UTF-8' />
-    <meta name='viewport' content='width=device-width, initial-scale=1.0' />
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
     <title>Writings - Pinky's Observatory</title>
-    <link rel="preload" href="/fonts/IBMPlexSans-Regular.woff2" as="font" type="font/woff2" crossorigin>
-	<link rel='stylesheet' href='/styles.css'/>
+    <link rel='preload' href='/fonts/IBMPlexSans-Regular.woff2' as='font' type='font/woff2' crossorigin>
+	<link rel='stylesheet' href='/styles.css'>
 
-    <meta property="title" content="Writings">
-    <meta property="og:title" content="Writings">
-    <meta property="og:site_name" content="Pinky Cat's Observatory">
-    <meta property="og:url" content="https://pinky-cat.github.io/writings.html">
-    <meta property="description" content="An assortment of writing about topics that go through the mind">
-    <meta property="og:description" content="An assortment of writing about topics that go through the mind">
-    <meta property="og:type" content="article">
+    <meta property='title' content='Writings'>
+    <meta property='og:title' content='Writings'>
+    <meta property='og:site_name' content='Pinky Cat's Observatory'>
+    <meta property='og:url' content='https://pinky-cat.github.io/writings.html'>
+    <meta property='description' content='An assortment of writing about topics that go through the mind'>
+    <meta property='og:description' content='An assortment of writing about topics that go through the mind'>
+    <meta property='og:type' content='article'>
 </head>
 <body>
-    <div class="header-container">
-        <div class="header-title">
-            <a href="/index.html">
-                <h1 class="website-title"><strong>Pinky's Cat Observatory</strong></h1>
+    <div class='header-container'>
+        <div class='header-title'>
+            <a href='/index.html'>
+                <h1 class='website-title'><strong>Pinky's Cat Observatory</strong></h1>
             </a>
         </div>
-        <div id="content-header" class="header">
+        <div id='content-header' class='header'>
             <ul>
-                <li class="title-background"><a href="/personal.html">Personal</a></li>
-                <li class="title-background"><strong>Writings</strong></a></li>
-                <li class="title-background"><a href="/indexes.html">Indexes</a></li>
-                <li class="title-background"><a href="/findings.html">Findings</a></li>
+                <li class='title-background'><a href='/personal.html'>Personal</a></li>
+                <li class='title-background'><strong>Writings</strong></li>
+                <li class='title-background'><a href='/indexes.html'>Indexes</a></li>
+                <li class='title-background'><a href='/findings.html'>Findings</a></li>
             </ul>
         </div>
     </div>
     <div class='page-container see'>
-        <div class="page">
-            <div class="title-container">
-                <h1 class="title">Writings</h1>
+        <main>
+            <div class='title-container'>
+                <h1 class='title'>Writings</h1>
             </div>
-            <p class="intro">An assortment of writing about topics that go through the mind.</p>
-                <div style="text-align: center;">
+            <p class='intro'>An assortment of writing about topics that go through the mind.</p>
+                <div style='text-align: center;'>
                     {% for post in site.posts %}
-                    <div class="post">
-                        <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+                    <div class='post'>
+                        <p><a href='{{ post.url }}'>{{ post.title }}</a></p>
                     </div>
                     {% endfor %}
                 </div>
-            <div class="footer">
-                <p class="footer"><a href="#content-header">Back to Top</a></p>
+            <div class='footer'>
+                <p class='footer'><a href='#content-header'>Back to Top</a></p>
             </div>
-        </div>
+        </main>
     </div>
 </body>
 </html>

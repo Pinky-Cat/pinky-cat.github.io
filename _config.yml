@@ -11,7 +11,7 @@ kramdown:
 defaults:
   -
     scope:
-      path: ""
+      path: ''
       type: posts
     values:
      nothing:

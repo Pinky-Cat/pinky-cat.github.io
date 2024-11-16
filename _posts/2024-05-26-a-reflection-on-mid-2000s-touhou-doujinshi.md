@@ -1,11 +1,10 @@
 ---
 
 layout: post
-title: "A Reflection on Mid-2000s Touhou Doujinshi"
+title: 'A Reflection on Mid-2000s Touhou Doujinshi'
 date: 2024-05-26
 update: 2024-11-10
 tags: touhou
-patch: 
 permalink:
 
 ---
@@ -14,7 +13,7 @@ Today, I read [*The Right Tools For The Job*](https://archiveofourown.org/works/
 
 I used to read all the Touhou doujinshi I could find, going on a [reading journey](https://ayearofreadingtheworld.com/thelist/) to begin reading [Dynasty Reader](https://dynasty-scans.com/doujins/touhou_project) releases from 2006 to 2019, starting when the [first scanlated Touhou doujinshi](https://dynasty-scans.com/chapters/its_not_a_dream) was released on the internet. This journey was completed on June 27, 2023, and is currently saved as a highlighted doujinshi list on Tachiyomi.
 
-In reflection of my reading journey, I find that most doujinshi from the mid-2000s don't hold up to today's standards on Touhou fanworks. These doujinshi employ [Outside World jokes](https://scarlet.nsk.sh/book/org-16699), play on [shallow characterization](https://scarlet.nsk.sh/book/org-371808), or focus too much on being a parody. These doujinshi don't feel very "Touhou" as its unique setting is ignored to serve as a stepping stone for comedy or parodies, instead of writing with the Touhou setting in mind.
+In reflection of my reading journey, I find that most doujinshi from the mid-2000s don't hold up to today's standards on Touhou fanworks. These doujinshi employ [Outside World jokes](https://scarlet.nsk.sh/book/org-16699), play on [shallow characterization](https://scarlet.nsk.sh/book/org-371808), or focus too much on being a parody. These doujinshi don't feel very 'Touhou' as its unique setting is ignored to serve as a stepping stone for comedy or parodies, instead of writing with the Touhou setting in mind.
 
 This is not to say that there were no mid-2000s doujinshi that don’t write with the setting of Touhou, though I can only think of [Two by This Side, Three by the Other Side](https://scarlet.nsk.sh/book/md-8c4423d2-e676-4ff7-8a46-b5e00970d8cb)* by Personal Color for its exploration on the relationship with Yuyuko and Yukari. Still, I believe that Touhou fans back in the mid-2000s treated the Touhou setting as more humorous compared to today due to the setting being more transcendent in details without the likes of *Forbidden Scrollery* and *Wild and Horned Hermit*.
 

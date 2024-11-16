@@ -1,7 +1,7 @@
 ---
 layout: touhou-website-index
-title:  "Interesting Websites"
-description: "A list of websites picked for their unique content."
+title:  'Interesting Websites'
+description: 'A list of websites picked for their unique content.'
 date: 2023-05-17
 update: 2024-10-04
 tags:

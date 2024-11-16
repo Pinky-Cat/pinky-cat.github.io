@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3rd Eye Research"
+title: '3rd Eye Research'
 date: 2024-01-23
 tags: touhou
 permalink:
@@ -155,150 +155,150 @@ As a bonus, here is an assorted list of artworks Kotoinari has done over the yea
 
 | Speaker    | Original                 | Machine Translation                                                        |
 | ---------- | ------------------------ | -------------------------------------------------------------------------- |
-| Inquisitor | "古明地さん"                  | Ms. Komeiji.                                                               |
-| Koishi     | "ええ"                     | Yes.                                                                       |
-| Inquisitor | "初めます"                   | Nice to meet you.                                                          |
-| Koishi     | "かまいませんわ"                | It's all right.                                                            |
-| Inquisitor | "ご両親は残念で――"              | I'm sorry to hear about your parents.                                      |
-| Koishi     | "どうもありがとう"               | Thank you very much.                                                       |
-| Koishi     | "それはさっきの方からも聞いたわ"        | I heard about that from the other woman.                                   |
-| Inquisitor | "あー"                     | Uh...                                                                      |
-| Inquisitor | "では"                     | So...                                                                      |
-| Inquisitor | "お仕事は何を？"                | What do you do for a living?                                               |
-| Koishi     | "ご存じでしょ"                 | You know what I do.                                                        |
-| Inquisitor | "無職"                     | No job.                                                                    |
-| Koishi     | "ええ"                     | Yes.                                                                    |
-| Inquisitor | "するとあの晩には"               | So that night...                                                           |
-| Koishi     | "どの晩ですか"                 | Which night?                                                               |
-| Inquisitor | "事故の晩です"                 | The night of the accident.                                                 |
-| Koishi     | "事故ね"                    | The accident.                                                              |
-| Koishi     | "ふふ、事故"                  | Hmm, accident.                                                             |
-| Inquisitor | "事故の晩にはどちらにいらっしゃったので？"   | Where were you the night of the accident?                                  |
-| Koishi     | "屋敷よ"                    | At the house.                                                              |
-| Inquisitor | "では騒音も聞こえていたんですね"        | And you heard the noise?                                                   |
-| Koishi     | "ええ"                     | Yes.                                                                       |
-| Koishi     | "屋敷を出てすぐの崖ですもの"          | It was right outside the house, on the cliff.                              |
-| Inquisitor | "屋敷で何を"                  | What were you doing at the house?                                          |
-| Koishi     | "んふふ"                    | Mm-hmm.                                                                    |
-| Koishi     | "無職ですから"                 | I don't have a job.                                                        |
-| Koishi     | "のんびり"                   | I'm just taking it easy.                                                   |
-| Inquisitor | "なるほど"                   | I see.                                                                     |
-| Inquisitor | "具体的には"                  | What do you mean?                                                          |
-| Koishi     | "何も"                     | Nothing.                                                                   |
-| Inquisitor | "なるほど"                   | I see.                                                                     |
-| Inquisitor | "こんな言葉があります……"           | There's a saying……                                                         |
-| Inquisitor | "暇な手は悪魔の作業場……"           | Idle hands are the devil's workshop……                                    |
-| Koishi     | "存じ上げませんわね"              | I'm afraid I don't know it.                                                |
-| Inquisitor | "人間暇だとロクなことをしない"         | People don't do a lot of good when they're bored.                          |
-| Koishi     | "そうかしら"                  | I don't think so.                                                          |
-| Koishi     | "私はただ暇じゃないのよ"            | I'm not just idle hands.                                                   |
-| Koishi     | "何もしなくていいだけ"             | I just don't have to do anything.                                          |
-| Koishi     | "あなた方は大変ですわね"            | You guys must have a lot of work.                                          |
-| Koishi     | "こんな遅くまで仕事"              | You're working late.                                                       |
-| Koishi     | "狭い家に帰ってまたお仕事"           | You have to go home to your little house and work again.                   |
-| Inquisitor | "みんなそうです"                | We all do.                                                                 |
-| Koishi     | "どうかしら"                  | I don't know.                                                              |
-| Inquisitor | "単刀直入に！"                 | To put it simply!                                                              |
-| Inquisitor | "現場にはブレーキ痕なし"            | No brake marks at the scene.                                               |
-| Inquisitor | "ブレーキの痕がなかった"            | There were no brake marks.                                                 |
-| Koishi     | "心中ですもの"                 | It was a suicide.                                                          |
-| Inquisitor | "そう言っているのはあなただけだ"        | You're the only one saying that.                                           |
-| Inquisitor | "なぜそう思うんです"              | Why do you say that?                                                       |
-| Koishi     | "父も母も絶望してました"            | My mother and father were devastated.                                      |
-| Inquisitor | "話を戻します"                 | I'll come back to that.                                                    |
-| Inquisitor | "痕跡はありませんでしたが"           | There was no sign of them.                                                 |
-| Inquisitor | "ブレーキをかけようとはしていたのかも"     | Maybe she was trying to brake.                                             |
-| Inquisitor | "ペダルの下に何か挟まっていた"         | There was something stuck under the pedal.                                 |
-| Inquisitor | "そんな事故は度々起こります"          | Accidents like that happen all the time.                                   |
-| Inquisitor | "たいてい空き缶が原因です"           | Usually it's an empty can.                                                 |
-| Inquisitor | "車内に薬瓶がありました"            | We found a pill bottle in the car.                                         |
-| Inquisitor | "あなたに処方された薬です"           | We found a pill bottle in the car. It's your prescription.                 |
-| Inquisitor | "なにか心当たりは？"              | Do you have any idea what it was?                                          |
-| Koishi     | "両親は死にたがっていた――"          | My parents wanted to die.                                                  |
-| Inquisitor | "――なぜそう思うんですか"           | Why do you think that?                                                     |
-| Koishi     | "そう思うんじゃなく"              | It's not that they wanted to die.                                          |
-| Koishi     | "知ってるの"                  | I know.                                                                    |
-| Inquisitor | "本人から聞いたんですか"            | Did they tell you?                                                         |
-| Koishi     | "いえ、見たの"                 | No, I saw them.                                                            |
-| Inquisitor | "見た？"                    | You saw them?                                                              |
-| Inquisitor | "何を"                     | Saw what?                                                                  |
-| Koishi     | "気持ちを"                   | Feelings.                                                                  |
-| Inquisitor | "感じたのではなく？"              | You didn't feel it?                                                        |
-| Koishi     | "私たちはね"                  | We see.                                                                    |
-| Koishi     | "感情を見るのよ"                | We see feelings.                                                           |
-| Koishi     | "私とあの子は"                 | Me and her...                                                              |
-| Inquisitor | "わかりませんね"                | I don't understand.                                                        |
-| Inquisitor | "どんなふうに見るんですか"           | How do you see them?                                                       |
-| Koishi     | "光の中で見るの"                | We see them in the light.                                                  |
-| Koishi     | "あなたのこともわかるわよ"           | I see you, too.                                                            |
-| Koishi     | "あら"                     | Oh, no.                                                                    |
-| Koishi     | "怖がっちゃって"                | You're scared.                                                             |
-| Inquisitor | "怖くなんか"                  | I'm not scared.                                                            |
-| Koishi     | "あらァ"                    | Oh, no.                                                                    |
-| Koishi     | "私の話し方、四年の先生に似てるの？"      | Do I talk like my fourth grade teacher?                                    |
-| Koishi     | "大丈夫よ"                   | It's okay.                                                                 |
-| Koishi     | "金魚が死んだのはあなたのせいじゃない"     | It's not your fault that the goldfish died.                                |
-| Koishi     | "あなたの感情。昔のことも見れるわよ"      | Your feelings. I can see what you used to do.                              |
-| Koishi     | "あーらあ"                   | Oh, no.                                                                    |
-| Koishi     | "平気よ、生き物の1匹や二匹"          | It's okay, one or two creatures.                                           |
-| Inquisitor | "私のことは今関係ない"             | It's not about me right now.                                               |
-| Koishi     | "あら"                     | Oh, no.                                                                    |
-| Koishi     | "やっぱりそうだわ"               | I knew it.                                                                 |
-| Koishi     | "わたしは知っているのよ"            | I know what I'm talking about.                                             |
-| Koishi     | "ぜぇんぶ"                   | All of it.                                                                 |
-| Inquisitor | "今はあなたの話をしているんだ"         | We're talking about you now.                                               |
-| Inquisitor | "おまえがやったんだ！"             | You did this!                                                              |
-| Koishi     | "私だけのせい？"                | It's my fault?                                                             |
-| Koishi     | "程度の差でしかない！"             | It's just a matter of degrees!                                             |
-| Inquisitor | "どういう意味です"               | What do you mean?                                                          |
-| Koishi     | "証拠もないでしょう"              | You have no proof.                                                         |
-| Koishi     | "父も母も姉も！"                | My father, my mother, my sister!                                           |
-| Koishi     | "みんなが悪いのよ"               | It's everyone's fault.                                                     |
-| Koishi     | "わかる？"                   | Do you understand?                                                         |
-| Koishi     | "教室の金魚を殺したのはあなたじゃない"     | You didn't kill the goldfish in my classroom.                              |
-| Koishi     | "たしかにそれはそう"              | That's true, that's true.                                                  |
-| Koishi     | "でも女の子に餌をあげさせなかった"       | But you didn't let the girl feed them.                                     |
-| Koishi     | "意地悪で"                   | You were mean.                                                             |
-| Koishi     | "女の子はこっそり餌をやろうとして"       | The girl was trying to sneak in some food.                                 |
-| Koishi     | "缶の開け方を知らなくて"            | She didn't know how to open the can.                                       |
-| Koishi     | "うっかり中身を全部入れてしまった"       | She accidentally poured the whole contents into the can.                   |
-| Koishi     | "ポンプが詰まって金魚は死んだ"         | The pump clogged and the goldfish died.                                    |
-| Koishi     | "金魚が死んだのはポンプが止まったから"     | The goldfish died because the pump stopped.                                |
-| Koishi     | "ポンプが止まったのは餌缶をひっくり返したから" | The pump stopped because I tipped over the feed can.                       |
-| Koishi     | "餌缶をひっくり返したのは女の子"        | The girl overturned the feed can.                                          |
-| Koishi     | "女の子が餌をやったのはあなたのせい"      | It was your fault that the girl was feeding.                               |
-| Koishi     | "あなたが意地悪したから"            | You were mean to her.                                                      |
-| Koishi     | "あなただけが悪いんじゃない"          | It's not just your fault.                                                  |
-| Koishi     | "悪意が溜まると、誰かが死ぬ"          | Every time there's a bad situation, someone dies.                          |
-| Koishi     | "それが今回は"                 | And this time...                                                           |
-| Koishi     | "たまたま"                   | It just happened.                                                          |
-| Koishi     | "うちの両親だっただけよ"            | It just happened to be my parents.                                         |
-| Koishi     | "この世界で人が死ぬのは"            | People die in this world because...                                        |
-| Koishi     | "全員が少しずつ悪人だからよ"          | Because we're all a little bit bad.                                        |
-| Koishi     | "アハハハハハ！"                | Ha-ha-ha-ha-ha!                                                            |
-| Inquisitor | "困った妹さんですな"              | Your sister is in trouble.                                                 |
-| Inquisitor | "ご覧の通り非協力的な態度です"         | As you can see, she's not being very cooperative.                          |
-| Satori     | "すいません……"                | I'm sorry. ......                                                          |
-| Inquisitor | "どうでしょう"                 | I don't know.                                                              |
-| Inquisitor | "前向きに考えて――"              | I'm sure we can come up with something positive...                         |
-| Inquisitor | "施設に入ってもらいましょう"          | I'd like to see her institutionalized.                                     |
-| Satori     | "いえそれは……"                | No, I don't think that's a good idea.                                      |
-| Satori     | "……それはいやです"              | I don't think that's a good idea.                                          |
-| Inquisitor | "専門家に頼った方がいい"            | I think you should seek professional help.                                 |
-| Inquisitor | "あなたにとっても"               | For you.                                                                   |
-| Inquisitor | "こいしさんにとっても"             | For you and for Ms. Koishi.                                                |
-| Satori     | "施設が何をしてくれるんです"          | What does the institution do for you?                                      |
-| Inquisitor | "教育です"                   | Education.                                                                 |
-| Inquisitor | "…………例えば、思いやりとか"         | ............for example, how to be compassionate.                          |
-| Inquisitor | "そう、友達の作り方とかです"          | Yes, how to make friends.                                                  |
-| Satori     | "私がやります。やりなおします"         | I'll do it. I'll redo it.                                                  |
-| Inquisitor | "やりなおすとは？"               | What do you mean, "redo"?                                                  |
-| Satori     | "こいしを眠らせて"               | Putting Koishi to sleep.                                                   |
-| Satori     | "子供に戻ってもらう"              | Let her be a child again.                                                  |
-| Satori     | "もう一度成長しなおすチャンスをあげるんです"  | I'm giving her a chance to grow up again.                                  |
-| Satori     | "私が取り上げてしまったチャンスを――"     | I'm giving her a chance to grow up again... a chance I took away from her. |
-| Inquisitor | "あー、よくわかりませんが"           | Uh, I don't know, sir.                                                     |
-| Inquisitor | "おもてに出さないことです"           | I don't know… I don't know… Don't show it.                                 |
-| Inquisitor | "人のトラウマを刺激して――"          | You're provoking trauma in people…                                         |
-| Inquisitor | "傷付けているんです。通り魔のように"      | You're hurting them. Like a street demon."                                 |
-| Satori     | "わかりました……"               | Okay…...                                                                   |
+| Inquisitor | '古明地さん'                  | Ms. Komeiji.                                                               |
+| Koishi     | 'ええ'                     | Yes.                                                                       |
+| Inquisitor | '初めます'                   | Nice to meet you.                                                          |
+| Koishi     | 'かまいませんわ'                | It's all right.                                                            |
+| Inquisitor | 'ご両親は残念で――'              | I'm sorry to hear about your parents.                                      |
+| Koishi     | 'どうもありがとう'               | Thank you very much.                                                       |
+| Koishi     | 'それはさっきの方からも聞いたわ'        | I heard about that from the other woman.                                   |
+| Inquisitor | 'あー'                     | Uh...                                                                      |
+| Inquisitor | 'では'                     | So...                                                                      |
+| Inquisitor | 'お仕事は何を？'                | What do you do for a living?                                               |
+| Koishi     | 'ご存じでしょ'                 | You know what I do.                                                        |
+| Inquisitor | '無職'                     | No job.                                                                    |
+| Koishi     | 'ええ'                     | Yes.                                                                    |
+| Inquisitor | 'するとあの晩には'               | So that night...                                                           |
+| Koishi     | 'どの晩ですか'                 | Which night?                                                               |
+| Inquisitor | '事故の晩です'                 | The night of the accident.                                                 |
+| Koishi     | '事故ね'                    | The accident.                                                              |
+| Koishi     | 'ふふ、事故'                  | Hmm, accident.                                                             |
+| Inquisitor | '事故の晩にはどちらにいらっしゃったので？'   | Where were you the night of the accident?                                  |
+| Koishi     | '屋敷よ'                    | At the house.                                                              |
+| Inquisitor | 'では騒音も聞こえていたんですね'        | And you heard the noise?                                                   |
+| Koishi     | 'ええ'                     | Yes.                                                                       |
+| Koishi     | '屋敷を出てすぐの崖ですもの'          | It was right outside the house, on the cliff.                              |
+| Inquisitor | '屋敷で何を'                  | What were you doing at the house?                                          |
+| Koishi     | 'んふふ'                    | Mm-hmm.                                                                    |
+| Koishi     | '無職ですから'                 | I don't have a job.                                                        |
+| Koishi     | 'のんびり'                   | I'm just taking it easy.                                                   |
+| Inquisitor | 'なるほど'                   | I see.                                                                     |
+| Inquisitor | '具体的には'                  | What do you mean?                                                          |
+| Koishi     | '何も'                     | Nothing.                                                                   |
+| Inquisitor | 'なるほど'                   | I see.                                                                     |
+| Inquisitor | 'こんな言葉があります……'           | There's a saying……                                                         |
+| Inquisitor | '暇な手は悪魔の作業場……'           | Idle hands are the devil's workshop……                                    |
+| Koishi     | '存じ上げませんわね'              | I'm afraid I don't know it.                                                |
+| Inquisitor | '人間暇だとロクなことをしない'         | People don't do a lot of good when they're bored.                          |
+| Koishi     | 'そうかしら'                  | I don't think so.                                                          |
+| Koishi     | '私はただ暇じゃないのよ'            | I'm not just idle hands.                                                   |
+| Koishi     | '何もしなくていいだけ'             | I just don't have to do anything.                                          |
+| Koishi     | 'あなた方は大変ですわね'            | You guys must have a lot of work.                                          |
+| Koishi     | 'こんな遅くまで仕事'              | You're working late.                                                       |
+| Koishi     | '狭い家に帰ってまたお仕事'           | You have to go home to your little house and work again.                   |
+| Inquisitor | 'みんなそうです'                | We all do.                                                                 |
+| Koishi     | 'どうかしら'                  | I don't know.                                                              |
+| Inquisitor | '単刀直入に！'                 | To put it simply!                                                              |
+| Inquisitor | '現場にはブレーキ痕なし'            | No brake marks at the scene.                                               |
+| Inquisitor | 'ブレーキの痕がなかった'            | There were no brake marks.                                                 |
+| Koishi     | '心中ですもの'                 | It was a suicide.                                                          |
+| Inquisitor | 'そう言っているのはあなただけだ'        | You're the only one saying that.                                           |
+| Inquisitor | 'なぜそう思うんです'              | Why do you say that?                                                       |
+| Koishi     | '父も母も絶望してました'            | My mother and father were devastated.                                      |
+| Inquisitor | '話を戻します'                 | I'll come back to that.                                                    |
+| Inquisitor | '痕跡はありませんでしたが'           | There was no sign of them.                                                 |
+| Inquisitor | 'ブレーキをかけようとはしていたのかも'     | Maybe she was trying to brake.                                             |
+| Inquisitor | 'ペダルの下に何か挟まっていた'         | There was something stuck under the pedal.                                 |
+| Inquisitor | 'そんな事故は度々起こります'          | Accidents like that happen all the time.                                   |
+| Inquisitor | 'たいてい空き缶が原因です'           | Usually it's an empty can.                                                 |
+| Inquisitor | '車内に薬瓶がありました'            | We found a pill bottle in the car.                                         |
+| Inquisitor | 'あなたに処方された薬です'           | We found a pill bottle in the car. It's your prescription.                 |
+| Inquisitor | 'なにか心当たりは？'              | Do you have any idea what it was?                                          |
+| Koishi     | '両親は死にたがっていた――'          | My parents wanted to die.                                                  |
+| Inquisitor | '――なぜそう思うんですか'           | Why do you think that?                                                     |
+| Koishi     | 'そう思うんじゃなく'              | It's not that they wanted to die.                                          |
+| Koishi     | '知ってるの'                  | I know.                                                                    |
+| Inquisitor | '本人から聞いたんですか'            | Did they tell you?                                                         |
+| Koishi     | 'いえ、見たの'                 | No, I saw them.                                                            |
+| Inquisitor | '見た？'                    | You saw them?                                                              |
+| Inquisitor | '何を'                     | Saw what?                                                                  |
+| Koishi     | '気持ちを'                   | Feelings.                                                                  |
+| Inquisitor | '感じたのではなく？'              | You didn't feel it?                                                        |
+| Koishi     | '私たちはね'                  | We see.                                                                    |
+| Koishi     | '感情を見るのよ'                | We see feelings.                                                           |
+| Koishi     | '私とあの子は'                 | Me and her...                                                              |
+| Inquisitor | 'わかりませんね'                | I don't understand.                                                        |
+| Inquisitor | 'どんなふうに見るんですか'           | How do you see them?                                                       |
+| Koishi     | '光の中で見るの'                | We see them in the light.                                                  |
+| Koishi     | 'あなたのこともわかるわよ'           | I see you, too.                                                            |
+| Koishi     | 'あら'                     | Oh, no.                                                                    |
+| Koishi     | '怖がっちゃって'                | You're scared.                                                             |
+| Inquisitor | '怖くなんか'                  | I'm not scared.                                                            |
+| Koishi     | 'あらァ'                    | Oh, no.                                                                    |
+| Koishi     | '私の話し方、四年の先生に似てるの？'      | Do I talk like my fourth grade teacher?                                    |
+| Koishi     | '大丈夫よ'                   | It's okay.                                                                 |
+| Koishi     | '金魚が死んだのはあなたのせいじゃない'     | It's not your fault that the goldfish died.                                |
+| Koishi     | 'あなたの感情。昔のことも見れるわよ'      | Your feelings. I can see what you used to do.                              |
+| Koishi     | 'あーらあ'                   | Oh, no.                                                                    |
+| Koishi     | '平気よ、生き物の1匹や二匹'          | It's okay, one or two creatures.                                           |
+| Inquisitor | '私のことは今関係ない'             | It's not about me right now.                                               |
+| Koishi     | 'あら'                     | Oh, no.                                                                    |
+| Koishi     | 'やっぱりそうだわ'               | I knew it.                                                                 |
+| Koishi     | 'わたしは知っているのよ'            | I know what I'm talking about.                                             |
+| Koishi     | 'ぜぇんぶ'                   | All of it.                                                                 |
+| Inquisitor | '今はあなたの話をしているんだ'         | We're talking about you now.                                               |
+| Inquisitor | 'おまえがやったんだ！'             | You did this!                                                              |
+| Koishi     | '私だけのせい？'                | It's my fault?                                                             |
+| Koishi     | '程度の差でしかない！'             | It's just a matter of degrees!                                             |
+| Inquisitor | 'どういう意味です'               | What do you mean?                                                          |
+| Koishi     | '証拠もないでしょう'              | You have no proof.                                                         |
+| Koishi     | '父も母も姉も！'                | My father, my mother, my sister!                                           |
+| Koishi     | 'みんなが悪いのよ'               | It's everyone's fault.                                                     |
+| Koishi     | 'わかる？'                   | Do you understand?                                                         |
+| Koishi     | '教室の金魚を殺したのはあなたじゃない'     | You didn't kill the goldfish in my classroom.                              |
+| Koishi     | 'たしかにそれはそう'              | That's true, that's true.                                                  |
+| Koishi     | 'でも女の子に餌をあげさせなかった'       | But you didn't let the girl feed them.                                     |
+| Koishi     | '意地悪で'                   | You were mean.                                                             |
+| Koishi     | '女の子はこっそり餌をやろうとして'       | The girl was trying to sneak in some food.                                 |
+| Koishi     | '缶の開け方を知らなくて'            | She didn't know how to open the can.                                       |
+| Koishi     | 'うっかり中身を全部入れてしまった'       | She accidentally poured the whole contents into the can.                   |
+| Koishi     | 'ポンプが詰まって金魚は死んだ'         | The pump clogged and the goldfish died.                                    |
+| Koishi     | '金魚が死んだのはポンプが止まったから'     | The goldfish died because the pump stopped.                                |
+| Koishi     | 'ポンプが止まったのは餌缶をひっくり返したから' | The pump stopped because I tipped over the feed can.                       |
+| Koishi     | '餌缶をひっくり返したのは女の子'        | The girl overturned the feed can.                                          |
+| Koishi     | '女の子が餌をやったのはあなたのせい'      | It was your fault that the girl was feeding.                               |
+| Koishi     | 'あなたが意地悪したから'            | You were mean to her.                                                      |
+| Koishi     | 'あなただけが悪いんじゃない'          | It's not just your fault.                                                  |
+| Koishi     | '悪意が溜まると、誰かが死ぬ'          | Every time there's a bad situation, someone dies.                          |
+| Koishi     | 'それが今回は'                 | And this time...                                                           |
+| Koishi     | 'たまたま'                   | It just happened.                                                          |
+| Koishi     | 'うちの両親だっただけよ'            | It just happened to be my parents.                                         |
+| Koishi     | 'この世界で人が死ぬのは'            | People die in this world because...                                        |
+| Koishi     | '全員が少しずつ悪人だからよ'          | Because we're all a little bit bad.                                        |
+| Koishi     | 'アハハハハハ！'                | Ha-ha-ha-ha-ha!                                                            |
+| Inquisitor | '困った妹さんですな'              | Your sister is in trouble.                                                 |
+| Inquisitor | 'ご覧の通り非協力的な態度です'         | As you can see, she's not being very cooperative.                          |
+| Satori     | 'すいません……'                | I'm sorry. ......                                                          |
+| Inquisitor | 'どうでしょう'                 | I don't know.                                                              |
+| Inquisitor | '前向きに考えて――'              | I'm sure we can come up with something positive...                         |
+| Inquisitor | '施設に入ってもらいましょう'          | I'd like to see her institutionalized.                                     |
+| Satori     | 'いえそれは……'                | No, I don't think that's a good idea.                                      |
+| Satori     | '……それはいやです'              | I don't think that's a good idea.                                          |
+| Inquisitor | '専門家に頼った方がいい'            | I think you should seek professional help.                                 |
+| Inquisitor | 'あなたにとっても'               | For you.                                                                   |
+| Inquisitor | 'こいしさんにとっても'             | For you and for Ms. Koishi.                                                |
+| Satori     | '施設が何をしてくれるんです'          | What does the institution do for you?                                      |
+| Inquisitor | '教育です'                   | Education.                                                                 |
+| Inquisitor | '…………例えば、思いやりとか'         | ............for example, how to be compassionate.                          |
+| Inquisitor | 'そう、友達の作り方とかです'          | Yes, how to make friends.                                                  |
+| Satori     | '私がやります。やりなおします'         | I'll do it. I'll redo it.                                                  |
+| Inquisitor | 'やりなおすとは？'               | What do you mean, 'redo'?                                                  |
+| Satori     | 'こいしを眠らせて'               | Putting Koishi to sleep.                                                   |
+| Satori     | '子供に戻ってもらう'              | Let her be a child again.                                                  |
+| Satori     | 'もう一度成長しなおすチャンスをあげるんです'  | I'm giving her a chance to grow up again.                                  |
+| Satori     | '私が取り上げてしまったチャンスを――'     | I'm giving her a chance to grow up again... a chance I took away from her. |
+| Inquisitor | 'あー、よくわかりませんが'           | Uh, I don't know, sir.                                                     |
+| Inquisitor | 'おもてに出さないことです'           | I don't know… I don't know… Don't show it.                                 |
+| Inquisitor | '人のトラウマを刺激して――'          | You're provoking trauma in people…                                         |
+| Inquisitor | '傷付けているんです。通り魔のように'      | You're hurting them. Like a street demon.'                                 |
+| Satori     | 'わかりました……'               | Okay…...                                                                   |

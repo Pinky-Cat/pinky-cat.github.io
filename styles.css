@@ -115,11 +115,12 @@ img {
 
 /* main classes */
 .page-container {
+	/*Unused container for main*/
+}
+main {
+	padding: 2rem 3rem 2rem 3rem;
 	background-color: #353945AA;
 	border: 2px solid #55562d;
-}
-.page {	
-	padding: 2rem 3rem 2rem 3rem;
 }
 .website-title {
 	letter-spacing: 0.04rem;
