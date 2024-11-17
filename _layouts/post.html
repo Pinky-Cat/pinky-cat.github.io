@@ -36,7 +36,7 @@
 			<div class='title-container'>
 				<div class='title'>
 					<h1>{{ page.title }}</h1>
-					<p> Published: {{ page.date | date_to_long_string: 'ordinal', 'US' }}</p>
+					<p>Published: {{ page.date | date_to_long_string: 'ordinal', 'US' }} &nbsp; {% if page.update %} Updated: {{ page.update | date_to_long_string: 'ordinal', 'US' }} {% endif %}</p>
 				</div>
 			</div>
 			{{ content }}

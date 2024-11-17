@@ -19,7 +19,7 @@ body {
 	background-color: #131112;
 	background-image: url(images/stars.png);
 	background-attachment: fixed;
-	background-size: 100%;
+	background-size: cover;
 }
 h1 {
 	font-size: 2rem;
@@ -213,6 +213,9 @@ main {
 
 /* mobile classes */
 @media only screen and (max-width:750px) {
+	body {
+		overflow-wrap: break-word;
+	}
 	.page-container {
 		background-color: #22143caf;
 	}
@@ -227,7 +230,7 @@ main {
 	.flex-timeline-container {
 		flex-direction: column;
 	}
-	body {
-		word-wrap: break-word;
+	.title {
+		overflow-wrap: normal;
 	}
 }
