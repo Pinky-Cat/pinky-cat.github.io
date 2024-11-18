@@ -19,7 +19,7 @@ body {
 	background-color: #131112;
 	background-image: url(images/stars.png);
 	background-attachment: fixed;
-	background-size: cover;
+	background-size: 100% 100%;
 }
 h1 {
 	font-size: 2rem;
