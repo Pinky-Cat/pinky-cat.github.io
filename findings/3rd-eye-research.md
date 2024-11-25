@@ -6,35 +6,35 @@ tags: touhou
 permalink:
 ---
 
-**This report goes along with descriptions under the [3rd Eye OST Playlist](https://www.youtube.com/playlist?list=PLnHsfVJM8tGoBKa3D9wGN9m2bJh9tTVSj). All translations are machine tranlslations from DeepL**
+**This report goes along with the descriptions under the videos of the [3rd Eye OST Playlist](https://www.youtube.com/playlist?list=PLnHsfVJM8tGoBKa3D9wGN9m2bJh9tTVSj). All translations are machine translations from DeepL**
 
 Where did the 3rd Eye team go after making this game?
 
 For Itteu, Back in 2020, he was a writer for Sakuya Wars during Touhou Station Game Jam 1, and submitted photos for a Touhou photography exhibit. As of 2024, Ittetu currently writes posts about Magic the Gathering, and while he has not written any works involving Touhou, he does likes to make many comparisons to Touhou.
 
-- Ittetu’s Note: https://note.com/ittetu_/
-- Touhou Game Jam: https://twitter.com/ittetu_/status/1297453733014458368
-- Photography Exhibit: https://twipla.jp/events/461415
+- [Ittetu’s Note](https://note.com/ittetu_/)
+- [Touhou Game Jam](https://twitter.com/ittetu_/status/1297453733014458368)
+- [Photography Exhibit](https://twipla.jp/events/461415)
 
 After Usamata’s introduction to the doujin world, she continued on her own doujin actitivies by drawing her own art. Back in 2020, Usamata worked with Kotoinari to create the Gone Children animation with OPTPiX SpriteStudio. As of 2024, Usamata is still active on her doujin circle, creating doujinshi on Uma Musume Pretty Derby. She also still has close tabs with the other members of 3rd Eye as she sometimes contributes art and animation to doujin circle Ridil and as seen from her Twitter account, retweets Kotoinari’s art.
 
-- Usamata’s Pixiv: https://www.pixiv.net/en/users/4130969
-- Gone Children Animation: https://www.youtube.com/watch?v=DugktE3ibp8
-- Ridil Album Collaboration: https://www.youtube.com/watch?v=2y64nDB9VV8
+- [Usamata’s Pixiv](https://www.pixiv.net/en/users/4130969)
+- [Gone Children Animation](https://www.youtube.com/watch?v=DugktE3ibp8)
+- [Ridil Album Collaboration](https://www.youtube.com/watch?v=2y64nDB9VV8)
 
 Kotoinari has a very visible art history for a Touhou artist as they drew a new art piece everyday. As for their work after 3rd Eye, after the turn to 2019, Kotoinari would place a focus on original works and stop drawing Touhou. That focus would lead to the creation of their own OCs, Gone Children, as well as an increased frequency of drawings of Western works and Western films. Kotoinari would continue on this path until late 2021, when their Twitter account started to repost previous art works, and reduced the amount of new drawings. Then in 2022, Kotoinari would stop reposting and begin to post new art again, except it was no longer daily. I give some of their Twitter posts on their thoughts about drawing art daily.
 
-- January 14, 2019 Touhou Art: https://twitter.com/flandore/status/1084868744562728960
-- June 15, 2019 Daily Steak: https://twitter.com/flandore/status/1139861663350263808
-- June 22, 2020 Artbook Creation: https://twitter.com/flandore/status/1275047251690156032
-- June 22, 2020 Origin Art Process: https://twitter.com/flandore/status/1275041534103060482
-- June 22, 2020 Lesson: https://twitter.com/flandore/status/1275042098786385921
-- October 30, 2023 Thoughts: https://twitter.com/flandore/status/1718935055157064101
+- [January 14, 2019 Touhou Art](https://twitter.com/flandore/status/1084868744562728960)
+- [June 15, 2019 Daily Steak](https://twitter.com/flandore/status/1139861663350263808)
+- [June 22, 2020 Artbook Creation](https://twitter.com/flandore/status/1275047251690156032)
+- [June 22, 2020 Origin Art Process](https://twitter.com/flandore/status/1275041534103060482)
+- [June 22, 2020 Lesson](https://twitter.com/flandore/status/1275042098786385921)
+- [October 30, 2023 Thoughts](https://twitter.com/flandore/status/1718935055157064101)
 
 Ridil continued to release new albums until COVID-19 hit, then they became inactive. However, they have recently come back and are currently active on their YouTube channel with a new vocal arrangement of “U.N. Owen was Her?” on their YouTube channel. Aside from being active, the YouTube account has posted comments about game development.
 
-- Future Ridil Game: https://www.youtube.com/watch?v=VGrrMrxNP-M&lc=UgzW2jmtMPRwrTn_FWJ4AaABAg.9YN4Zl7SqL_9YNvsGe0rtX
-- 3rd Eye Console Release: https://www.youtube.com/watch?v=zfv7lV9v5ek&lc=UgzTUU08cMqlsH6FKNN4AaABAg.9uq_NOGMfmj9uqf08pWr9i
+- [Future Ridil Game Youtube Comment](https://www.youtube.com/watch?v=VGrrMrxNP-M&lc=UgzW2jmtMPRwrTn_FWJ4AaABAg.9YN4Zl7SqL_9YNvsGe0rtX)
+- [3rd Eye Console Release Youtube Comment](https://www.youtube.com/watch?v=zfv7lV9v5ek&lc=UgzTUU08cMqlsH6FKNN4AaABAg.9uq_NOGMfmj9uqf08pWr9i)
 
 The first comment is a reply to a fan about a possible “3rd eye2” to which Ridil responded with, 
 
@@ -64,7 +64,7 @@ As for the second comment, it is a response to a console port of 3rd Eye. This c
 
 Sairoutine has continued to set up his doujin circle “Sunflower Game” at doujin events until 2023, showing off his games like “宇佐見蓮子の大事な約束”, “紫と霊夢の終わらない夏”, and 3rd Eye. Aside from that, Sairoutine took on programming job since 2020 which can shown by the amount of private GitHub commits post-2020 jumping to the hundreds. As for the 3rd Eye port, Sairoutine referenced it in his Hatena Blog.
 
-*Hatenea Blog 2019 Review Post: https://sairoutine.hatenablog.com/entry/2020/02/10/080000*
+*[Hatenea Blog 2019 Review Post](https://sairoutine.hatenablog.com/entry/2020/02/10/080000)*
 
 > 2019年05月にパッケージ版をリリース、10月にSteam版をリリースしました。
 > それなりの数が売れて、国内外から感想や実況プレイ頂き嬉しかったです。
@@ -112,46 +112,59 @@ Sairoutine has continued to set up his doujin circle “Sunflower Game” at dou
 
 According to this post, Sairoutine is responsible for the 3rd Eye port and that he is not motivated to work on the port. Given that this post was made on February 10, 2020, perhaps Sairoutine has progressed farther on the 3rd Eye port. Either way, Sairoutine has placed less focus on developing games thanks to his new job, through it is unknown what the private GitHub repositories could be. It could be about the “new project” Ridil mentioned.
 
-If you read all this reports, which can be found on the other YouTube uploads of the 3rd Eye soundtrack, I hope you have learned more about how this horror Touhou game came to be.
-As a bonus, here is an assorted list of artworks Kotoinari has done over the years.
+If you have read all this reports, which can be found in the descriptions for [each video of my 3rd Eye Original Soundtrack playlist](https://www.youtube.com/playlist?list=PLnHsfVJM8tGoBKa3D9wGN9m2bJh9tTVSj), then I hope you have learned more about how this horror Touhou game came to be. 
 
-- August 16, 2013: https://twitter.com/flandore/status/368275171670364160
-- March 24, 2014: http://twitpic.com/dz9djo
-- June 24, 2014: https://twitter.com/flandore/status/481438601696116737
+As a bonus, here is an assorted list of artworks Kotoinari has done over the years, divided up into eras to reflect his artstyle development.
 
-- March 26, 2015: https://twitter.com/flandore/status/581106754920005632
-- April 6, 2015: https://twitter.com/flandore/status/585081483561463808
-- December 16, 2015: https://twitter.com/flandore/status/677127693603704833
-- April 18, 2016: https://twitter.com/flandore/status/722063924393168896
+### 2013-2014
 
-- June 16, 2017: https://twitter.com/flandore/status/875716365251891200
-- October 15, 2017: https://twitter.com/flandore/status/919565035436892161
-- February 16, 2018: https://twitter.com/flandore/status/964426597628493825
-- April 24, 2018: https://twitter.com/flandore/status/988787092619640832
-- December 17, 2018: https://twitter.com/flandore/status/1074661779362308102
+- [August 16, 2013](https://twitter.com/flandore/status/368275171670364160)
+- [March 24, 2014](http://twitpic.com/dz9djo)
+- [June 24, 2014](https://twitter.com/flandore/status/481438601696116737)
 
-- March 6, 2019: https://twitter.com/flandore/status/1103294737446952962
-- March 21, 2019: https://twitter.com/flandore/status/1108730948361711616
-- May 21, 2019: https://twitter.com/flandore/status/1130836003764047873
-- July 28, 2019: https://twitter.com/i/web/status/1155473228258668544
-- August 14, 2019: https://twitter.com/i/status/1161629715108519937
-- December 31, 2019: https://katikatimusic.wixsite.com/kkym-1001
-- May 28, 2020: https://twitter.com/flandore/status/1265981650703249408
-- July 22, 2020: https://twitter.com/flandore/status/1275040313975824387
+### 2015-2016
 
-- May 14, 2021: https://twitter.com/flandore/status/1393128926126379009
+- [March 26, 2015](https://twitter.com/flandore/status/581106754920005632)
+- [April 6, 2015](https://twitter.com/flandore/status/585081483561463808)
+- [December 16, 2015](https://twitter.com/flandore/status/677127693603704833)
+- [April 18, 2016](https://twitter.com/flandore/status/722063924393168896)
 
-- January 15, 2022: https://twitter.com/flandore/status/1482278041523204096
-- April 7, 2022: https://twitter.com/flandore/status/1512007282183196672
-- April 13, 2022: https://twitter.com/flandore/status/1514176741018800133
-- May 23, 2022: https://twitter.com/flandore/status/1528685167736508416
-- January 17, 2024: https://twitter.com/flandore/status/1747564147896963508
+### 2017-2018
+
+- [June 16, 2017](https://twitter.com/flandore/status/875716365251891200)
+- [October 15, 2017](https://twitter.com/flandore/status/919565035436892161)
+- [February 16, 2018](https://twitter.com/flandore/status/964426597628493825)
+- [April 24, 2018](https://twitter.com/flandore/status/988787092619640832)
+- [December 17, 2018](https://twitter.com/flandore/status/1074661779362308102)
+
+### 2019-2020
+
+- [March 6, 2019](https://twitter.com/flandore/status/1103294737446952962)
+- [March 21, 2019](https://twitter.com/flandore/status/1108730948361711616)
+- [May 21, 2019](https://twitter.com/flandore/status/1130836003764047873)
+- [July 28, 2019](https://twitter.com/i/web/status/1155473228258668544)
+- [August 14, 2019](https://twitter.com/i/status/1161629715108519937)
+- [December 31, 2019](https://katikatimusic.wixsite.com/kkym-1001)
+- [May 28, 2020](https://twitter.com/flandore/status/1265981650703249408)
+- [July 22, 2020](https://twitter.com/flandore/status/1275040313975824387)
+
+### 2021
+
+- [May 14, 2021](https://twitter.com/flandore/status/1393128926126379009)
+
+### 2022-2024
+
+- [January 15, 2022](https://twitter.com/flandore/status/1482278041523204096)
+- [April 7, 2022](https://twitter.com/flandore/status/1512007282183196672)
+- [April 13, 2022](https://twitter.com/flandore/status/1514176741018800133)
+- [May 23, 2022](https://twitter.com/flandore/status/1528685167736508416)
+- [January 17, 2024](https://twitter.com/flandore/status/1747564147896963508)
 
 ---
 
 ## True Ending Transcript
 
-[Video of True Ending](https://youtu.be/9q1Nj1gTrOQ?si=u8Kc5b5_ZEfdT9U6). True ending text was extracted from the game files.
+[Video of True Ending on Youtube](https://youtu.be/9q1Nj1gTrOQ?si=u8Kc5b5_ZEfdT9U6). The true ending text and the name "Inquisitor" was extracted from the game files.
 
 | Speaker    | Original                 | Machine Translation                                                        |
 | ---------- | ------------------------ | -------------------------------------------------------------------------- |
@@ -167,7 +180,7 @@ As a bonus, here is an assorted list of artworks Kotoinari has done over the yea
 | Inquisitor | 'お仕事は何を？'                | What do you do for a living?                                               |
 | Koishi     | 'ご存じでしょ'                 | You know what I do.                                                        |
 | Inquisitor | '無職'                     | No job.                                                                    |
-| Koishi     | 'ええ'                     | Yes.                                                                    |
+| Koishi     | 'ええ'                     | Yes.                                                                       |
 | Inquisitor | 'するとあの晩には'               | So that night...                                                           |
 | Koishi     | 'どの晩ですか'                 | Which night?                                                               |
 | Inquisitor | '事故の晩です'                 | The night of the accident.                                                 |
@@ -187,7 +200,7 @@ As a bonus, here is an assorted list of artworks Kotoinari has done over the yea
 | Koishi     | '何も'                     | Nothing.                                                                   |
 | Inquisitor | 'なるほど'                   | I see.                                                                     |
 | Inquisitor | 'こんな言葉があります……'           | There's a saying……                                                         |
-| Inquisitor | '暇な手は悪魔の作業場……'           | Idle hands are the devil's workshop……                                    |
+| Inquisitor | '暇な手は悪魔の作業場……'           | Idle hands are the devil's workshop……                                      |
 | Koishi     | '存じ上げませんわね'              | I'm afraid I don't know it.                                                |
 | Inquisitor | '人間暇だとロクなことをしない'         | People don't do a lot of good when they're bored.                          |
 | Koishi     | 'そうかしら'                  | I don't think so.                                                          |
@@ -198,7 +211,7 @@ As a bonus, here is an assorted list of artworks Kotoinari has done over the yea
 | Koishi     | '狭い家に帰ってまたお仕事'           | You have to go home to your little house and work again.                   |
 | Inquisitor | 'みんなそうです'                | We all do.                                                                 |
 | Koishi     | 'どうかしら'                  | I don't know.                                                              |
-| Inquisitor | '単刀直入に！'                 | To put it simply!                                                              |
+| Inquisitor | '単刀直入に！'                 | To put it simply!                                                          |
 | Inquisitor | '現場にはブレーキ痕なし'            | No brake marks at the scene.                                               |
 | Inquisitor | 'ブレーキの痕がなかった'            | There were no brake marks.                                                 |
 | Koishi     | '心中ですもの'                 | It was a suicide.                                                          |
