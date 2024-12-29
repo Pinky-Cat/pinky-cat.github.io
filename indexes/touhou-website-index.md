@@ -3,12 +3,12 @@ layout: touhou-website-index
 title:  'Touhou Website Index'
 description: 'Collection of links on Touhou content around the internet!'
 date: 2024-06-05
-update: 2024-12-08
+update: 2024-12-28
 tags: Touhou
 permalink: 
 ---
 ## Foreword
-As an index extension to Raxelgrande's [Awesome Touhou](https://github.com/Raxelgrande/awesome-touhou) and to the wishes expressed in [The Independent Web of 2hu - A Dream of Eastern Turnpikes](https://www.tekitou.moe/posts/2023-04-18-tuhupike.html), this index will catalog any parts of the web containing noteworthy Touhou content to act as a historical record.
+As an index extension to FlameSniper's [Awesome Touhou](https://github.com/FlameSniper/awesome-touhou) and to the wishes expressed in [The Independent Web of 2hu - A Dream of Eastern Turnpikes](https://www.tekitou.moe/posts/2023-04-18-tuhupike.html), this index will catalog any parts of the web containing noteworthy Touhou content to act as a historical record.
 Feel free to contact me for any additions, comments, or suggestions to this list under the contacts listed under my [Personal Page](https://pinky-cat.github.io/personal.html).
 
 ### Table of Contents
@@ -39,7 +39,7 @@ Feel free to contact me for any additions, comments, or suggestions to this list
   - [Written Works](#written-works)
 - Gaming
   - [Games](#games)
-  - [Gaming Information](#Gaming-information)
+  - [Gaming Information](#gaming-information)
   - [Fun](#fun)
 - Creators
   - [Doujin Circles](#doujin-circles)
@@ -194,8 +194,9 @@ Gensokyo is made out of 1000 pictures.
 | Name | Description | Language |
 | ---- | ----------- | -------- |
 | [106 Touhou Posters](https://beacetina.com/106-touhou-posters) | Poster projects of Touhou characters. | 🇬🇧 |
+| [2023 동방 프로젝트 대규모 합작](https://hongeunyeong0.wixsite.com/2023touhou) | Art collab for all Touhou games. | 🇰🇷 |
 | [Flandre Scarlet Collaboration](https://tauminust.wixsite.com/touhou-flandre/)   | Flandre Scarlet themed art collab.  | 🇰🇷 |
-| [Gensokyo Grand Art Festival](https://andrew.fm/grand_art_festival/canvas2.html#) | Huge art collab | 🇬🇧 |
+| [Gensokyo Grand Art Festival](https://andrew.fm/grand_art_festival/canvas.html) | Huge art collab. | 🇬🇧 |
 | [REAL CLOTHES 秘封](https://realclothes-hifu.tumblr.com) | Renko and Maribel artworks wearing clothing that can be brought at the store. | 🇯🇵 |
 | [She said yes!](https://touhouwedding.wixsite.com/2019) | Wedding-themed art collab.| 🇬🇧 |
 | [Touhou Christmas Collaboration](https://pinkpinklnb.wixsite.com/tohoch) | Christmas-themed art collab. | 🇰🇷 |
@@ -206,6 +207,7 @@ Gensokyo is made out of 1000 pictures.
 | [Touhou x Pokemon](https://borry77.wixsite.com/tokemon/) | Pokemon-themed art collab.  | 🇰🇷 |
 | [Walfas Station Wagon](https://www.deviantart.com/walfasstationwagon) | Walfas group. | 🇬🇧 |
 | [イカルガ春の たわむれ祭り](https://bluehead.zombie.jp/35104/)   | A Miko and Soga couple joint collab. | 🇯🇵 |
+| [동방영야초 20주년 합작](https://reverince.github.io/TH/IN20th/) | Art Collab for Imperishable Night's 20th Anniversary | 🇰🇷 |
 
 ### Art Resources
 
@@ -230,6 +232,7 @@ Gensokyo is made out of 1000 pictures.
 | [PatchyVideo](https://thvideo.tv/#/home?coupon=video_latest) | Video archive index of Touhou manually uploaded by users from sources of Youtube, NicoNico, Bilibili, and more. | 🇨🇳 |
 | [PigeonVoyageur](https://www.youtube.com/c/PigeonxHunter) | Livesteamer of Touhou fangames.| 🇬🇧 |
 | [PoGu](https://www.youtube.com/@pogu8613) | Translator for Touhou MMD videos. | 🇬🇧 |
+| [交わる幻想郷Project](http://majigenproject.web.fc2.com/index.html) | A collaborative hand-drawn video project where each video was created between pairs of creators. The catch is that the organizer determined how the pairs would be organized for the goal of creating unorthodox Touhou combinations and to forge new connections between creators. | 🇯🇵 |
 
 ## Music
 
@@ -299,11 +302,10 @@ There wide variety of Touhou games out there.
 | Name | Description | Language |
 | ---- | ----------- | -------- |
 | [AICHIYA SANAE'S NET WORD](https://animackid.wordpress.com/) | Developer of the "Touhoumon" rom hacks. | 🇬🇧 |
+| [Andrew Fan’s Code Dump](https://sparen.github.io) |Hosts Danmakufu information, a database for Danmakufu contests, and a Danmakufu video database. | 🇬🇧  |
 | [Itch.io](https://itch.io/games/tag-touhou) | Hub to Touhou Game Jams. | 🇬🇧  |
 | [Nylilsa's GitHub page](https://nylilsa.github.io/#/home) | Articles on Touhou game glitches and their causes. | 🇬🇧 |
 | [博麗電脳試遊会](https://hakudenkai.games/) | Fangame showcase. |  🇯🇵 |
-| [Andrew Fan’s Code Dump](https://sparen.github.io) |Hosts Danmakufu information, a database for Danmakufu contests, and a Danmakufu video database. | 🇬🇧  |
-| [Backlogged Touhou Project & Fangame Collection](https://www.backloggd.com/u/ouroborostxt/list/touhou-project--fangames/release/grid/) | A list of Touhou fangames of a variety of sources and genres. | 🇬🇧  |
 | [Touhou Grand Fangames List](https://docs.google.com/spreadsheets/d/1fM-goZFQCg3cZyCbHMipD7xWgHme2tOQCENflIoe6YI/edit?usp=sharing) | A list of Touhou STG games. | 🇬🇧  |
 | [Visual Novel Database](https://vndb.org/g1193) | A catalog to Touhou visual novel releases. | 🇬🇧 |
 

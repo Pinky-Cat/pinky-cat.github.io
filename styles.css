@@ -90,7 +90,7 @@ blockquote {
 	border-color: #6DDF7C77;
 }
 hr {
-	border-style: solid;
+	border: 1px solid #515B79;
 }
 
 a:link {
