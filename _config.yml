@@ -1,9 +1,14 @@
+# Gem ~ Github Pages set webpage in safe mode, so plugins can't be used.'
+# plugins:
+# - jemoji
+
 # Where things are
 destination         : ./_site
 permalink: /:title:output_ext
 
 # Markdown
 markdown: kramdown
+encoding: UTF-8
 kramdown:
   auto_ids: true
 

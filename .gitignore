@@ -6,5 +6,5 @@ PythonMarkdown/
 _site/
 
 # Project Files
-images\Creating Images with Brush.pdn
 /images/Creating Images with Brush.pdn
+*.lock
