@@ -7,47 +7,104 @@
 	<link rel='preload' href='/fonts/IBMPlexSans-Regular.woff2' as='font' type='font/woff2' crossorigin>
 	<link rel='stylesheet' href='/styles.css'>
 
-	<meta property='title' content='Pinky Cat's Observatory'>
-	<meta property='og:title' content='Pinky Cat's Observatory'>
-	<meta property='og:site_name' content='Pinky Cat's Observatory'>
+	<meta property='title' content='Pinky Cat' s Observatory'>
+	<meta property='og:title' content='Pinky Cat' s Observatory'>
+	<meta property='og:site_name' content='Pinky Cat' s Observatory'>
 	<meta property='og:url' content='https://pinky-cat.github.io/'>
 	<meta property='description' content='The observatory looks high into the sky to see the bright stars. It houses a collection of writeups on the stars, marking some of the stars as objects of importance.'>
 	<meta property='og:description' content='The observatory looks high into the sky to see the bright stars. It houses a collection of writeups on the stars, marking some of the stars as objects of importance.'>
 	<meta property='og:type' content='article'>
+	<style>
+		* {
+			filter: drop-shadow(10px 10px 10px #19181810);
+		}
+
+		.index-title {
+			letter-spacing: 0.04rem;
+			font-size: 2.5rem;
+		}
+
+		.index-about {
+			max-width: 50%;
+			margin: 0 auto;
+			margin: 10vh 50vh 10vh 50vh;
+			padding: 2rem;
+			text-align: left;
+			background-color: #13111299;
+		}
+
+		.index header {
+			margin: 20vh 0vh 10vh 0vh;
+			padding: 3rem;
+		}
+
+		.flex-box-container-index {
+			max-height: 20vh;
+			padding: 10vh 0vh 10vh 0vh;
+			display: flex;
+			flex-direction: row;
+			flex-wrap: wrap;
+			justify-content: center;
+			align-items: center;
+		}
+
+		.title-background {
+			font-size: 2rem;
+			background-color: none;
+		}
+
+		@media only screen and (max-width:750px) {
+			.index-title {
+				letter-spacing: 0.04rem;
+				font-size: 1.9rem;
+			}
+
+			.index-about {
+				max-width: 80%;
+				padding: 10vh 0vh 7vh 0vh;
+			}
+
+			.flex-box-container-index {
+				padding: 0vh 0vh 5vh 0vh;
+			}
+
+			.index header {
+				margin: 5vh 0vh 5vh 0vh;
+			}
+
+			.flex-box-container-index {
+				max-height: 20vh;
+			}
+
+			.title-background {
+				margin: 1rem 0rem 1rem 0rem;
+				padding: 1rem 1rem 1rem 1rem;
+			}
+	</style>
 </head>
-	<body>
-		<div class='header-container'>
-			<div class='header-title'>
-				<a href='/index.html'>
-					<h1 class='website-title'><strong>Pinky's Cat Observatory</strong></h1>
-				</a>
+<body>
+	<div class='page-container'>
+		<div class='flex-box-container-index'>
+			<div class='flex-items-index'>
+				<h1 class='index-title'><strong>Pinky's Cat Observatory</strong></h1>
 			</div>
-			<div id='content-header' class='header'>
-				<ul>
-					<li class='title-background'><a href='/personal.html'>Personal</a></li>
-					<li class='title-background'><a href='/writings.html'>Writings</a></li>
-					<li class='title-background'><a href='/indexes.html'>Indexes</a></li>
-					<li class='title-background'><a href='/findings.html'>Findings</a></li>
-				</ul>
+			<div class='flex-items-index'>
+				<img class='flex-items-index' src='images/placeholder-light.png' height='100'>
 			</div>
 		</div>
-		<div class='page-container'>
-			<main>
-				<div class='center'>
-					<img src='images/placeholder-light.png' height='300'>
-				</div>
-					<p class='intro'><em>
-						The observatory looks high into the sky to see the bright stars, housing a collection of writeups on the stars.
-						In its records are an <a href='https://pinky-cat.github.io/writings.html'>assorted set of writings about fanfiction</a>, a <a href='https://pinky-cat.github.io/indexes.html'>collection of indexes about other worlds</a>, and <a href='https://pinky-cat.github.io/findings.html'>a pile of research on the development of a horror game</a>.
-					</em></p>
-				<hr>
-				<h3>Bulletin</h3>
-				<p>Planning to release the first version of the Western Touhou Timeline to act as a record of the Touhou community on the Western side <s>by the end of November.</s></p>
-				<p>On hold, as I figure what topics should be inluded on the timeline.</p>
-				<p class='footer'>
-					<!-- <a href='credits.html'>Credits</a> -->
-				</p>
-			</main>
+
+		<p class='index-about'>
+			<em>
+				The observatory looks high into the sky to see the bright stars, housing a collection of writeups on the stars.
+				In its records are an <a href='https://pinky-cat.github.io/writings.html'>assorted set of writings about fanfiction</a>, a <a href='https://pinky-cat.github.io/indexes.html'>collection of indexes about other worlds</a>, and <a href='https://pinky-cat.github.io/findings.html'>a pile of research on the development of a horror game</a>.
+			</em>
+		</p>
+		<div id='content-header' class='index header'>
+			<a class='title-background' href='/personal.html'>Personal</a>
+			<a class='title-background' href='/writings.html'>Writings</a>
+			<a class='title-background' href='/indexes.html'>Indexes</a>
+			<a class='title-background' href='/findings.html'>Findings</a>
 		</div>
-	</body>
-	</html>
+	</div>
+</body>
+</html>

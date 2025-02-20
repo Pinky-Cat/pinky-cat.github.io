@@ -120,13 +120,15 @@ img {
 	margin-block-start: 0rem;
 }
 .intro {
+	margin: 0 auto;
 	text-align: center;
 }
 .header-container {
 	margin: 0rem 0rem 1rem 0rem;
+	padding: 0.5rem 0rem 0.5rem 0rem;
 	display: flex;
 	align-items: baseline;
-	border-bottom: 1px solid #fff;
+	border-bottom: 1px solid #FFF;
 }
 .header-container a {
 	text-decoration: none;
@@ -141,16 +143,27 @@ img {
 }
 .header {
 	width: 100%;
+	background-color: #13111299;
 }
-.header ul {
+.header {
 	display: flex;
 	justify-content: space-around;
 	flex-wrap: wrap;
 }
-.header li {
+.header a {
 	font-size: 1.2rem;
 	display: inline-block;
 	margin-left: 0rem;
+}
+.title-container {
+	display: flex;
+	justify-content: center;
+}
+
+.title-background {
+	font-size: 1.4rem;
+	padding: 1rem 1rem 1rem 1rem;
+	background-color: #13111299;
 }
 
 .page-container {
@@ -169,19 +182,13 @@ main {
 	border-bottom: 1px solid #fff;
 	text-align: center;
 }
-.title-container {
-	display: flex;
-	justify-content: center;
-}
-.title-background {
-	background-color: #13111299;
-}
 
 .flex-box-container {
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
 	justify-content: space-around;
+	align-items: center;
 }
 .box {
 	display: block;
@@ -213,13 +220,36 @@ main {
 	padding: 2rem 0rem 0rem 0rem;
 }
 
+/* index.html classes*/
+.index-title {
+	letter-spacing: 0.04rem;
+	font-size: 1.9rem;
+}
+.index-about {
+	max-width: 50%;
+	margin: 0 auto;
+	padding: 10vh 0vh 10vh 0vh;
+	text-align: center;
+}
+.index header {
+	padding: 20vh 0vh 10vh 0vh;
+}
+.flex-box-container-index {
+	max-height: 20vh;
+	padding: 20vh 0vh 10vh 0vh;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
 /* mobile classes */
 @media only screen and (max-width:750px) {
 	body {
 		overflow-wrap: break-word;
 	}
 	.page-container {
-		background-color: #22143caf;
+
 	}
 	.header-container {
 		flex-direction: column;
@@ -228,6 +258,10 @@ main {
 		margin: 0 auto;
 		padding-right: 0rem;
 		white-space: normal;
+	}
+
+	.title-background {
+		padding: 0.5rem 0.5rem 0.5rem 0.5rem;
 	}
 	.flex-timeline-container {
 		flex-direction: column;
