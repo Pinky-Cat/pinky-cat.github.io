@@ -24,19 +24,33 @@
 			font-size: 2.5rem;
 		}
 
-		.index-about {
-			max-width: 50%;
-			margin: 0 auto;
-			margin: 10vh 50vh 10vh 50vh;
+        .index-about {
+            display: flex;
+            justify-content: center;
+            max-width: 50%;
+            margin: 10vh auto;
+            text-align: left;
+            background-color: #13111299;
+        }
+
+		.index-about > p {
 			padding: 2rem;
-			text-align: left;
-			background-color: #13111299;
 		}
 
-		.index header {
-			margin: 20vh 0vh 10vh 0vh;
-			padding: 3rem;
-		}
+        .content-selector {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            width: 100%;
+            margin: 20vh 0vh 10vh 0vh;
+            padding: 1rem;
+            background-color: #13111299;
+        }
+        .content-selector a {
+                font-size: 1.2rem;
+                display: inline-block;
+                margin-left: 0rem;
+        }
 
 		.flex-box-container-index {
 			max-height: 20vh;
@@ -53,33 +67,36 @@
 			background-color: none;
 		}
 
-		@media only screen and (max-width:750px) {
-			.index-title {
-				letter-spacing: 0.04rem;
-				font-size: 1.9rem;
-			}
+        @media only screen and (max-width:750px) {
+            .index-title {
+                letter-spacing: 0.04rem;
+                font-size: 1.9rem;
+            }
 
-			.index-about {
-				max-width: 80%;
-				padding: 10vh 0vh 7vh 0vh;
-			}
+            .index-about {
+                max-width: 80%;
+				margin: 5vh auto;
+            }
 
-			.flex-box-container-index {
-				padding: 0vh 0vh 5vh 0vh;
-			}
+            .flex-box-container-index {
+                padding: 0vh 0vh 5vh 0vh;
+            }
 
-			.index header {
-				margin: 5vh 0vh 5vh 0vh;
-			}
+            .content-selector {
+                flex-direction: column;
+                margin: 10vh 0vh 0vh 0vh;
+            }
 
-			.flex-box-container-index {
-				max-height: 20vh;
-			}
+            .flex-box-container-index {
+                max-height: 20vh;
+            }
 
-			.title-background {
-				margin: 1rem 0rem 1rem 0rem;
-				padding: 1rem 1rem 1rem 1rem;
-			}
+            .title-background {
+                margin: 1rem 0rem 1rem 0rem;
+                padding: 1rem 1rem 1rem 1rem;
+				text-align: center;
+            }
+        }
 	</style>
 </head>
 <body>
@@ -93,13 +110,16 @@
 			</div>
 		</div>
 
-		<p class='index-about'>
-			<em>
-				The observatory looks high into the sky to see the bright stars, housing a collection of writeups on the stars.
-				In its records are an <a href='https://pinky-cat.github.io/writings.html'>assorted set of writings about fanfiction</a>, a <a href='https://pinky-cat.github.io/indexes.html'>collection of indexes about other worlds</a>, and <a href='https://pinky-cat.github.io/findings.html'>a pile of research on the development of a horror game</a>.
-			</em>
-		</p>
-		<div id='content-header' class='index header'>
+		<div class='index-about'>
+
+			<p>
+				<em>
+					The observatory looks high into the sky to see the bright stars, housing a collection of writeups on the stars.
+					In its records are an <a href='https://pinky-cat.github.io/writings.html'>assorted set of writings about fanfiction</a>, a <a href='https://pinky-cat.github.io/indexes.html'>collection of indexes about other worlds</a>, and <a href='https://pinky-cat.github.io/findings.html'>a pile of research on the development of a horror game</a>.
+				</em>
+			</p>
+		</div>
+		<div id='content-header' class='content-selector'>
 			<a class='title-background' href='/personal.html'>Personal</a>
 			<a class='title-background' href='/writings.html'>Writings</a>
 			<a class='title-background' href='/indexes.html'>Indexes</a>

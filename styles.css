@@ -142,13 +142,11 @@ img {
 	color: #FFFAE5;
 }
 .header {
-	width: 100%;
-	background-color: #13111299;
-}
-.header {
 	display: flex;
 	justify-content: space-around;
 	flex-wrap: wrap;
+	width: 100%;
+	background-color: #13111299;
 }
 .header a {
 	font-size: 1.2rem;
@@ -220,29 +218,6 @@ main {
 	padding: 2rem 0rem 0rem 0rem;
 }
 
-/* index.html classes*/
-.index-title {
-	letter-spacing: 0.04rem;
-	font-size: 1.9rem;
-}
-.index-about {
-	max-width: 50%;
-	margin: 0 auto;
-	padding: 10vh 0vh 10vh 0vh;
-	text-align: center;
-}
-.index header {
-	padding: 20vh 0vh 10vh 0vh;
-}
-.flex-box-container-index {
-	max-height: 20vh;
-	padding: 20vh 0vh 10vh 0vh;
-	display: flex;
-	flex-direction: row;
-	flex-wrap: wrap;
-	justify-content: center;
-	align-items: center;
-}
 /* mobile classes */
 @media only screen and (max-width:750px) {
 	body {
