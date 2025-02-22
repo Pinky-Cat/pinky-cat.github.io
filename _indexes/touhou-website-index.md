@@ -2,10 +2,11 @@
 layout: touhou-website-index
 title:  'Touhou Website Index'
 description: 'Collection of links on Touhou content around the internet!'
+image: images/placeholder-light.png
 date: 2024-06-05
 update: 2024-12-28
-tags: Touhou
-permalink: 
+tags: touhou
+
 ---
 ## Foreword
 As an index extension to FlameSniper's [Awesome Touhou](https://github.com/FlameSniper/awesome-touhou) and to the wishes expressed in [The Independent Web of 2hu - A Dream of Eastern Turnpikes](https://www.tekitou.moe/posts/2023-04-18-tuhupike.html), this index will catalog any parts of the web containing noteworthy Touhou content to act as a historical record.

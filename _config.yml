@@ -6,6 +6,13 @@
 destination         : ./_site
 permalink: /:title:output_ext
 
+
+collections:
+    findings:
+        output: true
+    indexes:
+        output: true
+
 # Markdown
 markdown: kramdown
 encoding: UTF-8

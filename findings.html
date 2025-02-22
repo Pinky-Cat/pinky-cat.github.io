@@ -1,3 +1,5 @@
+---
+---
 <!DOCTYPE html>
 <html lang='en'>
 <head>
@@ -34,20 +36,25 @@
             <div class='title-container'>
                 <h1 class='title'>Findings</h1>
             </div>
-            <p class='intro'><em>On topics with little data, research should be conducted in those areas.</em></p>
+
             <div class='flex-box-container'>
-                <a href='findings/3rd-eye-research.html' class='box'>
+                {% for item in site.findings %}
+
+                <a href='{{ item.url }}' class='box'>
                     <div class='box-title'>
-                        <h3 class='box-title'>3rd Eye Research</h3>
+                        <h3 class='box-title'>{{ item.title }}</h3>
                     </div>
-                    <img src='images/3rd-eye.png' class='box-image'>
-                    <p class='box-text'>Research on the development team behind 3rd Eye and a transcript for the true ending.</p>
+                    <img src='{{ item.image }}' class='box-image'>
+                    <p class='box-text'>{{ item.description }}</p>
                 </a>
+
+                {% endfor %}
             </div>
-                <div class='footer'>
-                    <p class='footer'><a href='#content-header'>Back to Top</a></p>
-                </div>
-            </main>
+</div>
+            <div class='footer'>
+                <p class='footer'><a href='#content-header'>Back to Top</a></p>
+            </div>
+        </main>
         </div>
 </body>
     </html>

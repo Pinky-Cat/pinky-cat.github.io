@@ -2,6 +2,7 @@
 layout: touhou-website-index
 title:  'Interesting Websites'
 description: 'A list of websites picked for their unique content.'
+image: images/bucket.png
 date: 2023-05-17
 update: 2024-12-08
 tags:
