@@ -112,6 +112,11 @@ img {
 	margin: auto;
 	max-width: 100%;
 }
+details {
+	margin-block-start: 1rem;
+	margin-block-end: 1rem;
+	line-height: 1.6rem;
+}
 
 /* main classes */
 .website-title {
