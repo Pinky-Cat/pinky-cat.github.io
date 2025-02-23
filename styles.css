@@ -111,6 +111,8 @@ img {
 	display: block;
 	margin: auto;
 	max-width: 100%;
+	margin-block-start: 2rem;
+	margin-block-end: 2rem;
 }
 details {
 	margin-block-start: 1rem;
