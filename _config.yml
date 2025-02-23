@@ -17,7 +17,7 @@ collections:
     indexes-extras:
         output: true
         permalink: /indexes/:title
-        sort_by: title
+        sort_by: date
 
 
 # Markdown

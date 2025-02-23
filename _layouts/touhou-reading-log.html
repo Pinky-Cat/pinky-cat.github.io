@@ -15,9 +15,8 @@
 	<meta property='og:description' content='{{ description }}'>
 	<meta property='og:type' content='article'>
 	<style>
-		td:last-of-type {
-			text-align: center;
-			width: 5%;
+		img {
+			max-height: 500px;
 		}
 	</style>
 </head>
@@ -40,7 +39,7 @@
 			<div class='title-container'>
 				<div class='title'>
 					<h1>{{ page.title }}</h1>
-					<p>Published: {{ page.date | date: "%Y-%m-%d" }} {% if page.update %} | Updated: {{ page.update | date: "%Y-%m-%d" }} {% endif %}</p>
+					<p>Review Written: {{ page.date | date: "%Y-%m-%d" }} {% if page.update %} | Updated: {{ page.update | date: "%Y-%m-%d" }} {% endif %}</p>
 				</div>
 			</div>
 			{{ content }}

@@ -1,8 +1,8 @@
 # Pinky Cat's Website
-In active development. Host my writings, link indexes, and internet research.
+A website to host my writings, indexes, and media research.
 
 ## Building
-Not meant for others, but as a guide for myself to commit.
+A guide for myself to commit.
 
 1. Do changes.
 2. Build with Jeykll.
