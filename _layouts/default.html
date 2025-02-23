@@ -2,7 +2,7 @@
 <html lang='en'>
 <head>
 	<meta charset='UTF-8'>
-	<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+	<meta name='viewport' content='width=device-width, initial-scale=1.0' />
 	<title>{{ page.title }} - Pinky's Observatory</title>
 	<link rel='preload' href='/fonts/IBMPlexSans-Regular.woff2' as='font' type='font/woff2' crossorigin>
 	<link rel='stylesheet' href='/styles.css'>
@@ -14,6 +14,12 @@
 	<meta property='description' content='{{ description }}'>
 	<meta property='og:description' content='{{ description }}'>
 	<meta property='og:type' content='article'>
+	<style>
+		td:last-of-type {
+			text-align: center;
+			width: 5%;
+		}
+	</style>
 </head>
 <body>
 	<div class='header-container'>
@@ -34,7 +40,7 @@
 			<div class='title-container'>
 				<div class='title'>
 					<h1>{{ page.title }}</h1>
-					<p>Published: {{ page.date | date_to_long_string: 'ordinal', 'US' }} &nbsp; {% if page.update %} Updated: {{ page.update | date_to_long_string: 'ordinal', 'US' }} {% endif %}</p>
+					<p>Published: {{ page.date | date: "%Y-%m-%d" }} {% if page.update %} | Updated: {{ page.update | date: "%Y-%m-%d" }} {% endif %}</p>
 				</div>
 			</div>
 			{{ content }}
@@ -43,5 +49,6 @@
 			</div>
 		</main>
 	</div>
+
 </body>
 </html>

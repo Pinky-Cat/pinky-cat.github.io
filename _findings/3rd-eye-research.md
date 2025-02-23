@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: default
 title: '3rd Eye Research'
 description: 'Research on the development team behind 3rd Eye and a transcript for the true ending.'
-image: images/placeholder.png
+image: images/3rd-eye.png
 date: 2024-01-23
 tags: touhou
-permalink: 3rd-eye-research
+permalink:
 ---
 
 **This report goes along with the descriptions under the videos of the [3rd Eye OST Playlist](https://www.youtube.com/playlist?list=PLnHsfVJM8tGoBKa3D9wGN9m2bJh9tTVSj). All translations are machine translations from DeepL**

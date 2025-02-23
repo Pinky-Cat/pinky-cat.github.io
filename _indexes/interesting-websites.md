@@ -1,5 +1,5 @@
 ---
-layout: touhou-website-index
+layout: default
 title:  'Interesting Websites'
 description: 'A list of websites picked for their unique content.'
 image: images/bucket.png

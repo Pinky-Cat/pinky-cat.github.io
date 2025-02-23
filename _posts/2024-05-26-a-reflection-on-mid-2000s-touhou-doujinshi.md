@@ -1,6 +1,6 @@
 ---
 
-layout: post
+layout: default
 title: 'A Reflection on Mid-2000s Touhou Doujinshi'
 date: 2024-05-26
 update: 2024-11-10

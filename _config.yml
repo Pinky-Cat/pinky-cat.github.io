@@ -4,14 +4,21 @@
 
 # Where things are
 destination         : ./_site
-permalink: /:title:output_ext
+permalink: /:title
 
 
 collections:
     findings:
         output: true
+        permalink: /:collection/:title
     indexes:
         output: true
+        permalink: /:collection/:title
+    indexes-extras:
+        output: true
+        permalink: /indexes/:title
+        sort_by: title
+
 
 # Markdown
 markdown: kramdown
@@ -26,6 +33,6 @@ defaults:
       path: ''
       type: posts
     values:
-     nothing:
+     permalink: /:title
  
 
