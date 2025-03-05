@@ -4,7 +4,7 @@ title:  'Interesting Websites'
 description: 'A list of websites picked for their unique content.'
 image: images/bucket.png
 date: 2023-05-17
-update: 2024-12-08
+update: 2025-03-05
 tags:
 permalink:
 ---
@@ -32,6 +32,7 @@ A gathering of websites with unique functions.
 - [Gilles’ Service](http://www.koyagi.com/index.html) - Information on Japanese culture with maps as a guide for travelers.
 - [Lost in Localization](https://lostinlocalization.com/) - Articles on the sources of Japanese works and their translations.
 - [Food Timeline](https://foodtimeline.org/index.html) - History and origins of food.
+- [The History of the Web](https://thehistoryoftheweb.com) - A timeline on web developments. 
 - [The Lost Media and Research Handbook](https://sites.google.com/view/lostmediahandbook/) - Introduction on lost media.
 
 # [Research](#table-of-contents)
@@ -73,12 +74,13 @@ A gathering of websites with unique functions.
 
 - [Ad Block Test](https://d3ward.github.io/toolz/adblock.html) - A selected list of ad domain hosts to check if they are blocked.
 - [Easings Functions](https://easings.net/) - Displays the movements of easing functions.
-- [GG Deals](https://gg.deals/) - Lists active sales from any marketplace for games.
+- [jisho](https://jisho.org/#handwriting) - Japanese Dictionary with handwriting.
 - [Keyboard Tester](https://keyboardtester.io/tester/) - Shows the inputs a keyboard can do.
 - [Litterbox](https://litterbox.catbox.moe/) - Temporary file host.
 - [Manga Translator](https://cotrans.touhou.ai/) - Input image to get a translation out.
+- [Markdown to HTML](https://markdowntohtml.com/) - Should figure out pandocs.
 - [YouTube Transcript](https://youtubetranscript.com) - Puts subtitles as readable script for Youtube videos.
-- [jisho](https://jisho.org/#handwriting) - Japanese Dictionary with handwriting.
+- [zoterobib](https://zbib.org) - A ad-free online source generator
 
 # [Arts](#table-of-contents)
 
