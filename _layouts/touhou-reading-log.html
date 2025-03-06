@@ -43,9 +43,38 @@
 				</div>
 			</div>
 			{{ content }}
-			<div class='footer'>
-				<p class='footer'><a href='/indexes/touhou-reading-log'>Back to the Touhou Reading Log</a></p>
-			</div>
+		<div class='footer'>
+			{% assign touhou-reading-log = site.indexes-extras | where:"tags","touhou-reading-log-s1" %}
+			{% assign items = touhou-reading-log %}
+
+			{% if items.size > 1 %}
+
+				{% for item in items %}
+					{% if item.title == page.title %}
+						{% assign item_index = forloop.index %}
+					{% endif %}
+				{% endfor %}
+			
+
+				{% assign prev_index = item_index | minus: 1 %}
+				{% assign next_index = item_index | plus: 1 %}
+  
+				{% for item in items %}
+					{% unless prev_index == 0 %}
+						{% if forloop.index == prev_index %}
+							{% assign back = item %}
+						{% endif %}
+					{% endunless %}
+					{% unless forloop.last %}
+						{% if forloop.index == next_index %}
+							{% assign next = item %}
+						{% endif %}
+					{% endunless %}
+				{% endfor %}
+
+			{% endif %}
+			<p>{% if back != nil %}<a href='{{ back.url }}'><-- {{ back.title }}</a> | {% endif %}<a href='/indexes/touhou-reading-log'>Back to the Touhou Reading Log</a>{% if next != nil %} | <a href='{{ next.url }}'>{{ next.title }} --></a>{% endif %}</p>
+		</div>
 		</main>
 	</div>
 
