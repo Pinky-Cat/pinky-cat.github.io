@@ -73,7 +73,7 @@
 				{% endfor %}
 
 			{% endif %}
-			<p>{% if back != nil %}<a href='{{ back.url }}'><-- {{ back.title }}</a> | {% endif %}<a href='/indexes/touhou-reading-log'>Back to the Touhou Reading Log</a>{% if next != nil %} | <a href='{{ next.url }}'>{{ next.title }} --></a>{% endif %}</p>
+			<p>{% if back != nil %}<a href='{{ back.url }}'><-- Pervious Entry</a> | {% endif %}<a href='/indexes/touhou-reading-log'>Back to the Touhou Reading Log</a>{% if next != nil %} | <a href='{{ next.url }}'>Next Entry --></a>{% endif %}</p>
 		</div>
 		</main>
 	</div>
