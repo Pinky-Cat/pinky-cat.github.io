@@ -44,7 +44,9 @@
 			</div>
 			{{ content }}
 		<div class='footer'>
-			{% assign touhou-reading-log = site.indexes-extras | where:"tags","touhou-reading-log-s1" %}
+			{% assign page-tags = page.tags %}
+			{% assign touhou-reading-log-raw = site.indexes-extras | where:"type", "touhou-reading-log" %}
+			{% assign touhou-reading-log = touhou-reading-log-raw | where:"season", page.season %}
 			{% assign items = touhou-reading-log %}
 
 			{% if items.size > 1 %}
@@ -73,6 +75,7 @@
 				{% endfor %}
 
 			{% endif %}
+			
 			<p>{% if back != nil %}<a href='{{ back.url }}'><-- Pervious Entry</a> | {% endif %}<a href='/indexes/touhou-reading-log'>Back to the Touhou Reading Log</a>{% if next != nil %} | <a href='{{ next.url }}'>Next Entry --></a>{% endif %}</p>
 		</div>
 		</main>

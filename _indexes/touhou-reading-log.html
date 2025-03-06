@@ -13,7 +13,8 @@ permalink:
 <h2>Season 1 (November 2024)</h2>
 <p>My first forway with the reading log started on the Moriya Shrine forum during November 2024, under the thread <a href="https://moriyashrine.org/forums/topic/7559-touhou-reading-log/">Touhou Reading Log</a>, where I try to read and write about a piece of Touhou literature for each day of November. Writing daily was inspired by the NaNoWriMo challenge and acted as an excuse to start reading my massive backlog of Touhou literature I have compiled for the past year.</p>
 <ol>
-    {% assign touhou-reading-log = site.indexes-extras | where:"tags","touhou-reading-log-s1" %}
+    {% assign touhou-reading-log-raw = site.indexes-extras | where:"type", "touhou-reading-log" %}
+    {% assign touhou-reading-log = touhou-reading-log-raw | where:"season", 1 %}
     {% for item in touhou-reading-log %}
     <li>
         <a href='{{item.url}}'>{{item.title}}</a>
@@ -24,7 +25,8 @@ permalink:
 <h2>Season 2 (2025)</h2>
 <p>Before I continued to do more reviews, I decided to check out other people's reviews of Touhou fanworks to have a better understanding of the amount of work to show in a review. Of course, I was also reading their analysis of the fanworks to see a different viewpoint on Touhou.</p>
 <ol>
-    {% assign touhou-reading-log = site.indexes-extras | where:"tags","touhou-reading-log-s2" %}
+    {% assign touhou-reading-log-raw = site.indexes-extras | where:"type", "touhou-reading-log" %}
+    {% assign touhou-reading-log = touhou-reading-log-raw | where:"season", 2 %}
     {% for item in touhou-reading-log %}
     <li>
         <a href='{{item.url}}'>{{item.title}}</a>
