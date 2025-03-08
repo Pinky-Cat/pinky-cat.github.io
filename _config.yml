@@ -3,7 +3,7 @@
 # - jemoji
 
 # Where things are
-destination         : ./_site
+destination: ./_site
 permalink: /:title
 
 
