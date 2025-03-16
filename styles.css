@@ -204,7 +204,8 @@ main {
 	box-sizing: border-box;
 	text-align: center;
 	background-color: #43495AAA;
-	overflow: hidden
+	overflow: hidden;
+	
 }
 .box-image {
 	width: 200px;
@@ -213,8 +214,8 @@ main {
 	padding: 0rem 1rem;
 }
 .box-text {
-	color: #FFFAE5;
 	padding: 0rem 1rem;
+	color: #FFFAE5;
 }
 .footer {
 	text-align: center;
