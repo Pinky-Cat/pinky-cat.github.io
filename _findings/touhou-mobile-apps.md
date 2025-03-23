@@ -7,35 +7,35 @@ date: 2025-03-16
 tags: touhou
 permalink:
 ---
-There are four domains that Touhou mobile apps can fall under: Gacha, Collaboration, Derivative Games, and Indie/Doujin Game Development. This is to describe the differences in development styles for Touhou mobile and for what purpose these apps are created for. Depending on what one looks for in a Touhou mobile app, there may be traits in given by the domain that a Touhou app should not be, thus the need to categorize Touhou apps under domains.
+There are four domains that Touhou mobile apps can fall under: Gacha, Collaboration, Derivative Games, and Indie/Doujin Game Development. This is to describe the differences in development styles for Touhou apps and the purposes these apps are created for. Depending on what one looks for in a Touhou mobile app, there may be traits given by a domain that a Touhou app are undesirable, thus the need to categorize Touhou apps under domains.
 
 ## 1. Gacha
-These apps have to be semi-official Touhou works approved by Team Shanghai Alice (TSA) due to their monetization method. Also, these games are the most popular of Touhou apps because they have the development team has a big budget, allowing them to create high-quality art/music for the Touhou characters. These are the mobile Touhou apps that most people will talk about and acts as a bridge for Touhou for those who lack access to computers.
+These are Touhou apps created with approval by Team Shanghai Alice (TSA) for their use of monetization methods supported by elements of gacha games. Since these games can earn revenue monetize the game, the development team can afford the budget to create high-quality art/music for the game. It is thanks to this quality that it can serve as a gateway to Touhou for those on mobile devices.
 
 ![LostWord.webp](/images/findings/touhou-mobile-apps/LostWord.webp)
 
 ### Examples
 
 #### Active Games:
-- [Touhou LostWord](https://global.touhoulostword.com/)
-- [Gensou Eclipse](https://gensoueclipse.jp/)
-- [东方ArcadiaRecord](https://thwiki.cc/%E4%B8%9C%E6%96%B9ArcadiaRecord) – A illegal Touhou gacha game that breaks the rules of TSA. This game should not be played
+- [Touhou LostWord](https://global.touhoulostword.com/) - Released 2020, developed by Good Smile Company and Next Ninja.
+- [Gensou Eclipse](https://gensoueclipse.jp/) - Released 2023, developed by CAVE.
 
 #### Dead Games:
-- [Touhou Cannonball](https://en.touhouwiki.net/wiki/Touhou_Cannonball)
-- [Touhou Danmaku Kagura](https://en.touhouwiki.net/wiki/Touhou_Danmaku_Kagura)
-- [Touhou Dungeon Dive](https://www.youtube.com/watch?v=1V0pFXF2RCQ)
+- [Touhou Cannonball](https://en.touhouwiki.net/wiki/Touhou_Cannonball) - Active from 2019 - 2020, developed by Aniplex.
+- [Touhou Danmaku Kagura](https://en.touhouwiki.net/wiki/Touhou_Danmaku_Kagura) - Active from 2021 - 2022, developed by Unknown X whose organization included AQUASTYLE, DeNA, and xeen. This game would be later remade as Touhou Danmaku Kagura Phantasia Lost.
+- [Touhou Dungeon Dive](https://www.youtube.com/watch?v=1V0pFXF2RCQ) - Active from 2020 - 2024, developed by STAR FACTORY and SEVEN VOLT.
 
 
 
 ## 2. Collaboration
-Mobile collaborations of Touhou are technically not a form of a Touhou app, but any mention of Touhou on mobile is rare, so these collaborations shall be mentioned. Most of these collaborations are rhythm games thanks to their licensing of Touhou music, but there is one notable exception to the rhythm game Touhou collabs.
-That is the mobile version of Dandy Dungeon, a collab that could only happen thanks to the development team of Onion Games being friends with ZUN. This collab was run on November 2016 for Japan, and November 2017 for everywhere else.
+Mobile collaborations of Touhou are technically not a form of a Touhou app, but any mention of Touhou on mobile is rare, so these collaborations shall be mentioned. Most of these collaborations are rhythm games thanks to their licensing of Touhou music, but there are two notable exceptions to the rhythm game Touhou collabs.
+They would be Dandy Dungeon and Rakugaki Kingdom, who both got the collab due to the development team's close connections with ZUN. 	
 
 ![LostWord.webp](/images/findings/touhou-mobile-apps/DandyDungeon.webp)
 
 ### Examples
-- [Dandy Dungeon](https://www.youtube.com/watch?v=oj1lduPTVSY) – A roguelike RPG game that has a release on Steam/Switch. The Touhou collab was brought over to its Steam/Switch version, so this odd collab is still playable today.
+- [Dandy Dungeon](https://www.youtube.com/watch?v=oj1lduPTVSY) – A roguelike RPG game developed by Onion Games. It has since been rereleased on [Steam/Switch](https://www.dandydungeon.com/)with the Touhou collab brought over to the Steam/Switch version, so this odd collab is still playable today. For the original mobile version, the collab was ran from November 2016.
+- [Rakugaki Kingdom](https://youtu.be/Q7BnfKVqkmE?si=1ERcziA8q84xu7xK) - A RPG gacha game that features a character creator based on Taito's Graffiti Kingdom, though the game was only active during 2021. During the launch of the game, a Reimu model was given out to all players. Then, from April 2021, a full Touhou collab was ran.
 - [Muse Dash](https://www.youtube.com/watch?v=cqirNxKq6Oc)
 - [Taiko no Tatsujin Pop Tap Beat](https://taikotime.blogspot.com/2023/09/taiko-no-tatsujin-pop-tap-beat-version.html)
 - [Rhythmically Danmaku: Gensokyo's (un)Official Guide to Music Games](https://www.reddit.com/r/touhou/comments/6bwy5i/rhythmically_danmaku_gensokyos_unofficial_guide/) - A 2018 Reddit post about where else can Touhou be found on rhythm games.
@@ -46,7 +46,7 @@ Derivative Games refer to games that are based on another game, usually being a 
 ![LostWord.webp](/images/findings/touhou-mobile-apps/TouhouPixelDungeon.webp)
 
 ### Examples
-- [Touhou Pixel Dungeon: Reloaded](https://play.google.com/store/apps/details?id=com.touhoupixel.touhoupixeldungeonreloaded&hl=en-US) – Based on Shattered Pixel Dungeon
+- [Touhou Pixel Dungeon: Reloaded](https://play.google.com/store/apps/details?id=com.touhoupixel.touhoupixeldungeonreloaded&hl=en-US) – Based on Shattered Pixel Dungeon.
 - [Sweeper Of Suika](https://x.com/satoritan_net) – Based on Soukoban. This app can no longer be found on the app store, [but the apk has been archived on IA](https://archive.org/details/sweeper-of-suika).
 - [Touhou ThousandNightAnamnesis](https://play.google.com/store/apps/details?id=com.knead.TouhouTNA02) – A mobile attempt at the Touhou danmaku games.
 
@@ -69,6 +69,7 @@ Note, that not all apps are on the app store. Some of them are only on [Itch.io]
 #### Artistic Doujin Creations
 - [幻想酒宴](https://archive.org/details/soukyu-net) – A Touhou art collab for C79.
 - [KagekiApp](https://archive.org/details/soukyu-net) – A Touhou art collab for a Yuuka-themed Touhou event.
+- [幻想紅魔画報+α ScarletFiles#2.5](https://x.com/Hentaikoku/status/1256180042616287233/photo/1) - A collection of Live2D animated art of Remilia Scarlet and Flandre Scarlet.
 
 #### Old Apps
 - [ISY’s Android Apps](https://archive.org/details/isy-android-archive) – From 2013 – 2021, ISY created quite a lot of Touhou apps for Android. Despite these apps being Japanese only, his sense of humor that one may recognize coming off of a game like [雛ちゃんブレイカー2ndBreak](https://store.steampowered.com/app/2089490/2ndBreak/) can still be felt in these mobile apps.
@@ -76,4 +77,6 @@ Note, that not all apps are on the app store. Some of them are only on [Itch.io]
 - [-東方- 霊夢無双・弐](https://archive.org/details/capote-android-archive) – A quickdraw game featuring the PCB cast. It tries to mess with the player’s ability to tap the targets by using the character’s abilities on the target.
 
 #### Lost Apps
-- [東方知霊奏](https://moriyashrine.org/community/threads/touhou-lost-media.1319/post-7317) – A Touhou parody of [QMA](https://p.eagate.573.jp/game/qma/18/top/index.html), a fast-paced multiplayer quiz show game. There was once an iOS port of 東方知霊奏 being developed and tested. It was never on the official app store as far as I can tell.
+- [東方知霊奏](https://moriyashrine.org/community/threads/touhou-lost-media.1319/post-7317) – A Touhou parody of [QMA](https://p.eagate.573.jp/game/qma/18/top/index.html), a fast-paced multiplayer quiz show game. There was once an iOS port of 東方知霊奏 being developed and tested, but was never on the official app store as far as I can tell.
+
+Overall, there are a lot more to Touhou mobile apps than just gacha games and is frankly an untouched space for Touhou to spread into. The development of indie Touhou apps as few and obscure as they are, show the potential of high quality Touhou apps, offering the Touhou experience on a device that everyone has, the mobile phone.
