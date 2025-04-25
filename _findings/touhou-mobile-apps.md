@@ -18,6 +18,7 @@ These are Touhou apps created with approval by Team Shanghai Alice (TSA) for the
 
 #### Active Games:
 - [Touhou LostWord](https://global.touhoulostword.com/) - Released 2020, developed by Good Smile Company and Next Ninja.
+- [东方ArcadiaRecord](https://touhou-ar.damo.games/) - Released 2022, developed by KLab and DAMO GAMES.
 - [Gensou Eclipse](https://gensoueclipse.jp/) - Released 2023, developed by CAVE.
 
 #### Dead Games:
@@ -34,7 +35,7 @@ They would be Dandy Dungeon and Rakugaki Kingdom, who both got the collab due to
 ![LostWord.webp](/images/findings/touhou-mobile-apps/DandyDungeon.webp)
 
 ### Examples
-- [Dandy Dungeon](https://www.youtube.com/watch?v=oj1lduPTVSY) – A roguelike RPG game developed by Onion Games. It has since been rereleased on [Steam/Switch](https://www.dandydungeon.com/)with the Touhou collab brought over to the Steam/Switch version, so this odd collab is still playable today. For the original mobile version, the collab was ran from November 2016.
+- [Dandy Dungeon](https://www.youtube.com/watch?v=oj1lduPTVSY) – A roguelike RPG game developed by Onion Games. It has since been rereleased on [Steam/Switch](https://www.dandydungeon.com/) with the Touhou collab brought over to the Steam/Switch version, so this odd collab is still playable today. For the original mobile version, the collab was ran from November 2016.
 - [Rakugaki Kingdom](https://youtu.be/Q7BnfKVqkmE?si=1ERcziA8q84xu7xK) - A RPG gacha game that features a character creator based on Taito's Graffiti Kingdom, though the game was only active during 2021. During the launch of the game, a Reimu model was given out to all players. Then, from April 2021, a full Touhou collab was ran.
 - [Muse Dash](https://www.youtube.com/watch?v=cqirNxKq6Oc)
 - [Taiko no Tatsujin Pop Tap Beat](https://taikotime.blogspot.com/2023/09/taiko-no-tatsujin-pop-tap-beat-version.html)
@@ -77,6 +78,6 @@ Note, that not all apps are on the app store. Some of them are only on [Itch.io]
 - [-東方- 霊夢無双・弐](https://archive.org/details/capote-android-archive) – A quickdraw game featuring the PCB cast. It tries to mess with the player’s ability to tap the targets by using the character’s abilities on the target.
 
 #### Lost Apps
-- [東方知霊奏](https://moriyashrine.org/community/threads/touhou-lost-media.1319/post-7317) – A Touhou parody of [QMA](https://p.eagate.573.jp/game/qma/18/top/index.html), a fast-paced multiplayer quiz show game. There was once an iOS port of 東方知霊奏 being developed and tested, but was never on the official app store as far as I can tell.
+- [東方知霊奏](https://moriyashrine.org/community/threads/touhou-lost-media.1319/post-7317) – A Touhou parody of [QMA](https://p.eagate.573.jp/game/qma/18/top/index.html), a fast-paced multiplayer quiz show game. There was once an iOS port of 東方知霊奏 being developed and tested, but was never published on the official app store.
 
 Overall, there are a lot more to Touhou mobile apps than just gacha games and is frankly an untouched space for Touhou to spread into. The development of indie Touhou apps as few and obscure as they are, show the potential of high quality Touhou apps, offering the Touhou experience on a device that everyone has, the mobile phone.
