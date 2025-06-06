@@ -4,12 +4,11 @@ title:  'Touhou Website Index'
 description: 'Collection of links on Touhou content from around the internet!'
 image: images/placeholder-light.png
 date: 2024-06-05
-update: 2025-03-07
+update: 2025-06-06
 tags: touhou
-
 ---
 ## Foreword
-As an index extension to Flame Sniper's [Awesome Touhou](https://github.com/FlameSniper/awesome-touhou) and to the wishes expressed in [The Independent Web of 2hu - A Dream of Eastern Turnpikes](https://www.tekitou.moe/posts/2023-04-18-tuhupike.html), this index will catalog any parts of the web containing noteworthy Touhou content to act as a historical record and as a bridge between different subcommunities of Touhou.
+As an index extension to FlameSniper's [Awesome Touhou](https://github.com/FlameSniper/awesome-touhou) and to the wishes expressed in [The Independent Web of 2hu - A Dream of Eastern Turnpikes](https://www.tekitou.moe/posts/2023-04-18-tuhupike.html), this index will catalog any parts of the web containing noteworthy Touhou content to act as a historical record and as a bridge between different subcommunities of Touhou.
 Feel free to contact me for any additions, comments, or suggestions to this list under the contacts listed under my [Personal Page](https://pinky-cat.github.io/personal.html).
 
 ### Table of Contents
@@ -61,6 +60,7 @@ News, sources, discussions, and records on Touhou.
 | Name | Description | Language |
 | ---- | ----------- | -------- |
 | [Demobanker](https://thwiki.cc/%E7%94%A8%E6%88%B7Wiki:Demobanker) | An international user on THB Wiki. Interested in cataloging Touhou media that differ from the norm. | 🇬🇧 |
+| [Ewig Leere](https://ewigleere.net) | Posts about the mythology background of Touhou. | 🇯🇵 |
 | [Faiz Faults](https://afsafe.blogspot.com/)   | Malaysian blog with posts on the Malaysian Touhou scene via reviews on Comic Fiesta and Animangaki. Also many thoughtful writeups on music and art. | 🇬🇧 |
 | [Gensokyo Institute](https://gensokyoinstitute.wordpress.com/2014/10/20/a-coasean-solution-to-the-scarlet-devil-incident/) | 2014 - 2015 blog by an author who took Economics as their degree. | 🇬🇧 |
 | [GensoukyouDE](https://gensoukyou.de/) | A community blog for the German Touhou community. | 🇩🇪 |
@@ -89,11 +89,13 @@ News, sources, discussions, and records on Touhou.
 
 | Name | Description | Language |
 | ---- | ----------- | -------- |
-| [2ch Touhou Archive](http://blog.livedoor.jp/coleblog/) | Collection of Touhou posts from 2chan. | 🇯🇵 |
+| [2ch Touhou Archive](http://blog.livedoor.jp/coleblog/) | A summary site of Touhou posts from 2chan. | 🇯🇵 |
 | [Bunbunmaru Forums](https://www.tapatalk.com/groups/bunbunmaru/)  | Active from 2008 - 2019, the Bunbunmaru Forums served as one of the first Spanish-speaking Touhou forum. | 🇪🇸 |
 | [GensokyoVN](https://vntouhouff.forumvi.com/) | All forum links start with a broken domain. Replace the domain with vntouhouff.forumvi.com | 🇻🇳 |
 | [List of Forums](https://moriyashrine.org/community/threads/touhou-link-list.1078/) | A list of forums (and other websites) about Touhou from all around the world. | 🇬🇧 |
 | [Totally Touhou](https://totallytouhou.wordpress.com/)   | Active from 2017, where a few interviews were done on the podcast.<br>The Totally Touhou podcast is a podcast made by the Touhou Project Discord’s users for the Touhou Project Discord’s users.  | 🇬🇧 |
+| [幻想郷学講談](https://gensoukoudan.net) | A forum for analyzing and critiquing both canon Touhou and Touhou derivative works. | 🇯🇵 |
+| [東方おねえちゃんまとめ](http://blog.livedoor.jp/satorionechan-koishi/archives/cat_400536.html) | A summary site of Touhou posts from 2chan. | 🇯🇵 |
 
 ### Historical
 For groups that were once active in Touhou or records made long ago, these are where they are located..
@@ -101,7 +103,6 @@ For groups that were once active in Touhou or records made long ago, these are w
 | Name | Description | Language |
 | ---- | ----------- | -------- |
 | [AKYU'S Illusion Lab. east branch office](https://web.archive.org/web/20080503133642/http://toho.genso.info/) | 2008 Japanese website index for Touhou. Use the internet archive to travel to past updates. | 🇯🇵 |
-| [Edge of Perspective](https://web.archive.org/web/20160227213410/http://wiki.edgeofperspective.net/Edge_of_Perspective)   | Edge of Perspective is an IRC based Roleplay.  | 🇬🇧 |
 | [La Noche Ibuki](https://nocheibuki.blogspot.com/?m=1) | A Hispanic Touhou radio broadcast, but only articles detailing events around the broadcasts remain. | 🇪🇸 |
 | [Nuez de Chocolate](https://tunein.com/podcasts/Sports--Recreation-Podcasts/Nuez-de-Chocolate-p3267794/?topicId=242036149) | A podcast about Touhou, sometimes with interviews on Hispanic community members. Active until 2019. | 🇪🇸 |
 | [Pockethouse](https://web.archive.org/web/20080912150639/http://www.pockethouse.com/) | A website from 2000s Touhou Western fandom that hosted “Another Dream”. | 🇬🇧 |
@@ -109,7 +110,7 @@ For groups that were once active in Touhou or records made long ago, these are w
 | [Twilight Newspaper](https://twilightnewspaper.wordpress.com/)  | A Touhou news blog for English-speaking audiences. Active from 2019 - 2021.  | 🇬🇧 |
 | [ddiction](http://ddiction.org/index.html) | Inactive international circle created by KirbyM. | 🇬🇧 |
 | [seisakunoshiori](https://sshiori.blog.fc2.com/) | Created bookmark posts on new Touhou fan content and other newsworthy content every day. Basically a historical record on the Japanese Touhou community. Active from 2006 - 2019. | 🇯🇵 |
-| [リグル　ナイトバグ☆コミュの☆コミュデータまとめ](https://mixi.jp/view_bbs.pl?comm_id=123853&id=26527201) | Index of Touhou communities on mixi from 2009. This mixi community was also connected to the monthly web-published [月刊NIGHTBUG](https://web.archive.org/web/20100420015930/http://www8.plala.or.jp/denpa/indexdon.html), though the download links are on axfc. Please contact me if you able to download from axfc. | 🇯🇵 |
+| [リグル　ナイトバグ☆コミュの☆コミュデータまとめ](https://mixi.jp/view_bbs.pl?comm_id=123853&id=26527201) | Index of Touhou communities on mixi from 2009. This mixi community was also connected to the monthly web-published [月刊NIGHTBUG](https://web.archive.org/web/20100420015930/http://www8.plala.or.jp/denpa/indexdon.html). | 🇯🇵 |
 
 ### Interviews
 
@@ -135,7 +136,6 @@ For groups that were once active in Touhou or records made long ago, these are w
 
 | Name | Description | Language |
 | ---- | ----------- | -------- |
-| [Fans of the Touhou Project](https://fansofthetouhouproject.weebly.com/) | A student project website with a basic understanding on the factors that led to Touhou's popularity. | 🇬🇧 |
 | [Stock Image Origins](http://ohgosho.ehoh.net/) | Catalog of stock images ZUN used in his games. | 🇯🇵 |
 | [Unfinished Phastasm](http://theylivewesleep.blog.fc2.com) | Transcribes ZUN's drunk broadcasts. | 🇯🇵 |
 | [World,Touhou](https://www.bilibili.com/read/readlist/rl147496) | Covers overseas Touhou communities by looking various aspects of the community's culture. [Some articles have english translations](https://panzerabwehrkanone.wordpress.com/). | 🇨🇳 |
@@ -263,7 +263,6 @@ Anything that considers books or words as its main medium are included.
 | [Archive of Our Own](https://archiveofourown.org/users/UnmovingGreatLibrary/pseuds/UnmovingGreatLibrary/works?fandom_id=257095)| The most popular fanfiction website due to the freedoms it gives to authors. | 🇬🇧 |
 | [Coolier](https://coolier.net/sosowa/ssw_l/) | The oldest Touhou fanfiction website. | 🇯🇵 |
 | [Magic Archive Voile](https://web.archive.org/web/20190605220140/http://voile.gensokyo.org/1.html) | Forum board for translation discussions & doujinshi scans. Disappeared somewhere in 2019. | 🇬🇧 |
-| [SpaceBattles](https://forums.spacebattles.com/tags/touhou-project/) | Features crossovers and CYOA quests as well. | 🇬🇧 |
 | [Touhou Doujinshi Index](https://scarlet.nanoskript.dev/) | Indexes translations from Danbooru, Dynasty Reader, Mangadex, and E-hentai in one searchable list. | 🇬🇧 |
 | [fanfiction.net](https://m.fanfiction.net/game/Touhou-Project/?srt=1&t=0&g1=0&g2=0&r=10&lan=0&len=0&s=0&c1=0&c2=0&c3=0&c4=0&_g1=0&_c1=0&_c2=0) | Used to be the most popular fanfiction site until AO3 was publicly available online in 2009. | 🇬🇧 |
 
@@ -271,7 +270,7 @@ Anything that considers books or words as its main medium are included.
 
 | Name | Description | Language |
 | ---- | ----------- | -------- |
-| [Teruyo](https://mimicteruyo.neocities.org/) | Author of Touhou fanfic. | 🇬🇧 |
+| [Teruyo](https://mimicteruyo.neocities.org/) | An author of Touhou fanfic. | 🇬🇧 |
 | [usuallydead](https://web.archive.org/web/20080901074123/http://www.usuallydead.com/) | The late 2000s version of the website featured far more writing on Touhou. | 🇬🇧 |
 | [胡蝶の見果てぬ夢](https://web.archive.org/web/20170613032937/http://geocities.jp/edelfalter/) | [Keine's dialogues](https://web.archive.org/web/20170408235105/http://www.geocities.jp/edelfalter/recture/wordbn.htm) on Japanese literature with other Touhou characters. | 🇯🇵 |
 

@@ -4,7 +4,7 @@ title:  'Interesting Websites'
 description: 'A list of websites picked for their unique content.'
 image: images/bucket.png
 date: 2023-05-17
-update: 2025-03-05
+update: 2025-06-06
 tags:
 permalink:
 ---
@@ -46,7 +46,6 @@ A gathering of websites with unique functions.
 - [Library Search](https://librarytechnology.org/libraries/) - Lookup of PAC library systems from around the world.
 - [PullPush Reddit Search](https://search.pullpush.io/) - A Reddit search engine for posts and comments.
 - [Search Engine Index](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/) - Index of search engines.
-- [Tatsumoto](https://tatsumoto.neocities.org) - Japanese learning with a Linux/Libre tech focus.
 - [WorldCat](https://search.worldcat.org) - Lookups a book's location across libraries from around the world.
 - [Writer Write](https://www.writerswrite.com/) - Collections of resources for writing.
 - [href.cool](https://href.cool/) - Link Dictionary of niche digital subjects.
@@ -111,13 +110,14 @@ A gathering of websites with unique functions.
 
 # [Gaming](#table-of-contents)
 
-- [Arcadex Machina](https://arcadestrikerblog.wordpress.com/2020/08/01/full-interview-with-plustek/) - Interviews of members of game development. Love the little touches to the site's web design
+- [Arcadex Machina](https://arcadestrikerblog.wordpress.com/2020/08/01/full-interview-with-plustek/) - Interviews of members of game development. Love the little touches to the site's web design.
 - [Copetti Site](https://www.copetti.org/) - Technical writeups on game consoles.
 - [Emulation General Wiki](http://emulation.gametechwiki.com/) - Resource for emulators.
 - [Gaming Hell](https://www.gaminghell.co.uk/) - Many articles on video games big or small.
 - [Indie Game Jams](indiegamejams.com) - A updating calendar on game jams.
 - [Indie Tsushin](https://indietsushin.net/index.html) - Japanese indie game articles.
 - [IndieCade](https://www.indiecade.com) - Award festival for indie games
+- [Keitai Wikj](https://keitaiwiki.com/wiki/KeitaiWiki) - A wiki on Keitai games, Japanese phone games.
 - [Lost Garden](https://lostgarden.home.blog) - Essay on game design with a focus on the gain/cost to the design process.
 - [Obscuritory](https://obscuritory.com/) - On the old PC games.
 - [PC Gaming Wiki](https://www.pcgamingwiki.com/) - Fixes and info for any game on PC.
@@ -140,15 +140,17 @@ A gathering of websites with unique functions.
 - [Bleak Scenes](https://www.bleakscenes.net/) - Abandoned places, lesser-known attractions, and assorted oddities.
 - [CAFE SCIENTIFIQUE](http://cafescientifique.org/) - Locations where science is discussed.
 - [Crazy Guy on a Bike](https://www.crazyguyonabike.com/?o=3d2) - Journals from bike riders.
+- [John Ellis Photography](https://www.goteamjosh.com) - Travel photography from Taiwan and Asia.
 
 # [Fan Sites](#table-of-contents)
 
 - [Dragonfly Cave](https://www.dragonflycave.com/) - A Pokémon fan's personal website
-- [Railfan Guides](https://www.railfanguides.us/) - Railfan
+- [Railfan Guides](https://www.railfanguides.us/) - For those interested in trains and railways.
 - [Taiko Time](https://taikotime.blogspot.com) - Taiko no Tatsujin fansite.
 
 # [Unsorted](#table-of-contents)
 
-- [Lifeprint ASL](https://www.lifeprint.com/index.htm) - Curriculum, videos, and dictionary for ASL.
-- [TessXi](https://tessxi.neocities.org/home) - A personal website with unique themes for its pages..
+- [Lifeprint ASL](https://www.lifeprint.com/index.htm) - Curriculum, videos, and dictionary for American Sign Language.
+- [TessXi](https://tessxi.neocities.org/home) - A personal website with unique themes for its pages.
 - [mimidoshima](https://mimidoshima.wordpress.com/directory/) - Articles on the niche parts of Japanese works.
+- [Old Photos of Japan](https://www.oldphotosjapan.com) - Articles featuring many photos on lesser known aspects of older periods of apan.
