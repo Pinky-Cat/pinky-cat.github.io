@@ -263,7 +263,7 @@ Anything that considers books or words as its main medium are included.
 | [Archive of Our Own](https://archiveofourown.org/users/UnmovingGreatLibrary/pseuds/UnmovingGreatLibrary/works?fandom_id=257095)| The most popular fanfiction website due to the freedoms it gives to authors. | 🇬🇧 |
 | [Coolier](https://coolier.net/sosowa/ssw_l/) | The oldest Touhou fanfiction website. | 🇯🇵 |
 | [Magic Archive Voile](https://web.archive.org/web/20190605220140/http://voile.gensokyo.org/1.html) | Forum board for translation discussions & doujinshi scans. Disappeared somewhere in 2019. | 🇬🇧 |
-| [Touhou Doujinshi Index](https://scarlet.nanoskript.dev/) | Indexes translations from Danbooru, Dynasty Reader, Mangadex, and E-hentai in one searchable list. | 🇬🇧 |
+| [Touhou Doujinshi Index](https://scarlet.nsk.sh/) | Indexes translations from Danbooru, Dynasty Reader, Mangadex, and E-hentai in one searchable list. | 🇬🇧 |
 | [fanfiction.net](https://m.fanfiction.net/game/Touhou-Project/?srt=1&t=0&g1=0&g2=0&r=10&lan=0&len=0&s=0&c1=0&c2=0&c3=0&c4=0&_g1=0&_c1=0&_c2=0) | Used to be the most popular fanfiction site until AO3 was publicly available online in 2009. | 🇬🇧 |
 
 ### Written Works
